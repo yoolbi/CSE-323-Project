@@ -19,20 +19,24 @@
 ### Office Workers
 
 ## Problem
-During lunchtime, office workers often run out of time because there are so many people in nearby restaurants that they have to wait, and spend a lot of time looking for restaurants with seats left.
+1. Have you ever lived the lives of busy office workers? Lunchtime for numerous companies begins at noon every day. That means at least 500 and as many as thousands of office workers hang around the company for lunch. It is too harsh for office workers who are even tired to stand due to busy morning work to enter and exit various restaurants because there are no seats available. What if there is a solution that allows you to check the remaining seats in real-time and make reservations together?
+
+2. I've called several restaurants for a company dinner, but it's often a message of rejection that I can't. What if there is a system that informs you of the appropriate restaurant depending on the type of food and the number of people who eat when you need a get-together right away?
+
+In order to save the time and energy of busy and tired office workers, we thought of a real-time seat check and reservation web (or app).
 
 ## Existing Related Solutions
-
 1. APP 'Serving' (서빙) 
 
 2. App 'Catch Table' (캐치테이블)
 
 3. Naver Reservation
 
-They all can book restaurants. However, reservations are difficult in real-time on the same day, and it is currently impossible to check how many seats are left for each restaurant.
+However, what we want is to know how many seats are left in real time and whether we can eat right away or not. 
+Our solution will provide a more advanced solution that does not currently exist.
 
 ## Plan
 
-- In-person Interview: Yool Bi's sister and brother (both are office workers), Restaurant workers
-- Online forum: kakaotalk open chatting, instagram
+- In-person Interview: Yool Bi's sister and brother (both are office workers), Restaurant workers at Tripple Street (Seon Restaurant and Uncle in the Kitchen)
+- Online forum: kakaotalk open chatting (for office workers), instagram: upload at 'story', which everyone can see
 
