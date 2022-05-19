@@ -1,0 +1,75 @@
+.bubble-4 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 229px;
+  min-height: 101px;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.sushi-best-4 {
+  letter-spacing: 0;
+  margin-right: 3px;
+  margin-top: 22px;
+  min-height: 16px;
+  width: 84px;
+}
+
+.overlap-group7-27 {
+  align-self: center;
+  height: 36px;
+  margin-left: 7.29px;
+  margin-top: 4px;
+  position: relative;
+  width: 83px;
+}
+
+.seat-left-13 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 22px;
+  width: 39px;
+}
+
+.x10-3-4 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 83px;
+}
+
+.are-going-10 {
+  left: 47px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 23px;
+  width: 34px;
+}
+
+.ellipse-1-15 {
+  background-color: var(--persian-red);
+  border-radius: 9.5px/8.5px;
+  height: 17px;
+  margin-top: 24px;
+  width: 19px;
+}
+
+.bubble-4.bubble-5 {
+  left: 90px;
+}
+
+.bubble-4.bubble-6 {
+  background-image: url(/static/img/mode-comment@2x.png);
+  left: 0;
+  top: 96px;
+}
+
+.bubble-4.bubble-6 .ellipse-1-15 {
+  background-color: var(--apple);
+}
+

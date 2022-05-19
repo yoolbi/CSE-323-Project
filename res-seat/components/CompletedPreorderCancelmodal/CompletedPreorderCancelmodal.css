@@ -1,0 +1,239 @@
+.completed-preorder-cancelmodal {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.overlap-group8-5 {
+  height: 864px;
+  margin-left: -4px;
+  margin-top: -10px;
+  position: relative;
+  width: 524px;
+}
+
+.my-order-5 {
+  left: 24px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 44px;
+  width: 227px;
+}
+
+.close {
+  cursor: pointer;
+  height: 30px;
+  left: 345px;
+  position: absolute;
+  top: 55px;
+  width: 30px;
+}
+
+.line-2-3 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 99px;
+  width: 292px;
+}
+
+.line-3-1 {
+  height: 3px;
+  left: 92px;
+  position: absolute;
+  top: 615px;
+  width: 300px;
+}
+
+.free-icon-celebration-1517746-1-1 {
+  height: 204px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 126px;
+  width: 204px;
+}
+
+.successfully-completed-1 {
+  left: 51px;
+  letter-spacing: 0;
+  line-height: 55px;
+  position: absolute;
+  text-align: center;
+  top: 322px;
+  width: 295px;
+}
+
+.rectangle-23-4 {
+  background-color: var(--bg);
+  border-radius: 12px;
+  height: 150px;
+  left: 24px;
+  position: absolute;
+  top: 441px;
+  width: 350px;
+}
+
+.a-soup-shop-1216pm {
+  left: 7px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 458px;
+  width: 384px;
+}
+
+.overlap-group-62 {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 12px;
+  display: flex;
+  height: 40px;
+  left: 204px;
+  min-width: 180px;
+  position: absolute;
+  top: 803px;
+}
+
+.cancel-order-1,
+.write-review-1 {
+  letter-spacing: 0;
+  min-height: 31px;
+  text-align: center;
+  width: 180px;
+}
+
+.overlap-group1-20 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  border-radius: 12px;
+  display: flex;
+  height: 40px;
+  left: 15px;
+  min-width: 180px;
+  position: absolute;
+  top: 803px;
+}
+
+.overlap-group6-7 {
+  height: 150px;
+  left: 24px;
+  position: absolute;
+  top: 635px;
+  width: 500px;
+}
+
+.image-2-8 {
+  height: 89px;
+  left: 131px;
+  position: absolute;
+  top: 9px;
+  width: 89px;
+}
+
+.loaded-baked-potato-soup-recipe-3 {
+  height: 89px;
+  left: 243px;
+  position: absolute;
+  top: 8px;
+  width: 89px;
+}
+
+.overlap-group7-8 {
+  height: 250px;
+  left: 24px;
+  position: absolute;
+  top: 307px;
+  width: 350px;
+}
+
+.rectangle-26 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 220px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.rectangle-24 {
+  background-color: var(--bg);
+  border-radius: 10px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 350px;
+}
+
+.rectangle-27-20 {
+  background-color: var(--bg);
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 190px;
+  width: 350px;
+}
+
+.cancel-order-2 {
+  left: 36px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 78px;
+  width: 277px;
+}
+
+.icon-caution {
+  height: 40px;
+  left: 155px;
+  position: absolute;
+  top: 55px;
+  width: 40px;
+}
+
+.rectangle-23-5 {
+  background-color: var(--orange);
+  border-radius: 12px;
+  height: 35px;
+  left: 184px;
+  position: absolute;
+  top: 205px;
+  width: 156px;
+}
+
+.cancel-order-3 {
+  cursor: pointer;
+  left: 187px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 214px;
+  width: 150px;
+}
+
+.rectangle-27-21 {
+  background-color: var(--bg);
+  border-radius: 12px;
+  cursor: pointer;
+  height: 35px;
+  left: 9px;
+  position: absolute;
+  top: 205px;
+  width: 156px;
+}
+
+.back-to-mypage {
+  cursor: pointer;
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 214px;
+  width: 150px;
+}
+

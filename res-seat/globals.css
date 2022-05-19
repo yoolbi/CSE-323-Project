@@ -1,0 +1,58 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:100italic,400,600italic,700,300,500,600,800,100,800italic");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/626b7bc42d174564e2563dec.626b7bc6ad984fe50dbd8210.Ae8Rcml.rcp.png");
+
+@font-face {
+  font-family: "Apple SD Gothic Neo-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("static/fonts/AppleSDGothicNeoM.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AppleSDGothicNeoB00-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("static/fonts/AppleSDGothicNeoB.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AppleSDGothicNeoEB00-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("static/fonts/ASGN800.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-start {
+  align-self: flex-start;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.align-self-flex-center {
+  align-self: flex-center;
+}
+
+* {
+  box-sizing: border-box;
+}

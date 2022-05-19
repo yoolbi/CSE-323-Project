@@ -1,0 +1,97 @@
+.component-10-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 36px;
+  min-width: 361px;
+}
+
+.overlap-group3-43 {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 35px;
+  min-width: 85px;
+  padding: 7px 12px;
+}
+
+.nearest-2,
+.waiting-2 {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.overlap-group-115 {
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  height: 35px;
+  margin-left: 7px;
+  position: relative;
+  width: 85px;
+}
+
+.rectangle-32-7 {
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.rating-20 {
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 7px;
+}
+
+.icon-star-32 {
+  height: 19px;
+  left: 57px;
+  position: absolute;
+  top: 7px;
+  width: 21px;
+}
+
+.overlap-group1-55 {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 35px;
+  justify-content: flex-end;
+  margin-left: 7px;
+  min-width: 85px;
+  padding: 1px 13px;
+}
+
+.avalilable-seats-2 {
+  letter-spacing: 0;
+  min-height: 32px;
+  min-width: 58px;
+  text-align: center;
+}
+
+.overlap-group2-36 {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 35px;
+  justify-content: flex-end;
+  margin-left: 7px;
+  min-width: 85px;
+  padding: 7px 13px;
+}
+
+.rectangle-35-1 {
+  background-color: var(--orange);
+  border-radius: 15px;
+  cursor: pointer;
+  height: 35px;
+  margin-left: 5px;
+  width: 85px;
+}
+

@@ -1,0 +1,134 @@
+.component-10-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 36px;
+  left: 0;
+  min-width: 361px;
+  position: absolute;
+  top: 100px;
+}
+
+.overlap-group2-38 {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 35px;
+  min-width: 85px;
+  padding: 7px 12px;
+}
+
+.nearest-4,
+.waiting-5 {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.overlap-group-118 {
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  height: 35px;
+  margin-left: 7px;
+  position: relative;
+  width: 85px;
+}
+
+.rectangle-32-8 {
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.rating-22 {
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 7px;
+}
+
+.icon-star-34 {
+  height: 19px;
+  left: 57px;
+  position: absolute;
+  top: 7px;
+  width: 21px;
+}
+
+.overlap-group1-57 {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 35px;
+  justify-content: flex-end;
+  margin-left: 7px;
+  min-width: 85px;
+  padding: 1px 13px;
+}
+
+.avalilable-seats-4 {
+  letter-spacing: 0;
+  min-height: 32px;
+  min-width: 58px;
+  text-align: center;
+}
+
+.overlap-group3-45 {
+  align-items: flex-start;
+  background-color: var(--mist-gray);
+  border-radius: 15px;
+  display: flex;
+  height: 35px;
+  justify-content: flex-end;
+  margin-left: 7px;
+  min-width: 85px;
+  padding: 7px 13px;
+}
+
+.component-10-3.component-10-4,
+.component-10-3.component-10-6 {
+  left: unset;
+  position: unset;
+  top: unset;
+}
+
+.component-10-3.component-10-5 {
+  top: 103px;
+}
+
+.component-10-3.component-10-6 .overlap-group2-38,
+.component-10-3.component-10-7 .overlap-group2-38 {
+  align-items: center;
+  padding: 0 12px;
+}
+
+.component-10-3.component-10-6 .nearest-4,
+.component-10-3.component-10-7 .nearest-4 {
+  min-width: 60px;
+}
+
+.component-10-3.component-10-6 .rating-22,
+.component-10-3.component-10-7 .rating-22 {
+  top: 8px;
+}
+
+.component-10-3.component-10-6 .overlap-group1-57,
+.component-10-3.component-10-7 .overlap-group1-57 {
+  align-items: flex-end;
+}
+
+.component-10-3.component-10-6 .overlap-group3-45,
+.component-10-3.component-10-7 .overlap-group3-45 {
+  align-items: center;
+  padding: 0 13px;
+}
+
+.component-10-3.component-10-6 .waiting-5,
+.component-10-3.component-10-7 .waiting-5 {
+  min-width: 56px;
+}
+

@@ -1,0 +1,117 @@
+.component-20-19 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  display: flex;
+  height: 108px;
+  left: 5px;
+  min-width: 390px;
+  padding: 11px 11.8px;
+  position: absolute;
+  top: 404px;
+}
+
+.image-3-8 {
+  height: 85px;
+  object-fit: cover;
+  width: 81px;
+}
+
+.flex-col-50 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2.0px;
+  margin-left: 13px;
+  min-height: 78px;
+  width: 260px;
+}
+
+.a-soup-shop-33 {
+  letter-spacing: 0;
+  min-height: 24px;
+}
+
+.address-11 {
+  color: transparent;
+  font-weight: 500;
+  margin-top: 3px;
+  min-height: 24px;
+}
+
+.span0-31 {
+  color: var(--apple);
+  font-weight: 500;
+}
+
+.span1-76 {
+  letter-spacing: 0;
+}
+
+.overlap-group-89 {
+  height: 24px;
+  margin-top: 3px;
+  position: relative;
+  width: 260px;
+}
+
+.x250m-47-18-are-going-36 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.span1-77 {
+  color: var(--persian-red);
+  font-weight: 500;
+}
+
+.star-1-36 {
+  height: 22px;
+  left: 70px;
+  position: absolute;
+  top: 2px;
+  width: 23px;
+}
+
+.component-20-19.component-17-5,
+.component-20-19.component-18-6 {
+  cursor: pointer;
+  left: 0;
+  top: 0;
+}
+
+.component-20-19.component-17-5 .flex-col-50,
+.component-20-19.component-17-5 .overlap-group-89,
+.component-20-19.component-18-6 .flex-col-50,
+.component-20-19.component-18-6 .overlap-group-89,
+.component-20-19.component-18-7 .flex-col-50,
+.component-20-19.component-18-7 .overlap-group-89,
+.component-20-19.component-18-8 .flex-col-50,
+.component-20-19.component-18-8 .overlap-group-89,
+.component-20-19.component-18-9 .overlap-group-89 {
+  width: 263px;
+}
+
+.component-20-19.component-18-7,
+.component-20-19.component-18-9 {
+  left: 67px;
+  top: 153px;
+}
+
+.component-20-19.component-18-8 {
+  left: 67px;
+  top: 156px;
+}
+
+.component-20-19.component-18-9 .flex-col-50 {
+  margin-bottom: unset;
+  width: 263px;
+}
+
+.component-20-19.component-18-9 .star-1-36 {
+  left: 69px;
+  top: 1px;
+}
+

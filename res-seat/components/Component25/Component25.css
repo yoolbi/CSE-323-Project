@@ -1,0 +1,72 @@
+.component-25 {
+  align-items: flex-end;
+  display: flex;
+  height: 22px;
+  margin-left: 22.0px;
+  margin-top: 25px;
+  min-width: 310px;
+}
+
+.rectangle-4-1 {
+  background-color: var(--bg);
+  height: 20px;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  width: 21px;
+}
+
+.fried-kimchi-1 {
+  letter-spacing: 0;
+  margin-bottom: 1px;
+  margin-left: 14px;
+  min-height: 18px;
+  width: 97px;
+}
+
+.x100-won-2 {
+  align-self: flex-start;
+  color: var(--black);
+  font-weight: 500;
+  margin-left: 68px;
+  margin-top: -1px;
+  min-height: 22px;
+  width: 111px;
+}
+
+.span1-6 {
+  letter-spacing: 0;
+}
+
+.component-25.component-2,
+.component-25.component-2-4,
+.component-25.component-2-1,
+.component-25.component-2-1-1,
+.component-25.component-2-2,
+.component-25.component-2-2-1,
+.component-25.component-2-3,
+.component-25.component-2-3-1 {
+  margin-top: 29px;
+}
+
+.component-25.component-2-4 .fried-kimchi-1,
+.component-25.component-2 .fried-kimchi-1,
+.component-25.component-2-1-1 .fried-kimchi-1,
+.component-25.component-2-1 .fried-kimchi-1,
+.component-25.component-2-2-1 .fried-kimchi-1,
+.component-25.component-2-2 .fried-kimchi-1,
+.component-25.component-2-3-1 .fried-kimchi-1,
+.component-25.component-2-3 .fried-kimchi-1 {
+  width: 132px;
+}
+
+.component-25.component-2-4 .x100-won-2,
+.component-25.component-2-1-1 .x100-won-2,
+.component-25.component-2-2-1 .x100-won-2,
+.component-25.component-2-3-1 .x100-won-2,
+.component-25.component-2 .x100-won-2,
+.component-25.component-2-1 .x100-won-2,
+.component-25.component-2-2 .x100-won-2,
+.component-25.component-2-3 .x100-won-2 {
+  margin-left: 33px;
+}
+

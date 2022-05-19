@@ -1,0 +1,32 @@
+.rectangle-63 {
+  background-color: var(--white);
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 680px;
+  width: 390px;
+}
+
+.rectangle-63.rectangle-28,
+.rectangle-63.rectangle-28-1 {
+  background-color: var(--mist-gray-2);
+  height: 864px;
+  left: 4px;
+  top: 0;
+}
+
+.rectangle-63.component-23 {
+  background-color: var(--bg);
+  height: 13px;
+  left: unset;
+  margin-right: 15.0px;
+  margin-top: 4px;
+  position: unset;
+  top: unset;
+}
+
+.rectangle-63.rectangle-20 {
+  height: 353px;
+  top: 96px;
+}
+

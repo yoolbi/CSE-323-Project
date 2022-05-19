@@ -1,0 +1,222 @@
+.component-13 {
+  align-items: center;
+  background-color: var(--bg);
+  border-radius: 12px;
+  display: flex;
+  height: 100px;
+  justify-content: flex-end;
+  margin-left: 7.0px;
+  margin-top: 7px;
+  min-width: 350px;
+  padding: 6.2px 9px;
+}
+
+.overlap-group-33 {
+  height: 80px;
+  position: relative;
+  width: 81px;
+}
+
+.rectangle-27-9 {
+  background-color: var(--white);
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.image-8-7 {
+  height: 80px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.flex-col-17 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  min-height: 85px;
+  width: 206px;
+}
+
+.pumkin-soup {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 173px;
+}
+
+.flex-row-18 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 27px;
+  min-width: 206px;
+}
+
+.x15200-won {
+  align-self: center;
+  letter-spacing: 0;
+  margin-bottom: 1.81px;
+  min-height: 22px;
+  width: 101px;
+}
+
+.group-7-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 25px;
+  margin-left: 35px;
+  min-width: 25px;
+  padding: 3.5px;
+}
+
+.outline-1 {
+  height: 18px;
+  object-fit: cover;
+  width: 18px;
+}
+
+.overlap-group-34 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-left: 5px;
+  min-width: 40px;
+  padding: 0.0px 15.5px;
+}
+
+.number-8 {
+  letter-spacing: 0;
+  min-height: 19px;
+  width: 8px;
+}
+
+.flex-col-18 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 86px;
+  width: 25px;
+}
+
+.icon-close-1 {
+  height: 20px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.group-8 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 25px;
+  margin-top: 41px;
+  min-width: 25px;
+  padding: 3.5px;
+}
+
+.component-13.component-1-1,
+.component-13.component-1-2,
+.component-13.component-1-3,
+.component-13.component-1-4,
+.component-13.component-1-5,
+.component-13.component-1-6,
+.component-13.component-1-7,
+.component-13.component-1-8,
+.component-13.component-1-8-1,
+.component-13.component-15,
+.component-13.component-1-9,
+.component-13.component-1-9-1 {
+  left: 0;
+  margin-left: unset;
+  margin-top: unset;
+  position: absolute;
+  top: 0;
+}
+
+.component-13.component-13-7 .overlap-group-33,
+.component-13.component-13-8 .overlap-group-33,
+.component-13.component-13-9 .overlap-group-33,
+.component-13.component-13-10 .overlap-group-33,
+.component-13.component-1-8-1 .overlap-group-33,
+.component-13.component-1-8 .overlap-group-33,
+.component-13.component-14 .overlap-group-33,
+.component-13.component-14-1 .overlap-group-33,
+.component-13.component-15 .overlap-group-33,
+.component-13.component-1-9-1 .overlap-group-33,
+.component-13.component-1-9 .overlap-group-33 {
+  height: 82px;
+  margin-top: 2.0px;
+  width: 80px;
+}
+
+.component-13.component-13-7 .image-8-7,
+.component-13.component-13-8 .image-8-7,
+.component-13.component-13-9 .image-8-7,
+.component-13.component-13-10 .image-8-7,
+.component-13.component-1-8-1 .image-8-7,
+.component-13.component-1-8 .image-8-7,
+.component-13.component-14 .image-8-7,
+.component-13.component-14-1 .image-8-7,
+.component-13.component-15 .image-8-7,
+.component-13.component-1-9-1 .image-8-7,
+.component-13.component-1-9 .image-8-7 {
+  left: 0;
+  object-fit: unset;
+  top: 2px;
+}
+
+.component-13.component-13-7 .flex-col-17,
+.component-13.component-13-8 .flex-col-17,
+.component-13.component-1-8-1 .flex-col-17,
+.component-13.component-1-8 .flex-col-17,
+.component-13.component-14 .flex-col-17 {
+  margin-left: 11px;
+}
+
+.component-13.component-14,
+.component-13.component-14-1 {
+  margin-top: 8px;
+}
+
+.component-13.component-13-9 .flex-col-17,
+.component-13.component-13-10 .flex-col-17,
+.component-13.component-14-1 .flex-col-17,
+.component-13.component-15 .flex-col-17,
+.component-13.component-1-9-1 .flex-col-17,
+.component-13.component-1-9 .flex-col-17 {
+  margin-left: 11px;
+  min-height: 84px;
+}
+
+.component-13.component-13-9 .flex-row-18,
+.component-13.component-13-10 .flex-row-18,
+.component-13.component-14-1 .flex-row-18,
+.component-13.component-15 .flex-row-18,
+.component-13.component-1-9-1 .flex-row-18,
+.component-13.component-1-9 .flex-row-18 {
+  margin-top: 26px;
+}
+
+.component-13.component-13-9 .x15200-won,
+.component-13.component-13-10 .x15200-won,
+.component-13.component-14-1 .x15200-won,
+.component-13.component-15 .x15200-won,
+.component-13.component-1-9-1 .x15200-won,
+.component-13.component-1-9 .x15200-won {
+  margin-bottom: unset;
+  margin-top: 0.19px;
+}
+

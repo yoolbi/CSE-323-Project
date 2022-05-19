@@ -1,0 +1,104 @@
+.component,
+.component-1,
+.component-3,
+.component-4,
+.component-5,
+.component-6,
+.component-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 13px;
+  margin-top: 2px;
+  min-height: 146px;
+  width: 100px;
+}
+
+.image-container,
+.image-container-1,
+.image-container-2,
+.image-container-3,
+.image-container-4,
+.image-container-5,
+.image-container-6 {
+  background-color: var(--bg);
+  border-radius: 12px;
+  height: 100px;
+  position: relative;
+  width: 100px;
+}
+
+.image-2-1,
+.image-2-2,
+.image-2-3,
+.image-2-4,
+.image-2-5,
+.image-2-6,
+.image-2-7 {
+  height: 84px;
+  left: 5px;
+  position: absolute;
+  top: 8px;
+  width: 89px;
+}
+
+.image-8,
+.image-8-1,
+.image-8-2,
+.image-8-3,
+.image-8-4,
+.image-8-5,
+.image-8-6 {
+  height: 84px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 89px;
+}
+
+.overlap-group-24,
+.overlap-group-25,
+.overlap-group-26,
+.overlap-group-27,
+.overlap-group-28,
+.overlap-group-29,
+.overlap-group-30 {
+  height: 35px;
+  margin-left: -3px;
+  margin-top: 11px;
+  position: relative;
+  width: 103px;
+}
+
+.rectangle-27-2,
+.rectangle-27-3,
+.rectangle-27-4,
+.rectangle-27-5,
+.rectangle-27-6,
+.rectangle-27-7,
+.rectangle-27-8 {
+  background-color: var(--bg);
+  border-radius: 12px;
+  height: 35px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.pork-belly-6,
+.pork-belly-7,
+.pork-belly-8,
+.pork-belly-9,
+.pork-belly-10,
+.pork-belly-11,
+.pork-belly-12 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 103px;
+}
+
