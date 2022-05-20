@@ -1,0 +1,63 @@
+.group-10,
+.group-10-1,
+.group-10-2,
+.group-10-3,
+.group-10-4,
+.group-10-5,
+.group-10-6,
+.group-10-7,
+.group-10-8 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 6px;
+  min-width: 50px;
+}
+
+.overlap-group-48,
+.overlap-group-50,
+.overlap-group-52,
+.overlap-group-54,
+.overlap-group-55,
+.overlap-group-56,
+.overlap-group-57,
+.overlap-group-58,
+.overlap-group-59 {
+  height: 32px;
+  position: relative;
+  width: 48px;
+}
+
+.group-9,
+.group-9-1,
+.group-9-2,
+.group-9-3,
+.group-9-4,
+.group-9-5,
+.group-9-6,
+.group-9-7,
+.group-9-8 {
+  background-color: var(--bg);
+  border-radius: 5px;
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 48px;
+}
+
+.number-19,
+.number-20,
+.number-21,
+.number-22,
+.number-23,
+.number-24,
+.number-25,
+.number-26,
+.number-27 {
+  left: 18px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
