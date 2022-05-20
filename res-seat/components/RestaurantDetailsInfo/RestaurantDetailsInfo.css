@@ -1,0 +1,372 @@
+.restaurant-details-info {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  width: 390px;
+}
+
+.overlap-group4-30 {
+  height: 440px;
+  position: relative;
+  width: 390px;
+}
+
+.image-8-15 {
+  height: 316px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.search-21 {
+  display:none;
+  height: 26px;
+  left: 303px;
+  position: absolute;
+  top: 54px;
+  width: 27px;
+}
+
+.rectangle-38-5 {
+  height: 184px;
+  left: 23px;
+  position: absolute;
+  top: 256px;
+  width: 344px;
+}
+
+.are-going-5 {
+  left: 267px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 394px;
+  width: 91px;
+}
+
+.text-23 {
+  left: 130px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 302px;
+  width: 138px;
+}
+
+.seat-left-7 {
+  left: 197px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 316px;
+  width: 126px;
+}
+
+.line-1-12 {
+  height: 2px;
+  left: 63px;
+  position: absolute;
+  top: 302px;
+  width: 300px;
+}
+
+.hanam-bbq-17 {
+  left: 122px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 264px;
+  width: 168px;
+}
+
+.x180m-3 {
+  left: 52px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 394px;
+  width: 62px;
+}
+
+.line-4-5 {
+  height: 28px;
+  left: 106px;
+  position: absolute;
+  top: 394px;
+  width: 1px;
+}
+
+.line-5-12 {
+  height: 28px;
+  left: 222px;
+  position: absolute;
+  top: 394px;
+  width: 1px;
+}
+
+.text-24 {
+  left: 150px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 394px;
+  width: 68px;
+}
+
+.number-35 {
+  left: 232px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 392px;
+  width: 43px;
+}
+
+.icon-star-22 {
+  height: 29px;
+  left: 116px;
+  position: absolute;
+  top: 392px;
+  width: 30px;
+}
+
+.vector-130 {
+  cursor: pointer;
+  height: 25px;
+  left: 9px;
+  position: absolute;
+  top: 12px;
+  width: 36px;
+}
+
+.group-container-8 {
+  height: 360px;
+  margin-left: 8.5px;
+  margin-top: 32px;
+  position: relative;
+  width: 346px;
+}
+
+.overlap-group5-23 {
+  height: 360px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 344px;
+}
+
+.line-9-4 {
+  height: 44px;
+  left: 155px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.line-13-4 {
+  height: 1px;
+  left: 156px;
+  position: absolute;
+  top: 44px;
+  width: 179px;
+}
+
+.line-14-4 {
+  height: 266px;
+  left: 331px;
+  position: absolute;
+  top: 44px;
+  width: 2px;
+}
+
+.restaurant-information {
+  left: 37px;
+  letter-spacing: 0;
+  position: absolute;
+  text-decoration: underline;
+  top: 57px;
+  width: 278px;
+}
+
+.rectangle-99 {
+  background-color: var(--bg);
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 93px;
+  width: 332px;
+}
+
+.rectangle-100 {
+  background-color: var(--bg);
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 140px;
+  width: 332px;
+}
+
+.rectangle-101 {
+  background-color: var(--bg);
+  height: 62px;
+  left: 0;
+  position: absolute;
+  top: 202px;
+  width: 332px;
+}
+
+.call-032-123-1234 {
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 152px;
+  width: 200px;
+}
+
+.span2-6 {
+  text-decoration: underline;
+}
+
+.location-119-songdo {
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 207px;
+  width: 295px;
+}
+
+.line-container-3 {
+  height: 310px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.line-19-9 {
+  height: 44px;
+  left: 80px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.line-12-4 {
+  height: 266px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.line-18-1 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 80px;
+}
+
+.group-19-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  left: 0;
+  min-width: 78px;
+  position: absolute;
+  top: 5px;
+}
+
+.overlap-group-96 {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 10px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  min-width: 76px;
+  padding: 0 1px;
+}
+
+.menu-14 {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 68px;
+}
+
+.overlap-group1-43 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 10px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 90px;
+  min-width: 61px;
+  padding: 0 3px;
+  position: absolute;
+  top: 5px;
+}
+
+.info-5,
+.map-5 {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 48px;
+}
+
+.group-22-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  left: 272px;
+  min-width: 63px;
+  position: absolute;
+  top: 6px;
+}
+
+.overlap-group2-22 {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 10px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  min-width: 61px;
+  padding: 0 6px;
+}
+
+.group-21-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 34px;
+  left: 166px;
+  min-width: 95px;
+  position: absolute;
+  top: 4px;
+}
+
+.overlap-group3-28 {
+  height: 34px;
+  position: relative;
+  width: 93px;
+}
+
+.rectangle-39-5 {
+  background-color: var(--bg);
+  border-radius: 10px;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.review-8 {
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2px;
+  width: 84px;
+}
+
