@@ -1,0 +1,14 @@
+.group-20-7 {
+  display: flex;
+  height: 30px;
+  position: relative;
+  width: 181px;
+}
+
+.group-20-7.group-15-1,
+.group-20-7.group-15-2 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
