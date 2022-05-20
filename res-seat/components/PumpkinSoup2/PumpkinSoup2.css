@@ -1,0 +1,15 @@
+.info-tab {
+  display: flex;
+  height: 32px;
+  left: 20px;
+  position: absolute;
+  top: 99px;
+  width: 278px;
+}
+
+.pork-lib-4 {
+  flex: 1;
+  letter-spacing: 0;
+  width: 278px;
+}
+

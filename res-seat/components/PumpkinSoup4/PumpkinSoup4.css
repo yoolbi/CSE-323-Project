@@ -1,0 +1,16 @@
+.info-tab-1 {
+  cursor: pointer;
+  display: flex;
+  height: 189px;
+  left: 36px;
+  position: absolute;
+  top: 104px;
+  width: 272px;
+}
+
+.pumpkin-soup-12 {
+  flex: 1;
+  letter-spacing: 0;
+  width: 272px;
+}
+
