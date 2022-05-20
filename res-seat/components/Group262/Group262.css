@@ -1,0 +1,41 @@
+.group-25,
+.group-25-1,
+.group-25-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 4px;
+  min-width: 338px;
+}
+
+.overlap-group3-4,
+.overlap-group3-5,
+.overlap-group3-6 {
+  align-items: center;
+  background-color: var(--orange);
+  border-radius: 12px;
+  display: flex;
+  height: 46px;
+  justify-content: flex-end;
+  min-width: 334px;
+  padding: 2.8px 5px;
+}
+
+.add-to-cart-2,
+.add-to-cart-3,
+.add-to-cart-4 {
+  letter-spacing: 0;
+  min-height: 26px;
+  width: 150px;
+}
+
+.text-5,
+.text-17,
+.text-26 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 25px;
+  min-height: 20px;
+  width: 62px;
+}
+
