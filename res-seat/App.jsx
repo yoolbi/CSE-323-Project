@@ -56,7 +56,6 @@ import IPhone1313ProHaEunPark from "./components/IPhone1313ProHaEunPark";
 import IPhone1313ProSeoyoung11 from "./components/IPhone1313ProSeoyoung11";
 import IPhone1313ProSeoyoung5 from "./components/IPhone1313ProSeoyoung5";
 import IPhone13HomeSuhyunChun from "./components/IPhone13HomeSuhyunChun";
-import YoolBi from "./components/YoolBi";
 import IPhone1313ProSeoyoung9 from "./components/IPhone1313ProSeoyoung9";
 import IPhone1313ProHaEunPark2 from "./components/IPhone1313ProHaEunPark2";
 import IPhone1313ProSeoyoung8 from "./components/IPhone1313ProSeoyoung8";
@@ -65,16 +64,10 @@ import IPhone1313ProSeoyoung10 from "./components/IPhone1313ProSeoyoung10";
 import IPhone1313ProHaEunPark3 from "./components/IPhone1313ProHaEunPark3";
 import IPhone1313ProSeoyoung7 from "./components/IPhone1313ProSeoyoung7";
 import IPhone1313ProSeoyoung4 from "./components/IPhone1313ProSeoyoung4";
-import YoolBi2 from "./components/YoolBi2";
 import IPhone13HomeSuhyunChun2 from "./components/IPhone13HomeSuhyunChun2";
-import YoolBi3 from "./components/YoolBi3";
-import YoolBi4 from "./components/YoolBi4";
 import IPhone1313ProHaEunPark4 from "./components/IPhone1313ProHaEunPark4";
-import YoolBi1 from "./components/YoolBi1";
 import IPhone1313ProHaEunPark5 from "./components/IPhone1313ProHaEunPark5";
-import YoolBi5 from "./components/YoolBi5";
 import IPhone1313ProHaEunPark6 from "./components/IPhone1313ProHaEunPark6";
-import YoolBiDistance from "./components/YoolBiDistance";
 
 function App() {
   return (
@@ -245,9 +238,6 @@ function App() {
         <Route path="/iphone-13-home-suhyun-chun-2">
           <IPhone13HomeSuhyunChun {...iPhone13HomeSuhyunChunData} />
         </Route>
-        <Route path="/yool-bi-pilteo-gyeolgwa-eobseul-ddae">
-          <YoolBi {...yoolBiData} />
-        </Route>
         <Route path="/iphone-13-13-pro-seoyoung-9">
           <IPhone1313ProSeoyoung9 {...iPhone1313ProSeoyoung9Data} />
         </Route>
@@ -272,42 +262,17 @@ function App() {
         <Route path="/iphone-13-13-pro-seoyoung-4">
           <IPhone1313ProSeoyoung4 {...iPhone1313ProSeoyoung4Data} />
         </Route>
-        <Route path="/yool-bi-sangsepilteo">
-          <YoolBi2 {...yoolBi2Data} />
-        </Route>
         <Route path="/iphone-13-home-suhyun-chun">
           <IPhone13HomeSuhyunChun2 {...iPhone13HomeSuhyunChun2Data} />
-        </Route>
-        <Route path="/yool-bi">
-          <YoolBi3 {...yoolBi3Data} />
-        </Route>
-        <Route path="/yool-bi-">
-          <YoolBi4 {...yoolBi4Data} />
         </Route>
         <Route path="/iphone-13-13-pro-haeun-park3">
           <IPhone1313ProHaEunPark4 {...iPhone1313ProHaEunPark4Data} />
         </Route>
-        <Route path="/yool-bi-sangsepilteo-1">
-          <YoolBi1 {...yoolBi1Data} />
-        </Route>
         <Route path="/iphone-13-13-pro-ha-eun-park-4">
           <IPhone1313ProHaEunPark5 {...iPhone1313ProHaEunPark5Data} />
         </Route>
-        <Route path="/yool-bi-sigdang-mogrog">
-          <YoolBi5
-            aSoupShop1="A Soup Shop"
-            aSoupShop2="A Soup Shop"
-            my="My"
-            noResult="No Result"
-            filter="Filter"
-            component942Props={yoolBi5Data.component942Props}
-          />
-        </Route>
         <Route path="/iphone-13-13-pro-haeun-park4">
           <IPhone1313ProHaEunPark6 {...iPhone1313ProHaEunPark6Data} />
-        </Route>
-        <Route path="/yool-bi-sangsepilteo-distance">
-          <YoolBiDistance {...yoolBiDistanceData} />
         </Route>
       </Switch>
     </Router>

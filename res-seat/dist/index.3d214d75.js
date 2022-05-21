@@ -22757,8 +22757,6 @@ var _iphone1313ProSeoyoung5 = require("./components/IPhone1313ProSeoyoung5");
 var _iphone1313ProSeoyoung5Default = parcelHelpers.interopDefault(_iphone1313ProSeoyoung5);
 var _iphone13HomeSuhyunChun = require("./components/IPhone13HomeSuhyunChun");
 var _iphone13HomeSuhyunChunDefault = parcelHelpers.interopDefault(_iphone13HomeSuhyunChun);
-var _yoolBi = require("./components/YoolBi");
-var _yoolBiDefault = parcelHelpers.interopDefault(_yoolBi);
 var _iphone1313ProSeoyoung9 = require("./components/IPhone1313ProSeoyoung9");
 var _iphone1313ProSeoyoung9Default = parcelHelpers.interopDefault(_iphone1313ProSeoyoung9);
 var _iphone1313ProHaEunPark2 = require("./components/IPhone1313ProHaEunPark2");
@@ -22775,26 +22773,14 @@ var _iphone1313ProSeoyoung7 = require("./components/IPhone1313ProSeoyoung7");
 var _iphone1313ProSeoyoung7Default = parcelHelpers.interopDefault(_iphone1313ProSeoyoung7);
 var _iphone1313ProSeoyoung4 = require("./components/IPhone1313ProSeoyoung4");
 var _iphone1313ProSeoyoung4Default = parcelHelpers.interopDefault(_iphone1313ProSeoyoung4);
-var _yoolBi2 = require("./components/YoolBi2");
-var _yoolBi2Default = parcelHelpers.interopDefault(_yoolBi2);
 var _iphone13HomeSuhyunChun2 = require("./components/IPhone13HomeSuhyunChun2");
 var _iphone13HomeSuhyunChun2Default = parcelHelpers.interopDefault(_iphone13HomeSuhyunChun2);
-var _yoolBi3 = require("./components/YoolBi3");
-var _yoolBi3Default = parcelHelpers.interopDefault(_yoolBi3);
-var _yoolBi4 = require("./components/YoolBi4");
-var _yoolBi4Default = parcelHelpers.interopDefault(_yoolBi4);
 var _iphone1313ProHaEunPark4 = require("./components/IPhone1313ProHaEunPark4");
 var _iphone1313ProHaEunPark4Default = parcelHelpers.interopDefault(_iphone1313ProHaEunPark4);
-var _yoolBi1 = require("./components/YoolBi1");
-var _yoolBi1Default = parcelHelpers.interopDefault(_yoolBi1);
 var _iphone1313ProHaEunPark5 = require("./components/IPhone1313ProHaEunPark5");
 var _iphone1313ProHaEunPark5Default = parcelHelpers.interopDefault(_iphone1313ProHaEunPark5);
-var _yoolBi5 = require("./components/YoolBi5");
-var _yoolBi5Default = parcelHelpers.interopDefault(_yoolBi5);
 var _iphone1313ProHaEunPark6 = require("./components/IPhone1313ProHaEunPark6");
 var _iphone1313ProHaEunPark6Default = parcelHelpers.interopDefault(_iphone1313ProHaEunPark6);
-var _yoolBiDistance = require("./components/YoolBiDistance");
-var _yoolBiDistanceDefault = parcelHelpers.interopDefault(_yoolBiDistance);
 function App() {
     return /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.BrowserRouter, {
         children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Switch, {
@@ -22805,12 +22791,12 @@ function App() {
                         ...filterMainRatingData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 84,
+                        lineNumber: 77,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 83,
+                    lineNumber: 76,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22819,12 +22805,12 @@ function App() {
                         ...menuOrCart3Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 87,
+                        lineNumber: 80,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 86,
+                    lineNumber: 79,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22833,12 +22819,12 @@ function App() {
                         ...filterMainSeatsData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 90,
+                        lineNumber: 83,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 89,
+                    lineNumber: 82,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22847,12 +22833,12 @@ function App() {
                         ...restaurantDetailsMenu3Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 93,
+                        lineNumber: 86,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 92,
+                    lineNumber: 85,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22861,12 +22847,12 @@ function App() {
                         ...menuDetail3PorkLibSideData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 96,
+                        lineNumber: 89,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 95,
+                    lineNumber: 88,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22875,12 +22861,12 @@ function App() {
                         ...menuDetail3PorkLibData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 99,
+                        lineNumber: 92,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 98,
+                    lineNumber: 91,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22889,12 +22875,12 @@ function App() {
                         ...searchListData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 102,
+                        lineNumber: 95,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 101,
+                    lineNumber: 94,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22903,12 +22889,12 @@ function App() {
                         ...selectRestaurant1Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 105,
+                        lineNumber: 98,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 104,
+                    lineNumber: 97,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22917,12 +22903,12 @@ function App() {
                         ...restaurantDetailsMenu2Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 108,
+                        lineNumber: 101,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 107,
+                    lineNumber: 100,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22931,12 +22917,12 @@ function App() {
                         ...restaurantDetailsMenu1Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 111,
+                        lineNumber: 104,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 110,
+                    lineNumber: 103,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22945,12 +22931,12 @@ function App() {
                         ...completedPreorderHomeData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 114,
+                        lineNumber: 107,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 113,
+                    lineNumber: 106,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22959,12 +22945,12 @@ function App() {
                         ...shoppingCartHomeData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 117,
+                        lineNumber: 110,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 116,
+                    lineNumber: 109,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22973,12 +22959,12 @@ function App() {
                         ...shoppingCartPeople2Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 120,
+                        lineNumber: 113,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 119,
+                    lineNumber: 112,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -22987,12 +22973,12 @@ function App() {
                         ...menuOrCart2Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 123,
+                        lineNumber: 116,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 122,
+                    lineNumber: 115,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23001,12 +22987,12 @@ function App() {
                         ...completedPreorderCancelmodalData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 126,
+                        lineNumber: 119,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 125,
+                    lineNumber: 118,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23015,12 +23001,12 @@ function App() {
                         ...shoppingCartHomeSelectTimeData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 129,
+                        lineNumber: 122,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 128,
+                    lineNumber: 121,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23029,12 +23015,12 @@ function App() {
                         ...menuDetail2PorkNeckSideData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 132,
+                        lineNumber: 125,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 131,
+                    lineNumber: 124,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23043,12 +23029,12 @@ function App() {
                         ...mainData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 135,
+                        lineNumber: 128,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 134,
+                    lineNumber: 127,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23057,12 +23043,12 @@ function App() {
                         ...shoppingCartPeople1Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 138,
+                        lineNumber: 131,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 137,
+                    lineNumber: 130,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23071,12 +23057,12 @@ function App() {
                         ...shoppingCartHomeSelectTime5Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 141,
+                        lineNumber: 134,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 140,
+                    lineNumber: 133,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23085,12 +23071,12 @@ function App() {
                         ...shoppingCartHomeSelectTime10Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 144,
+                        lineNumber: 137,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 143,
+                    lineNumber: 136,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23099,12 +23085,12 @@ function App() {
                         ...completedPreorderWritereviewHomeData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 147,
+                        lineNumber: 140,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 146,
+                    lineNumber: 139,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23113,12 +23099,12 @@ function App() {
                         ...completedPreorderWritereview2Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 150,
+                        lineNumber: 143,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 149,
+                    lineNumber: 142,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23127,12 +23113,12 @@ function App() {
                         ...completedPreorderWritereview22Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 153,
+                        lineNumber: 146,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 152,
+                    lineNumber: 145,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23141,12 +23127,12 @@ function App() {
                         ...restaurantDetailsReviewData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 156,
+                        lineNumber: 149,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 155,
+                    lineNumber: 148,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23155,12 +23141,12 @@ function App() {
                         ...filterListRatingData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 159,
+                        lineNumber: 152,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 158,
+                    lineNumber: 151,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23169,12 +23155,12 @@ function App() {
                         ...menuDetail2PorkNeckData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 162,
+                        lineNumber: 155,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 161,
+                    lineNumber: 154,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23183,12 +23169,12 @@ function App() {
                         ...completedPreorderWritereview23Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 165,
+                        lineNumber: 158,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 164,
+                    lineNumber: 157,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23197,12 +23183,12 @@ function App() {
                         ...filterListCategory4Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 168,
+                        lineNumber: 161,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 167,
+                    lineNumber: 160,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23211,12 +23197,12 @@ function App() {
                         ...filterHalfCategory4Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 171,
+                        lineNumber: 164,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 170,
+                    lineNumber: 163,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23225,12 +23211,12 @@ function App() {
                         ...shoppingCartPeople4Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 174,
+                        lineNumber: 167,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 173,
+                    lineNumber: 166,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23239,12 +23225,12 @@ function App() {
                         ...menuOrCart1Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 177,
+                        lineNumber: 170,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 176,
+                    lineNumber: 169,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23253,12 +23239,12 @@ function App() {
                         ...filterHalfCategory3Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 180,
+                        lineNumber: 173,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 179,
+                    lineNumber: 172,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23267,12 +23253,12 @@ function App() {
                         ...searchMapData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 183,
+                        lineNumber: 176,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 182,
+                    lineNumber: 175,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23281,12 +23267,12 @@ function App() {
                         ...filterMainCategoryData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 186,
+                        lineNumber: 179,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 185,
+                    lineNumber: 178,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23295,12 +23281,12 @@ function App() {
                         ...filterListCategory1Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 189,
+                        lineNumber: 182,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 188,
+                    lineNumber: 181,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23309,12 +23295,12 @@ function App() {
                         ...filterListCategory3Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 192,
+                        lineNumber: 185,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 191,
+                    lineNumber: 184,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23323,12 +23309,12 @@ function App() {
                         ...filterHalfSeatsData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 195,
+                        lineNumber: 188,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 194,
+                    lineNumber: 187,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23337,12 +23323,12 @@ function App() {
                         ...filterHalfRatingData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 198,
+                        lineNumber: 191,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 197,
+                    lineNumber: 190,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23351,12 +23337,12 @@ function App() {
                         ...restaurantDetailsMapData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 201,
+                        lineNumber: 194,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 200,
+                    lineNumber: 193,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23365,12 +23351,12 @@ function App() {
                         ...listHalfData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 204,
+                        lineNumber: 197,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 203,
+                    lineNumber: 196,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23379,12 +23365,12 @@ function App() {
                         ...seeListData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 207,
+                        lineNumber: 200,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 206,
+                    lineNumber: 199,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23393,12 +23379,12 @@ function App() {
                         ...restaurantDetailsInfoData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 210,
+                        lineNumber: 203,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 209,
+                    lineNumber: 202,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23407,12 +23393,12 @@ function App() {
                         ...filterListSeatsData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 213,
+                        lineNumber: 206,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 212,
+                    lineNumber: 205,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23421,12 +23407,12 @@ function App() {
                         ...menuDetail1PorkBellySideAddData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 216,
+                        lineNumber: 209,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 215,
+                    lineNumber: 208,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23435,12 +23421,12 @@ function App() {
                         ...completedPreorderWritereview1Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 219,
+                        lineNumber: 212,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 218,
+                    lineNumber: 211,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23449,12 +23435,12 @@ function App() {
                         ...menuDetail1PorkBellyData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 222,
+                        lineNumber: 215,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 221,
+                    lineNumber: 214,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23463,12 +23449,12 @@ function App() {
                         ...filterHalfDistanceData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 225,
+                        lineNumber: 218,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 224,
+                    lineNumber: 217,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23477,12 +23463,12 @@ function App() {
                         ...filterHalfCategory2Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 228,
+                        lineNumber: 221,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 227,
+                    lineNumber: 220,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23491,12 +23477,12 @@ function App() {
                         ...selectRestaurant2Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 231,
+                        lineNumber: 224,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 230,
+                    lineNumber: 223,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23505,12 +23491,12 @@ function App() {
                         ...filterHalfCategory1Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 234,
+                        lineNumber: 227,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 233,
+                    lineNumber: 226,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23519,12 +23505,12 @@ function App() {
                         ...iPhone1313ProHaEunParkData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 237,
+                        lineNumber: 230,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 236,
+                    lineNumber: 229,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23533,12 +23519,12 @@ function App() {
                         ...iPhone1313ProSeoyoung11Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 240,
+                        lineNumber: 233,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 239,
+                    lineNumber: 232,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23547,12 +23533,12 @@ function App() {
                         ...iPhone1313ProSeoyoung5Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 243,
+                        lineNumber: 236,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 242,
+                    lineNumber: 235,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23561,26 +23547,12 @@ function App() {
                         ...iPhone13HomeSuhyunChunData
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 246,
+                        lineNumber: 239,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 245,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
-                    path: "/yool-bi-pilteo-gyeolgwa-eobseul-ddae",
-                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_yoolBiDefault.default, {
-                        ...yoolBiData
-                    }, void 0, false, {
-                        fileName: "App.jsx",
-                        lineNumber: 249,
-                        columnNumber: 11
-                    }, this)
-                }, void 0, false, {
-                    fileName: "App.jsx",
-                    lineNumber: 248,
+                    lineNumber: 238,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23589,12 +23561,12 @@ function App() {
                         ...iPhone1313ProSeoyoung9Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 252,
+                        lineNumber: 242,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 251,
+                    lineNumber: 241,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23603,12 +23575,12 @@ function App() {
                         ...iPhone1313ProHaEunPark2Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 255,
+                        lineNumber: 245,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 254,
+                    lineNumber: 244,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23617,12 +23589,12 @@ function App() {
                         ...iPhone1313ProSeoyoung8Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 258,
+                        lineNumber: 248,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 257,
+                    lineNumber: 247,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23631,12 +23603,12 @@ function App() {
                         ...iPhone1313ProSeoyoung6Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 261,
+                        lineNumber: 251,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 260,
+                    lineNumber: 250,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23645,12 +23617,12 @@ function App() {
                         ...iPhone1313ProSeoyoung10Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 264,
+                        lineNumber: 254,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 263,
+                    lineNumber: 253,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23659,12 +23631,12 @@ function App() {
                         ...iPhone1313ProHaEunPark3Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 267,
+                        lineNumber: 257,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 266,
+                    lineNumber: 256,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23673,12 +23645,12 @@ function App() {
                         ...iPhone1313ProSeoyoung7Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 270,
+                        lineNumber: 260,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 269,
+                    lineNumber: 259,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23687,26 +23659,12 @@ function App() {
                         ...iPhone1313ProSeoyoung4Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 273,
+                        lineNumber: 263,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 272,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
-                    path: "/yool-bi-sangsepilteo",
-                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_yoolBi2Default.default, {
-                        ...yoolBi2Data
-                    }, void 0, false, {
-                        fileName: "App.jsx",
-                        lineNumber: 276,
-                        columnNumber: 11
-                    }, this)
-                }, void 0, false, {
-                    fileName: "App.jsx",
-                    lineNumber: 275,
+                    lineNumber: 262,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23715,40 +23673,12 @@ function App() {
                         ...iPhone13HomeSuhyunChun2Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 279,
+                        lineNumber: 266,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 278,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
-                    path: "/yool-bi",
-                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_yoolBi3Default.default, {
-                        ...yoolBi3Data
-                    }, void 0, false, {
-                        fileName: "App.jsx",
-                        lineNumber: 282,
-                        columnNumber: 11
-                    }, this)
-                }, void 0, false, {
-                    fileName: "App.jsx",
-                    lineNumber: 281,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
-                    path: "/yool-bi-",
-                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_yoolBi4Default.default, {
-                        ...yoolBi4Data
-                    }, void 0, false, {
-                        fileName: "App.jsx",
-                        lineNumber: 285,
-                        columnNumber: 11
-                    }, this)
-                }, void 0, false, {
-                    fileName: "App.jsx",
-                    lineNumber: 284,
+                    lineNumber: 265,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23757,26 +23687,12 @@ function App() {
                         ...iPhone1313ProHaEunPark4Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 288,
+                        lineNumber: 269,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 287,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
-                    path: "/yool-bi-sangsepilteo-1",
-                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_yoolBi1Default.default, {
-                        ...yoolBi1Data
-                    }, void 0, false, {
-                        fileName: "App.jsx",
-                        lineNumber: 291,
-                        columnNumber: 11
-                    }, this)
-                }, void 0, false, {
-                    fileName: "App.jsx",
-                    lineNumber: 290,
+                    lineNumber: 268,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23785,31 +23701,12 @@ function App() {
                         ...iPhone1313ProHaEunPark5Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 294,
+                        lineNumber: 272,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 293,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
-                    path: "/yool-bi-sigdang-mogrog",
-                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_yoolBi5Default.default, {
-                        aSoupShop1: "A Soup Shop",
-                        aSoupShop2: "A Soup Shop",
-                        my: "My",
-                        noResult: "No Result",
-                        filter: "Filter",
-                        component942Props: yoolBi5Data.component942Props
-                    }, void 0, false, {
-                        fileName: "App.jsx",
-                        lineNumber: 297,
-                        columnNumber: 11
-                    }, this)
-                }, void 0, false, {
-                    fileName: "App.jsx",
-                    lineNumber: 296,
+                    lineNumber: 271,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
@@ -23818,37 +23715,23 @@ function App() {
                         ...iPhone1313ProHaEunPark6Data
                     }, void 0, false, {
                         fileName: "App.jsx",
-                        lineNumber: 307,
+                        lineNumber: 275,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 306,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Route, {
-                    path: "/yool-bi-sangsepilteo-distance",
-                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_yoolBiDistanceDefault.default, {
-                        ...yoolBiDistanceData
-                    }, void 0, false, {
-                        fileName: "App.jsx",
-                        lineNumber: 310,
-                        columnNumber: 11
-                    }, this)
-                }, void 0, false, {
-                    fileName: "App.jsx",
-                    lineNumber: 309,
+                    lineNumber: 274,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "App.jsx",
-            lineNumber: 82,
+            lineNumber: 75,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "App.jsx",
-        lineNumber: 81,
+        lineNumber: 74,
         columnNumber: 5
     }, this);
 }
@@ -24057,13 +23940,13 @@ const selectRestaurant1Data = {
             ": 10:00 AM",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 535,
+                lineNumber: 500,
                 columnNumber: 42
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 535,
+        lineNumber: 500,
         columnNumber: 16
     }, undefined),
     spanText5: "Close",
@@ -24072,13 +23955,13 @@ const selectRestaurant1Data = {
             ": 10:00 PM",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 537,
+                lineNumber: 502,
                 columnNumber: 42
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 537,
+        lineNumber: 502,
         columnNumber: 16
     }, undefined),
     spanText7: "Phone",
@@ -24194,14 +24077,14 @@ const completedPreorderHomeData = {
             "Successfully",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 656,
+                lineNumber: 621,
                 columnNumber: 56
             }, undefined),
             "Completed!"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 656,
+        lineNumber: 621,
         columnNumber: 28
     }, undefined),
     spanText1: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactDefault.default.Fragment, {
@@ -24209,13 +24092,13 @@ const completedPreorderHomeData = {
             "Hanam BBQ",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 657,
+                lineNumber: 622,
                 columnNumber: 41
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 657,
+        lineNumber: 622,
         columnNumber: 16
     }, undefined),
     spanText2: "12:16pm",
@@ -24224,13 +24107,13 @@ const completedPreorderHomeData = {
             " completed reservation",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 659,
+                lineNumber: 624,
                 columnNumber: 54
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 659,
+        lineNumber: 624,
         columnNumber: 16
     }, undefined),
     spanText4: "3",
@@ -24413,14 +24296,14 @@ const completedPreorderCancelmodalData = {
             "Successfully",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 857,
+                lineNumber: 822,
                 columnNumber: 56
             }, undefined),
             "Completed!"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 857,
+        lineNumber: 822,
         columnNumber: 28
     }, undefined),
     spanText1: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactDefault.default.Fragment, {
@@ -24428,13 +24311,13 @@ const completedPreorderCancelmodalData = {
             "A Soup Shop",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 858,
+                lineNumber: 823,
                 columnNumber: 43
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 858,
+        lineNumber: 823,
         columnNumber: 16
     }, undefined),
     spanText2: "12:16pm",
@@ -24443,13 +24326,13 @@ const completedPreorderCancelmodalData = {
             " completed reservation",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 860,
+                lineNumber: 825,
                 columnNumber: 54
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 860,
+        lineNumber: 825,
         columnNumber: 16
     }, undefined),
     spanText4: "4",
@@ -24462,12 +24345,12 @@ const completedPreorderCancelmodalData = {
     spanText6: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactDefault.default.Fragment, {
         children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
             fileName: "App.jsx",
-            lineNumber: 868,
+            lineNumber: 833,
             columnNumber: 32
         }, undefined)
     }, void 0, false, {
         fileName: "App.jsx",
-        lineNumber: 868,
+        lineNumber: 833,
         columnNumber: 16
     }, undefined),
     spanText7: "CANCEL ORDER?",
@@ -24768,14 +24651,14 @@ const completedPreorderWritereviewHomeData = {
             "Successfully",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 1199,
+                lineNumber: 1164,
                 columnNumber: 56
             }, undefined),
             "Completed!"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 1199,
+        lineNumber: 1164,
         columnNumber: 28
     }, undefined),
     spanText1: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactDefault.default.Fragment, {
@@ -24783,13 +24666,13 @@ const completedPreorderWritereviewHomeData = {
             "Hanam BBQ",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 1200,
+                lineNumber: 1165,
                 columnNumber: 41
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 1200,
+        lineNumber: 1165,
         columnNumber: 16
     }, undefined),
     spanText2: "12:16pm",
@@ -24798,13 +24681,13 @@ const completedPreorderWritereviewHomeData = {
             " completed reservation",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 1202,
+                lineNumber: 1167,
                 columnNumber: 54
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 1202,
+        lineNumber: 1167,
         columnNumber: 16
     }, undefined),
     spanText4: "3",
@@ -25313,13 +25196,13 @@ const searchMapData = {
             ": 10:00 AM",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 1757,
+                lineNumber: 1722,
                 columnNumber: 42
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 1757,
+        lineNumber: 1722,
         columnNumber: 16
     }, undefined),
     spanText5: "Close",
@@ -25328,13 +25211,13 @@ const searchMapData = {
             ": 10:00 PM",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 1759,
+                lineNumber: 1724,
                 columnNumber: 42
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 1759,
+        lineNumber: 1724,
         columnNumber: 16
     }, undefined),
     spanText7: "Phone",
@@ -25818,13 +25701,13 @@ const pumpkinSoup22Data = {
             ": 10:00- 22:00 ",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 2274,
+                lineNumber: 2239,
                 columnNumber: 47
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 2274,
+        lineNumber: 2239,
         columnNumber: 16
     }, undefined),
     spanText3: ""
@@ -26214,13 +26097,13 @@ const selectRestaurant2Data = {
             ": 09:00 AM",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 2692,
+                lineNumber: 2657,
                 columnNumber: 42
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 2692,
+        lineNumber: 2657,
         columnNumber: 16
     }, undefined),
     spanText6: "Close",
@@ -26229,13 +26112,13 @@ const selectRestaurant2Data = {
             ": 10:00 PM",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 2694,
+                lineNumber: 2659,
                 columnNumber: 42
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 2694,
+        lineNumber: 2659,
         columnNumber: 16
     }, undefined),
     spanText8: "Phone",
@@ -26343,14 +26226,14 @@ const iPhone1313ProHaEunParkData = {
             "Reservation",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 2804,
+                lineNumber: 2769,
                 columnNumber: 54
             }, undefined),
             "Completed!"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 2804,
+        lineNumber: 2769,
         columnNumber: 27
     }, undefined),
     spanText1: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactDefault.default.Fragment, {
@@ -26358,13 +26241,13 @@ const iPhone1313ProHaEunParkData = {
             "restuarant name",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 2805,
+                lineNumber: 2770,
                 columnNumber: 47
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 2805,
+        lineNumber: 2770,
         columnNumber: 16
     }, undefined),
     spanText2: "12:16pm",
@@ -26373,13 +26256,13 @@ const iPhone1313ProHaEunParkData = {
             " completed reservation",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 2807,
+                lineNumber: 2772,
                 columnNumber: 54
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 2807,
+        lineNumber: 2772,
         columnNumber: 16
     }, undefined),
     spanText4: "4",
@@ -26388,12 +26271,12 @@ const iPhone1313ProHaEunParkData = {
     spanText6: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactDefault.default.Fragment, {
         children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
             fileName: "App.jsx",
-            lineNumber: 2811,
+            lineNumber: 2776,
             columnNumber: 32
         }, undefined)
     }, void 0, false, {
         fileName: "App.jsx",
-        lineNumber: 2811,
+        lineNumber: 2776,
         columnNumber: 16
     }, undefined),
     spanText7: "CANCEL ORDER?",
@@ -26561,13 +26444,13 @@ const iPhone13HomeSuhyunChunData = {
             ": 10:00 AM",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 2991,
+                lineNumber: 2956,
                 columnNumber: 42
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 2991,
+        lineNumber: 2956,
         columnNumber: 16
     }, undefined),
     spanText5: "Close",
@@ -26576,13 +26459,13 @@ const iPhone13HomeSuhyunChunData = {
             ": 09:00 PM",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 2993,
+                lineNumber: 2958,
                 columnNumber: 42
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 2993,
+        lineNumber: 2958,
         columnNumber: 16
     }, undefined),
     spanText7: "Phone",
@@ -26608,14 +26491,14 @@ const component92Data = {
             "Avalilable",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 3013,
+                lineNumber: 2978,
                 columnNumber: 48
             }, undefined),
             "Seats"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 3013,
+        lineNumber: 2978,
         columnNumber: 22
     }, undefined),
     waiting: "Waiting"
@@ -26799,13 +26682,13 @@ const pumpkinSoup4Data = {
             ": 10:00 AM",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 3208,
+                lineNumber: 3173,
                 columnNumber: 42
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 3208,
+        lineNumber: 3173,
         columnNumber: 16
     }, undefined),
     spanText3: "Close",
@@ -26814,13 +26697,13 @@ const pumpkinSoup4Data = {
             ": 09:00 PM",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 3210,
+                lineNumber: 3175,
                 columnNumber: 42
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 3210,
+        lineNumber: 3175,
         columnNumber: 16
     }, undefined),
     spanText5: "Phone",
@@ -26829,13 +26712,13 @@ const pumpkinSoup4Data = {
             ": 032-123-1234",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 3212,
+                lineNumber: 3177,
                 columnNumber: 46
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 3212,
+        lineNumber: 3177,
         columnNumber: 16
     }, undefined),
     spanText7: "Address",
@@ -26844,13 +26727,13 @@ const pumpkinSoup4Data = {
             ": 119 Songdomoonhwa-ro, Yeonsu-gu, Incheon-si",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 3214,
+                lineNumber: 3179,
                 columnNumber: 77
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 3214,
+        lineNumber: 3179,
         columnNumber: 16
     }, undefined),
     spanText9: ""
@@ -26942,14 +26825,14 @@ const iPhone1313ProHaEunPark3Data = {
             "Successfully",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 3307,
+                lineNumber: 3272,
                 columnNumber: 56
             }, undefined),
             "Completed!"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 3307,
+        lineNumber: 3272,
         columnNumber: 28
     }, undefined),
     spanText1: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactDefault.default.Fragment, {
@@ -26957,13 +26840,13 @@ const iPhone1313ProHaEunPark3Data = {
             "restuarant name",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 3308,
+                lineNumber: 3273,
                 columnNumber: 47
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 3308,
+        lineNumber: 3273,
         columnNumber: 16
     }, undefined),
     spanText2: "12:16pm",
@@ -26972,13 +26855,13 @@ const iPhone1313ProHaEunPark3Data = {
             " completed reservation",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 3310,
+                lineNumber: 3275,
                 columnNumber: 54
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 3310,
+        lineNumber: 3275,
         columnNumber: 16
     }, undefined),
     spanText4: "4",
@@ -27102,14 +26985,14 @@ const component93Data = {
             "Avalilable",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 3432,
+                lineNumber: 3397,
                 columnNumber: 48
             }, undefined),
             "Seats"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 3432,
+        lineNumber: 3397,
         columnNumber: 22
     }, undefined),
     waiting: "Waiting"
@@ -27145,14 +27028,14 @@ const component94Data = {
             "Avalilable",
             /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 3464,
+                lineNumber: 3429,
                 columnNumber: 48
             }, undefined),
             "Seats"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 3464,
+        lineNumber: 3429,
         columnNumber: 22
     }, undefined),
     waiting: "Waiting",
@@ -27638,7 +27521,7 @@ $RefreshReg$(_c, "App");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","./App.css":"7g3a6","react":"21dqq","react-router-dom":"cHIiW","./components/FilterMainRating":"XC0yy","./components/MenuOrCart3":"9U26J","./components/FilterMainSeats":"60342","./components/RestaurantDetailsMenu3":"s9xRu","./components/MenuDetail3PorkLibSide":"czloY","./components/MenuDetail3PorkLib":"9x9rk","./components/SearchList":"bJr45","./components/SelectRestaurant1":"cNj6u","./components/RestaurantDetailsMenu2":"67o00","./components/RestaurantDetailsMenu1":"6JwBn","./components/CompletedPreorderHome":"7WxWt","./components/ShoppingCartHome":"jBUvI","./components/ShoppingCartPeople2":"4Sl1j","./components/MenuOrCart2":"jGfzp","./components/CompletedPreorderCancelmodal":"bLeIL","./components/ShoppingCartHomeSelectTime":"fpvrJ","./components/MenuDetail2PorkNeckSide":"gYC8B","./components/Main":"3YY5E","./components/ShoppingCartPeople1":"dwpim","./components/ShoppingCartHomeSelectTime5":"dxY7H","./components/ShoppingCartHomeSelectTime10":"hq4xj","./components/CompletedPreorderWritereviewHome":"5wNGA","./components/CompletedPreorderWritereview2":"7LXqP","./components/CompletedPreorderWritereview22":"9k9KY","./components/RestaurantDetailsReview":"lb20O","./components/FilterListRating":"g2k1u","./components/MenuDetail2PorkNeck":"6opud","./components/CompletedPreorderWritereview23":"lKomW","./components/FilterListCategory4":"60vDF","./components/FilterHalfCategory4":"kZkVQ","./components/ShoppingCartPeople4":"jjgIm","./components/MenuOrCart1":"6BFtd","./components/FilterHalfCategory3":"68vw0","./components/SearchMap":"8dZwX","./components/FilterMainCategory":"7BhfW","./components/FilterListCategory1":"lxALK","./components/FilterListCategory3":"6hYVl","./components/FilterHalfSeats":"c988s","./components/FilterHalfRating":"gOgTj","./components/RestaurantDetailsMap":"e8Tcj","./components/ListHalf":"lUCEk","./components/SeeList":"5FsJP","./components/RestaurantDetailsInfo":"ekqpS","./components/FilterListSeats":"iackz","./components/MenuDetail1PorkBellySideAdd":"dJkJw","./components/CompletedPreorderWritereview1":"9RTNn","./components/MenuDetail1PorkBelly":"fbNXb","./components/FilterHalfDistance":"1qNG8","./components/FilterHalfCategory2":"2PLPh","./components/SelectRestaurant2":"dFksv","./components/FilterHalfCategory1":"9fEeK","./components/IPhone1313ProHaEunPark":"9dQDe","./components/IPhone1313ProSeoyoung11":"atsgJ","./components/IPhone1313ProSeoyoung5":"7HH2O","./components/IPhone13HomeSuhyunChun":"1GfnM","./components/YoolBi":"5ym7R","./components/IPhone1313ProSeoyoung9":"cLLaG","./components/IPhone1313ProHaEunPark2":"e1yHN","./components/IPhone1313ProSeoyoung8":"fe1hh","./components/IPhone1313ProSeoyoung6":"li2i2","./components/IPhone1313ProSeoyoung10":"h1TyL","./components/IPhone1313ProHaEunPark3":"lO7im","./components/IPhone1313ProSeoyoung7":"1zgTG","./components/IPhone1313ProSeoyoung4":"g9fas","./components/YoolBi2":"kXb2i","./components/IPhone13HomeSuhyunChun2":"87xuu","./components/YoolBi3":"4aJlE","./components/YoolBi4":"4sHUs","./components/IPhone1313ProHaEunPark4":"OpPxF","./components/YoolBi1":"bIUiW","./components/IPhone1313ProHaEunPark5":"c0NJi","./components/YoolBi5":"2vfYe","./components/IPhone1313ProHaEunPark6":"gIhNa","./components/YoolBiDistance":"iia17","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7g3a6":[function() {},{}],"cHIiW":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","./App.css":"7g3a6","react":"21dqq","react-router-dom":"cHIiW","./components/FilterMainRating":"XC0yy","./components/MenuOrCart3":"9U26J","./components/FilterMainSeats":"60342","./components/RestaurantDetailsMenu3":"s9xRu","./components/MenuDetail3PorkLibSide":"czloY","./components/MenuDetail3PorkLib":"9x9rk","./components/SearchList":"bJr45","./components/SelectRestaurant1":"cNj6u","./components/RestaurantDetailsMenu2":"67o00","./components/RestaurantDetailsMenu1":"6JwBn","./components/CompletedPreorderHome":"7WxWt","./components/ShoppingCartHome":"jBUvI","./components/ShoppingCartPeople2":"4Sl1j","./components/MenuOrCart2":"jGfzp","./components/CompletedPreorderCancelmodal":"bLeIL","./components/ShoppingCartHomeSelectTime":"fpvrJ","./components/MenuDetail2PorkNeckSide":"gYC8B","./components/Main":"3YY5E","./components/ShoppingCartPeople1":"dwpim","./components/ShoppingCartHomeSelectTime5":"dxY7H","./components/ShoppingCartHomeSelectTime10":"hq4xj","./components/CompletedPreorderWritereviewHome":"5wNGA","./components/CompletedPreorderWritereview2":"7LXqP","./components/CompletedPreorderWritereview22":"9k9KY","./components/RestaurantDetailsReview":"lb20O","./components/FilterListRating":"g2k1u","./components/MenuDetail2PorkNeck":"6opud","./components/CompletedPreorderWritereview23":"lKomW","./components/FilterListCategory4":"60vDF","./components/FilterHalfCategory4":"kZkVQ","./components/ShoppingCartPeople4":"jjgIm","./components/MenuOrCart1":"6BFtd","./components/FilterHalfCategory3":"68vw0","./components/SearchMap":"8dZwX","./components/FilterMainCategory":"7BhfW","./components/FilterListCategory1":"lxALK","./components/FilterListCategory3":"6hYVl","./components/FilterHalfSeats":"c988s","./components/FilterHalfRating":"gOgTj","./components/RestaurantDetailsMap":"e8Tcj","./components/ListHalf":"lUCEk","./components/SeeList":"5FsJP","./components/RestaurantDetailsInfo":"ekqpS","./components/FilterListSeats":"iackz","./components/MenuDetail1PorkBellySideAdd":"dJkJw","./components/CompletedPreorderWritereview1":"9RTNn","./components/MenuDetail1PorkBelly":"fbNXb","./components/FilterHalfDistance":"1qNG8","./components/FilterHalfCategory2":"2PLPh","./components/SelectRestaurant2":"dFksv","./components/FilterHalfCategory1":"9fEeK","./components/IPhone1313ProHaEunPark":"9dQDe","./components/IPhone1313ProSeoyoung11":"atsgJ","./components/IPhone1313ProSeoyoung5":"7HH2O","./components/IPhone13HomeSuhyunChun":"1GfnM","./components/IPhone1313ProSeoyoung9":"cLLaG","./components/IPhone1313ProHaEunPark2":"e1yHN","./components/IPhone1313ProSeoyoung8":"fe1hh","./components/IPhone1313ProSeoyoung6":"li2i2","./components/IPhone1313ProSeoyoung10":"h1TyL","./components/IPhone1313ProHaEunPark3":"lO7im","./components/IPhone1313ProSeoyoung7":"1zgTG","./components/IPhone1313ProSeoyoung4":"g9fas","./components/IPhone13HomeSuhyunChun2":"87xuu","./components/IPhone1313ProHaEunPark4":"OpPxF","./components/IPhone1313ProHaEunPark5":"c0NJi","./components/IPhone1313ProHaEunPark6":"gIhNa","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7g3a6":[function() {},{}],"cHIiW":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "MemoryRouter", ()=>_reactRouter.MemoryRouter
@@ -56375,7 +56258,7 @@ $RefreshReg$(_c, "FilterHalfCategory1");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component164":"2NZVY","../Component163":"gELb1","./FilterHalfCategory1.css":"aflRd","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"aflRd":[function() {},{}],"9dQDe":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component164":"2NZVY","../Component163":"gELb1","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./FilterHalfCategory1.css":"aflRd"}],"aflRd":[function() {},{}],"9dQDe":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$3a56 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -58539,923 +58422,7 @@ $RefreshReg$(_c, "Bubble3");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Bubble3.css":"kEjPt","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"kEjPt":[function() {},{}],"eozuk":[function() {},{}],"5ym7R":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$b222 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$b222.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _reactRouterDom = require("react-router-dom");
-var _component92 = require("../Component92");
-var _component92Default = parcelHelpers.interopDefault(_component92);
-var _component166 = require("../Component166");
-var _component166Default = parcelHelpers.interopDefault(_component166);
-var _component167 = require("../Component167");
-var _component167Default = parcelHelpers.interopDefault(_component167);
-var _component165 = require("../Component165");
-var _component165Default = parcelHelpers.interopDefault(_component165);
-var _component168 = require("../Component168");
-var _component168Default = parcelHelpers.interopDefault(_component168);
-var _yoolBiCss = require("./YoolBi.css");
-function YoolBi(props) {
-    const { map1 , map2 , iconSearch , group , orders , spanText1 , spanText2 , vector2 , vector3 , vector4 , vector5 , vector6 , vector7 , vector8 , vector9 , vector10 , vector11 , component92Props , component166Props , component1671Props , component1672Props , component165Props , component168Props , component1673Props ,  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "container-center-horizontal",
-        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-            className: "yool-bi-pilteo-gyeolgwa-eobseul-ddae screen",
-            children: [
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-93",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group17-1",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "map-6",
-                                    src: map1
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi/index.jsx",
-                                    lineNumber: 43,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "map-7 inter-normal-flamingo-12px",
-                                    children: map2
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi/index.jsx",
-                                    lineNumber: 44,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 42,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group12-3",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/yool-bi-sangsepilteo",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                        className: "rectangle-15-6"
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi/index.jsx",
-                                        lineNumber: 48,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi/index.jsx",
-                                    lineNumber: 47,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "icon-search-1",
-                                    src: iconSearch
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi/index.jsx",
-                                    lineNumber: 50,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 46,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "flex-col-66",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/completed-preorder-home",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                        className: "group-65",
-                                        src: group
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi/index.jsx",
-                                        lineNumber: 54,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi/index.jsx",
-                                    lineNumber: 53,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "orders inter-normal-flamingo-12px",
-                                    children: orders
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi/index.jsx",
-                                    lineNumber: 56,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 52,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi/index.jsx",
-                    lineNumber: 41,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component92Default.default, {
-                    nearest: component92Props.nearest,
-                    spanText1: component92Props.spanText1,
-                    spanText2: component92Props.spanText2,
-                    iconStar: component92Props.iconStar,
-                    avalilableSeats: component92Props.avalilableSeats,
-                    waiting: component92Props.waiting
-                }, void 0, false, {
-                    fileName: "components/YoolBi/index.jsx",
-                    lineNumber: 59,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group13-4",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component166Default.default, {
-                            aSoupShop: component166Props.aSoupShop,
-                            spanText1: component166Props.spanText1,
-                            spanText2: component166Props.spanText2,
-                            spanText3: component166Props.spanText3,
-                            iconStar: component166Props.iconStar
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 68,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-179",
-                            src: "/img/vector-11@2x.png"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 75,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "address-29 arial",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                    className: "span0-56 arial",
-                                    children: spanText1
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi/index.jsx",
-                                    lineNumber: 77,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                    className: "span1-100 inter-normal-black-20px",
-                                    children: spanText2
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi/index.jsx",
-                                    lineNumber: 78,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 76,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-5"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 80,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-180",
-                            src: vector2
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 81,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi/index.jsx",
-                    lineNumber: 67,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group1-48",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component167Default.default, {
-                            aSoupShop: component1671Props.aSoupShop,
-                            spanText1: component1671Props.spanText1,
-                            spanText2: component1671Props.spanText2,
-                            spanText3: component1671Props.spanText3,
-                            spanText4: component1671Props.spanText4
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 84,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-176",
-                            src: vector3
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 91,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-5"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 92,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-181",
-                            src: vector4
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 93,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi/index.jsx",
-                    lineNumber: 83,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group1-48",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-29-25"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 96,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component167Default.default, {
-                            aSoupShop: component1672Props.aSoupShop,
-                            spanText1: component1672Props.spanText1,
-                            spanText2: component1672Props.spanText2,
-                            spanText3: component1672Props.spanText3,
-                            spanText4: component1672Props.spanText4,
-                            className: component1672Props.className
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 97,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-5"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 105,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-177",
-                            src: vector5
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 106,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-176",
-                            src: vector6
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 107,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi/index.jsx",
-                    lineNumber: 95,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group1-48",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component165Default.default, {
-                            image3: component165Props.image3,
-                            aSoupShop: component165Props.aSoupShop,
-                            spanText3: component165Props.spanText3,
-                            star1: component165Props.star1,
-                            className: component165Props.className
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 110,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-178",
-                            src: vector7
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 117,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi/index.jsx",
-                    lineNumber: 109,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group1-48",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component168Default.default, {
-                            ...component168Props
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 120,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-5"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 121,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-177",
-                            src: vector8
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 122,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-178",
-                            src: vector9
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 123,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi/index.jsx",
-                    lineNumber: 119,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group1-48",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component167Default.default, {
-                            aSoupShop: component1673Props.aSoupShop,
-                            spanText1: component1673Props.spanText1,
-                            spanText2: component1673Props.spanText2,
-                            spanText3: component1673Props.spanText3,
-                            spanText4: component1673Props.spanText4,
-                            className: component1673Props.className
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 126,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-32-5"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 134,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-182",
-                            src: vector10
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 135,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-183",
-                            src: vector11
-                        }, void 0, false, {
-                            fileName: "components/YoolBi/index.jsx",
-                            lineNumber: 136,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi/index.jsx",
-                    lineNumber: 125,
-                    columnNumber: 9
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "components/YoolBi/index.jsx",
-            lineNumber: 40,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
-        fileName: "components/YoolBi/index.jsx",
-        lineNumber: 39,
-        columnNumber: 5
-    }, this);
-}
-_c = YoolBi;
-exports.default = YoolBi;
-var _c;
-$RefreshReg$(_c, "YoolBi");
-
-  $parcel$ReactRefreshHelpers$b222.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component92":"fXC13","../Component166":"8lyXd","../Component167":"gznEq","../Component165":"14OVu","../Component168":"lwbpl","./YoolBi.css":"heIiZ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"fXC13":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$6638 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$6638.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _reactRouterDom = require("react-router-dom");
-var _component92Css = require("./Component92.css");
-function Component92(props) {
-    const { nearest , spanText1 , spanText2 , iconStar , avalilableSeats , waiting  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "component-19-6",
-        children: [
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group9-14",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "nearest-1 inter-normal-white-16px",
-                    children: nearest
-                }, void 0, false, {
-                    fileName: "components/Component92/index.jsx",
-                    lineNumber: 11,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component92/index.jsx",
-                lineNumber: 10,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group6-27",
-                children: [
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                        className: "rectangle-32-6"
-                    }, void 0, false, {
-                        fileName: "components/Component92/index.jsx",
-                        lineNumber: 14,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                        className: "rating-19 inter-normal-white-16px-2",
-                        children: [
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "inter-normal-spicy-pink-16px",
-                                children: spanText1
-                            }, void 0, false, {
-                                fileName: "components/Component92/index.jsx",
-                                lineNumber: 16,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "inter-normal-white-16px",
-                                children: spanText2
-                            }, void 0, false, {
-                                fileName: "components/Component92/index.jsx",
-                                lineNumber: 17,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "components/Component92/index.jsx",
-                        lineNumber: 15,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                        className: "icon-star-24",
-                        src: iconStar
-                    }, void 0, false, {
-                        fileName: "components/Component92/index.jsx",
-                        lineNumber: 19,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "components/Component92/index.jsx",
-                lineNumber: 13,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group7-28",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "avalilable-seats-1 inter-normal-spicy-pink-13px",
-                    children: avalilableSeats
-                }, void 0, false, {
-                    fileName: "components/Component92/index.jsx",
-                    lineNumber: 22,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component92/index.jsx",
-                lineNumber: 21,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group8-20",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "waiting-1 inter-normal-spicy-pink-16px",
-                    children: waiting
-                }, void 0, false, {
-                    fileName: "components/Component92/index.jsx",
-                    lineNumber: 25,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component92/index.jsx",
-                lineNumber: 24,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                to: "/yool-bi",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "rectangle-35"
-                }, void 0, false, {
-                    fileName: "components/Component92/index.jsx",
-                    lineNumber: 28,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component92/index.jsx",
-                lineNumber: 27,
-                columnNumber: 7
-            }, this)
-        ]
-    }, void 0, true, {
-        fileName: "components/Component92/index.jsx",
-        lineNumber: 9,
-        columnNumber: 5
-    }, this);
-}
-_c = Component92;
-exports.default = Component92;
-var _c;
-$RefreshReg$(_c, "Component92");
-
-  $parcel$ReactRefreshHelpers$6638.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","./Component92.css":"5T4uK","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"5T4uK":[function() {},{}],"8lyXd":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$c6d0 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$c6d0.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _component166Css = require("./Component166.css");
-function Component166(props) {
-    const { aSoupShop , spanText1 , spanText2 , spanText3 , iconStar  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "component-17-6",
-        children: [
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "a-soup-shop-46 inter-semi-bold-black-20px",
-                children: aSoupShop
-            }, void 0, false, {
-                fileName: "components/Component166/index.jsx",
-                lineNumber: 9,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group-105",
-                children: [
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                        className: "x250m-47-18-are-going-42 inter-normal-white-20px",
-                        children: [
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "inter-normal-black-20px",
-                                children: spanText1
-                            }, void 0, false, {
-                                fileName: "components/Component166/index.jsx",
-                                lineNumber: 12,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "span1-101 arial",
-                                children: spanText2
-                            }, void 0, false, {
-                                fileName: "components/Component166/index.jsx",
-                                lineNumber: 13,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "inter-normal-black-20px",
-                                children: spanText3
-                            }, void 0, false, {
-                                fileName: "components/Component166/index.jsx",
-                                lineNumber: 14,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "components/Component166/index.jsx",
-                        lineNumber: 11,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                        className: "icon-star-25",
-                        src: iconStar
-                    }, void 0, false, {
-                        fileName: "components/Component166/index.jsx",
-                        lineNumber: 16,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "components/Component166/index.jsx",
-                lineNumber: 10,
-                columnNumber: 7
-            }, this)
-        ]
-    }, void 0, true, {
-        fileName: "components/Component166/index.jsx",
-        lineNumber: 8,
-        columnNumber: 5
-    }, this);
-}
-_c = Component166;
-exports.default = Component166;
-var _c;
-$RefreshReg$(_c, "Component166");
-
-  $parcel$ReactRefreshHelpers$c6d0.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Component166.css":"ikTfK","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ikTfK":[function() {},{}],"gznEq":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$2421 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$2421.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _component167Css = require("./Component167.css");
-function Component167(props) {
-    const { aSoupShop , spanText1 , spanText2 , spanText3 , spanText4 , className  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: `component-17-7 ${className || ""}`,
-        children: [
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "a-soup-shop-47 inter-semi-bold-black-20px",
-                children: aSoupShop
-            }, void 0, false, {
-                fileName: "components/Component167/index.jsx",
-                lineNumber: 9,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "x35-seats-left-7 arial",
-                children: [
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                        className: "span0-57 arial",
-                        children: spanText1
-                    }, void 0, false, {
-                        fileName: "components/Component167/index.jsx",
-                        lineNumber: 11,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                        className: "span1-102 inter-normal-black-20px",
-                        children: spanText2
-                    }, void 0, false, {
-                        fileName: "components/Component167/index.jsx",
-                        lineNumber: 12,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "components/Component167/index.jsx",
-                lineNumber: 10,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group1-49",
-                children: [
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                        className: "x250m-47-18-are-going-43 inter-normal-white-20px",
-                        children: [
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "span-69 inter-normal-black-20px",
-                                children: spanText3
-                            }, void 0, false, {
-                                fileName: "components/Component167/index.jsx",
-                                lineNumber: 16,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "span-70 arial",
-                                children: spanText4
-                            }, void 0, false, {
-                                fileName: "components/Component167/index.jsx",
-                                lineNumber: 17,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "span-69 inter-normal-black-20px",
-                                children: " Are Going"
-                            }, void 0, false, {
-                                fileName: "components/Component167/index.jsx",
-                                lineNumber: 18,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "components/Component167/index.jsx",
-                        lineNumber: 15,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                        className: "icon-star-26",
-                        src: "/img/star-1@2x.png"
-                    }, void 0, false, {
-                        fileName: "components/Component167/index.jsx",
-                        lineNumber: 20,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "components/Component167/index.jsx",
-                lineNumber: 14,
-                columnNumber: 7
-            }, this)
-        ]
-    }, void 0, true, {
-        fileName: "components/Component167/index.jsx",
-        lineNumber: 8,
-        columnNumber: 5
-    }, this);
-}
-_c = Component167;
-exports.default = Component167;
-var _c;
-$RefreshReg$(_c, "Component167");
-
-  $parcel$ReactRefreshHelpers$2421.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Component167.css":"awv8x","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"awv8x":[function() {},{}],"lwbpl":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$ce97 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$ce97.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _component168Css = require("./Component168.css");
-function Component168(props) {
-    const { aSoupShop , spanText1 , spanText2 , spanText3 , spanText4 , spanText5 , spanText6 , iconStar  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "component-17-10",
-        children: [
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "a-soup-shop-48 inter-semi-bold-black-20px",
-                children: aSoupShop
-            }, void 0, false, {
-                fileName: "components/Component168/index.jsx",
-                lineNumber: 9,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "x35-seats-left-8 arial",
-                children: [
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                        className: "span0-58 arial",
-                        children: spanText1
-                    }, void 0, false, {
-                        fileName: "components/Component168/index.jsx",
-                        lineNumber: 11,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                        className: "span1-103 arial",
-                        children: spanText2
-                    }, void 0, false, {
-                        fileName: "components/Component168/index.jsx",
-                        lineNumber: 12,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                        className: "span2-7 inter-normal-black-20px",
-                        children: spanText3
-                    }, void 0, false, {
-                        fileName: "components/Component168/index.jsx",
-                        lineNumber: 13,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "components/Component168/index.jsx",
-                lineNumber: 10,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group4-38",
-                children: [
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                        className: "x250m-47-18-are-going-44 inter-normal-white-20px",
-                        children: [
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "inter-normal-black-20px",
-                                children: spanText4
-                            }, void 0, false, {
-                                fileName: "components/Component168/index.jsx",
-                                lineNumber: 17,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "span1-104 arial",
-                                children: spanText5
-                            }, void 0, false, {
-                                fileName: "components/Component168/index.jsx",
-                                lineNumber: 18,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "inter-normal-black-20px",
-                                children: spanText6
-                            }, void 0, false, {
-                                fileName: "components/Component168/index.jsx",
-                                lineNumber: 19,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "components/Component168/index.jsx",
-                        lineNumber: 16,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                        className: "icon-star-27",
-                        src: iconStar
-                    }, void 0, false, {
-                        fileName: "components/Component168/index.jsx",
-                        lineNumber: 21,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "components/Component168/index.jsx",
-                lineNumber: 15,
-                columnNumber: 7
-            }, this)
-        ]
-    }, void 0, true, {
-        fileName: "components/Component168/index.jsx",
-        lineNumber: 8,
-        columnNumber: 5
-    }, this);
-}
-_c = Component168;
-exports.default = Component168;
-var _c;
-$RefreshReg$(_c, "Component168");
-
-  $parcel$ReactRefreshHelpers$ce97.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Component168.css":"5FuFN","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"5FuFN":[function() {},{}],"heIiZ":[function() {},{}],"cLLaG":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Bubble3.css":"kEjPt","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"kEjPt":[function() {},{}],"eozuk":[function() {},{}],"cLLaG":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$470e = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -63586,377 +62553,7 @@ $RefreshReg$(_c, "IPhone1313ProSeoyoung4");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../PumpkinSoup":"4HUAM","./IPhone1313ProSeoyoung4.css":"7h2wp","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7h2wp":[function() {},{}],"kXb2i":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$54bc = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$54bc.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _reactRouterDom = require("react-router-dom");
-var _component93 = require("../Component93");
-var _component93Default = parcelHelpers.interopDefault(_component93);
-var _component165 = require("../Component165");
-var _component165Default = parcelHelpers.interopDefault(_component165);
-var _yoolBi2Css = require("./YoolBi2.css");
-function YoolBi2(props) {
-    const { iconSearch , aSoupShop1 , aSoupShop2 , vector2 , group , my , filterAlt , filter , vector3 , vector4 , component93Props , component165Props ,  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "container-center-horizontal",
-        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-            className: "yool-bi-sangsepilteo screen",
-            children: [
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-110",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi-pilteo-gyeolgwa-eobseul-ddae",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                className: "vector-197",
-                                src: "/img/vector-30@2x.png"
-                            }, void 0, false, {
-                                fileName: "components/YoolBi2/index.jsx",
-                                lineNumber: 28,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi2/index.jsx",
-                            lineNumber: 27,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group5-36",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "icon-search-2",
-                                    src: iconSearch
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi2/index.jsx",
-                                    lineNumber: 31,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "a-soup-shop-container arial",
-                                    children: [
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "a-soup-shop-55",
-                                            children: aSoupShop1
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi2/index.jsx",
-                                            lineNumber: 33,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "a-soup-shop-55",
-                                            children: aSoupShop2
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi2/index.jsx",
-                                            lineNumber: 34,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "components/YoolBi2/index.jsx",
-                                    lineNumber: 32,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "vector-198",
-                                    src: vector2
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi2/index.jsx",
-                                    lineNumber: 36,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi2/index.jsx",
-                            lineNumber: 30,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "flex-col-71",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/completed-preorder-home",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                        className: "group-66",
-                                        src: group
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi2/index.jsx",
-                                        lineNumber: 40,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi2/index.jsx",
-                                    lineNumber: 39,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "my-1 inter-normal-flamingo-12px",
-                                    children: my
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi2/index.jsx",
-                                    lineNumber: 42,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi2/index.jsx",
-                            lineNumber: 38,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi2/index.jsx",
-                    lineNumber: 26,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-111",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component93Default.default, {
-                            nearest: component93Props.nearest,
-                            spanText1: component93Props.spanText1,
-                            spanText2: component93Props.spanText2,
-                            iconStar: component93Props.iconStar,
-                            avalilableSeats: component93Props.avalilableSeats,
-                            waiting: component93Props.waiting
-                        }, void 0, false, {
-                            fileName: "components/YoolBi2/index.jsx",
-                            lineNumber: 46,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "filter-alt",
-                            src: filterAlt
-                        }, void 0, false, {
-                            fileName: "components/YoolBi2/index.jsx",
-                            lineNumber: 54,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "filter inter-normal-white-16px",
-                            children: filter
-                        }, void 0, false, {
-                            fileName: "components/YoolBi2/index.jsx",
-                            lineNumber: 55,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-199",
-                            src: vector3
-                        }, void 0, false, {
-                            fileName: "components/YoolBi2/index.jsx",
-                            lineNumber: 56,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi2/index.jsx",
-                    lineNumber: 45,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group6-34",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component165Default.default, {
-                            image3: component165Props.image3,
-                            aSoupShop: component165Props.aSoupShop,
-                            spanText3: component165Props.spanText3,
-                            star1: component165Props.star1,
-                            className: component165Props.className
-                        }, void 0, false, {
-                            fileName: "components/YoolBi2/index.jsx",
-                            lineNumber: 59,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-200",
-                            src: vector4
-                        }, void 0, false, {
-                            fileName: "components/YoolBi2/index.jsx",
-                            lineNumber: 66,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi2/index.jsx",
-                    lineNumber: 58,
-                    columnNumber: 9
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "components/YoolBi2/index.jsx",
-            lineNumber: 25,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
-        fileName: "components/YoolBi2/index.jsx",
-        lineNumber: 24,
-        columnNumber: 5
-    }, this);
-}
-_c = YoolBi2;
-exports.default = YoolBi2;
-var _c;
-$RefreshReg$(_c, "YoolBi2");
-
-  $parcel$ReactRefreshHelpers$54bc.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component93":"gwWUG","../Component165":"14OVu","./YoolBi2.css":"6qBjG","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"gwWUG":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$c26d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$c26d.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _reactRouterDom = require("react-router-dom");
-var _component93Css = require("./Component93.css");
-function Component93(props) {
-    const { nearest , spanText1 , spanText2 , iconStar , avalilableSeats , waiting  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "component-10-1",
-        children: [
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group3-43",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "nearest-2 inter-normal-spicy-pink-16px",
-                    children: nearest
-                }, void 0, false, {
-                    fileName: "components/Component93/index.jsx",
-                    lineNumber: 11,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component93/index.jsx",
-                lineNumber: 10,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group-115",
-                children: [
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                        className: "rectangle-32-7"
-                    }, void 0, false, {
-                        fileName: "components/Component93/index.jsx",
-                        lineNumber: 14,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                        className: "rating-20 inter-normal-white-16px-2",
-                        children: [
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "inter-normal-spicy-pink-16px",
-                                children: spanText1
-                            }, void 0, false, {
-                                fileName: "components/Component93/index.jsx",
-                                lineNumber: 16,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "inter-normal-white-16px",
-                                children: spanText2
-                            }, void 0, false, {
-                                fileName: "components/Component93/index.jsx",
-                                lineNumber: 17,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "components/Component93/index.jsx",
-                        lineNumber: 15,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                        className: "icon-star-32",
-                        src: iconStar
-                    }, void 0, false, {
-                        fileName: "components/Component93/index.jsx",
-                        lineNumber: 19,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "components/Component93/index.jsx",
-                lineNumber: 13,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group1-55",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "avalilable-seats-2 inter-normal-spicy-pink-13px",
-                    children: avalilableSeats
-                }, void 0, false, {
-                    fileName: "components/Component93/index.jsx",
-                    lineNumber: 22,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component93/index.jsx",
-                lineNumber: 21,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group2-36",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "waiting-2 inter-normal-spicy-pink-16px",
-                    children: waiting
-                }, void 0, false, {
-                    fileName: "components/Component93/index.jsx",
-                    lineNumber: 25,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component93/index.jsx",
-                lineNumber: 24,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                to: "/yool-bi",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "rectangle-35-1"
-                }, void 0, false, {
-                    fileName: "components/Component93/index.jsx",
-                    lineNumber: 28,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component93/index.jsx",
-                lineNumber: 27,
-                columnNumber: 7
-            }, this)
-        ]
-    }, void 0, true, {
-        fileName: "components/Component93/index.jsx",
-        lineNumber: 9,
-        columnNumber: 5
-    }, this);
-}
-_c = Component93;
-exports.default = Component93;
-var _c;
-$RefreshReg$(_c, "Component93");
-
-  $parcel$ReactRefreshHelpers$c26d.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","./Component93.css":"hfkxb","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"hfkxb":[function() {},{}],"6qBjG":[function() {},{}],"87xuu":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../PumpkinSoup":"4HUAM","./IPhone1313ProSeoyoung4.css":"7h2wp","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7h2wp":[function() {},{}],"87xuu":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$f96a = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -64553,957 +63150,7 @@ $RefreshReg$(_c, "Bubble5");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Bubble5.css":"kdlXK","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"kdlXK":[function() {},{}],"HKy2m":[function() {},{}],"4aJlE":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$c341 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$c341.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _reactRouterDom = require("react-router-dom");
-var _component942 = require("../Component942");
-var _component942Default = parcelHelpers.interopDefault(_component942);
-var _component165 = require("../Component165");
-var _component165Default = parcelHelpers.interopDefault(_component165);
-var _group11 = require("../Group11");
-var _group11Default = parcelHelpers.interopDefault(_group11);
-var _group20 = require("../Group20");
-var _group20Default = parcelHelpers.interopDefault(_group20);
-var _yoolBi3Css = require("./YoolBi3.css");
-function YoolBi3(props) {
-    const { aSoupShop1 , iconSearch , my , vector2 , aSoupShop2 , vector3 , filter , filterAlt , vector4 , group , detailedFilter , iconClose , line19 , numberOfPeople , outline_Add_Black_24Dp1 , number , distance , lessThan100M , arrowDropDown1 , line23 , waiting , noWaiting , arrowDropDown2 , line24 , line22 , reset , apply , component942Props , component165Props , group11Props , group20Props ,  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "container-center-horizontal",
-        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-            className: "yool-bi screen",
-            children: [
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group7-36",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component942Default.default, {
-                            iconStar: component942Props.iconStar
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 48,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-15-8"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 49,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "a-soup-shop-56 arial",
-                            children: aSoupShop1
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 50,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-203",
-                            src: "/img/vector-34@2x.png"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 51,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "icon-search-4",
-                            src: iconSearch
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 52,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "my-3 inter-normal-flamingo-12px",
-                            children: my
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 53,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-204",
-                            src: vector2
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 54,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "a-soup-shop-56 arial",
-                            children: aSoupShop2
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 55,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component165Default.default, {
-                            image3: component165Props.image3,
-                            aSoupShop: component165Props.aSoupShop,
-                            spanText3: component165Props.spanText3,
-                            star1: component165Props.star1,
-                            className: component165Props.className
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 56,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-205",
-                            src: vector3
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 63,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-35-2"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 64,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "filter-1 inter-normal-white-16px",
-                            children: filter
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 65,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "filter-alt-1",
-                            src: filterAlt
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 66,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-206",
-                            src: vector4
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 67,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/completed-preorder-home",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                className: "group-70",
-                                src: group
-                            }, void 0, false, {
-                                fileName: "components/YoolBi3/index.jsx",
-                                lineNumber: 69,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 68,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi-sangsepilteo",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                className: "rectangle-43"
-                            }, void 0, false, {
-                                fileName: "components/YoolBi3/index.jsx",
-                                lineNumber: 72,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 71,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi3/index.jsx",
-                    lineNumber: 47,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-113",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "detailed-filter inter-semi-bold-black-20px",
-                            children: detailedFilter
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 76,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi-sangsepilteo",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                className: "icon-close-5",
-                                src: iconClose
-                            }, void 0, false, {
-                                fileName: "components/YoolBi3/index.jsx",
-                                lineNumber: 78,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 77,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi3/index.jsx",
-                    lineNumber: 75,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                    className: "line-19-18",
-                    src: line19
-                }, void 0, false, {
-                    fileName: "components/YoolBi3/index.jsx",
-                    lineNumber: 81,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-114",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "number-of-people inter-semi-bold-black-20px",
-                            children: numberOfPeople
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 83,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group10-11",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "group-13-8",
-                                    children: [
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_group11Default.default, {
-                                            src: group11Props.src,
-                                            className: group11Props.className
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi3/index.jsx",
-                                            lineNumber: 86,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "group-10-9"
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi3/index.jsx",
-                                            lineNumber: 87,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                            to: "/yool-bi-sangsepilteo-1",
-                                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                                className: "group-8-14",
-                                                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                                    className: "outline_add_black_24dp-1-9",
-                                                    src: outline_Add_Black_24Dp1
-                                                }, void 0, false, {
-                                                    fileName: "components/YoolBi3/index.jsx",
-                                                    lineNumber: 90,
-                                                    columnNumber: 19
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "components/YoolBi3/index.jsx",
-                                                lineNumber: 89,
-                                                columnNumber: 17
-                                            }, this)
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi3/index.jsx",
-                                            lineNumber: 88,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 85,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "number-48 inter-bold-black-15px",
-                                    children: number
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 94,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 84,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi3/index.jsx",
-                    lineNumber: 82,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-115",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "distance-18 inter-semi-bold-black-23px",
-                            children: distance
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 98,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group8-27",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "overlap-group6-36",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_group20Default.default, {}, void 0, false, {
-                                        fileName: "components/YoolBi3/index.jsx",
-                                        lineNumber: 101,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 100,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "less-than-100-m inter-bold-black-15px",
-                                    children: lessThan100M
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 103,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "arrow-drop-down-8",
-                                    src: arrowDropDown1
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 104,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "line-2-17",
-                                    src: line23
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 105,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 99,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi3/index.jsx",
-                    lineNumber: 97,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-116",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "waiting-4 inter-semi-bold-black-23px",
-                            children: waiting
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 109,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group9-21",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_group20Default.default, {
-                                    className: group20Props.className
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 111,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "no-waiting inter-bold-black-15px",
-                                    children: noWaiting
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 112,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "arrow-drop-down-9",
-                                    src: arrowDropDown2
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 113,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "line-2-17",
-                                    src: line24
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 114,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 110,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi3/index.jsx",
-                    lineNumber: 108,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                    className: "line-22",
-                    src: line22
-                }, void 0, false, {
-                    fileName: "components/YoolBi3/index.jsx",
-                    lineNumber: 117,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "group-19-6",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group-117 border-1px-orange",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                className: "reset-5 inter-normal-flamingo-24px",
-                                children: reset
-                            }, void 0, false, {
-                                fileName: "components/YoolBi3/index.jsx",
-                                lineNumber: 120,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 119,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group5-37",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/yool-bi-",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                        className: "rectangle-39-11"
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi3/index.jsx",
-                                        lineNumber: 124,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 123,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "apply inter-normal-white-24px",
-                                    children: apply
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi3/index.jsx",
-                                    lineNumber: 126,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi3/index.jsx",
-                            lineNumber: 122,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi3/index.jsx",
-                    lineNumber: 118,
-                    columnNumber: 9
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "components/YoolBi3/index.jsx",
-            lineNumber: 46,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
-        fileName: "components/YoolBi3/index.jsx",
-        lineNumber: 45,
-        columnNumber: 5
-    }, this);
-}
-_c = YoolBi3;
-exports.default = YoolBi3;
-var _c;
-$RefreshReg$(_c, "YoolBi3");
-
-  $parcel$ReactRefreshHelpers$c341.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component942":"lmYS1","../Component165":"14OVu","../Group11":"cWJS3","../Group20":"2W1Xq","./YoolBi3.css":"jB0pI","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"lmYS1":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$2c98 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$2c98.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _component942Css = require("./Component942.css");
-function Component942(props) {
-    const { iconStar , className  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: `component-10-3 ${className || ""}`,
-        children: [
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group2-38",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "nearest-4 inter-normal-spicy-pink-16px",
-                    children: "Nearest"
-                }, void 0, false, {
-                    fileName: "components/Component942/index.jsx",
-                    lineNumber: 10,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component942/index.jsx",
-                lineNumber: 9,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group-118",
-                children: [
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                        className: "rectangle-32-8"
-                    }, void 0, false, {
-                        fileName: "components/Component942/index.jsx",
-                        lineNumber: 13,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                        className: "rating-22 inter-normal-white-16px-2",
-                        children: [
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "span-82 inter-normal-spicy-pink-16px",
-                                children: "Rating"
-                            }, void 0, false, {
-                                fileName: "components/Component942/index.jsx",
-                                lineNumber: 15,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("span", {
-                                className: "span-82 inter-normal-white-16px"
-                            }, void 0, false, {
-                                fileName: "components/Component942/index.jsx",
-                                lineNumber: 16,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "components/Component942/index.jsx",
-                        lineNumber: 14,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                        className: "icon-star-34",
-                        src: iconStar
-                    }, void 0, false, {
-                        fileName: "components/Component942/index.jsx",
-                        lineNumber: 18,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "components/Component942/index.jsx",
-                lineNumber: 12,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group1-57",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "avalilable-seats-4 inter-normal-spicy-pink-13px",
-                    children: [
-                        "Avalilable",
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("br", {}, void 0, false, {
-                            fileName: "components/Component942/index.jsx",
-                            lineNumber: 23,
-                            columnNumber: 11
-                        }, this),
-                        "Seats"
-                    ]
-                }, void 0, true, {
-                    fileName: "components/Component942/index.jsx",
-                    lineNumber: 21,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component942/index.jsx",
-                lineNumber: 20,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                className: "overlap-group3-45",
-                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "waiting-5 inter-normal-spicy-pink-16px",
-                    children: "Waiting"
-                }, void 0, false, {
-                    fileName: "components/Component942/index.jsx",
-                    lineNumber: 28,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "components/Component942/index.jsx",
-                lineNumber: 27,
-                columnNumber: 7
-            }, this)
-        ]
-    }, void 0, true, {
-        fileName: "components/Component942/index.jsx",
-        lineNumber: 8,
-        columnNumber: 5
-    }, this);
-}
-_c = Component942;
-exports.default = Component942;
-var _c;
-$RefreshReg$(_c, "Component942");
-
-  $parcel$ReactRefreshHelpers$2c98.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Component942.css":"4yaUG","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"4yaUG":[function() {},{}],"2W1Xq":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$528e = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$528e.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _group9 = require("../Group9");
-var _group9Default = parcelHelpers.interopDefault(_group9);
-var _group20Css = require("./Group20.css");
-function Group20(props) {
-    const { className  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: `group-20-7 ${className || ""}`,
-        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_group9Default.default, {}, void 0, false, {
-            fileName: "components/Group20/index.jsx",
-            lineNumber: 10,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
-        fileName: "components/Group20/index.jsx",
-        lineNumber: 9,
-        columnNumber: 5
-    }, this);
-}
-_c = Group20;
-exports.default = Group20;
-var _c;
-$RefreshReg$(_c, "Group20");
-
-  $parcel$ReactRefreshHelpers$528e.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../Group9":"7skSq","./Group20.css":"7FRto","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7skSq":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$5541 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$5541.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _group9Css = require("./Group9.css");
-function Group9() {
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "group-9-9",
-        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-            className: "rectangle-9 border-1px-orange"
-        }, void 0, false, {
-            fileName: "components/Group9/index.jsx",
-            lineNumber: 7,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
-        fileName: "components/Group9/index.jsx",
-        lineNumber: 6,
-        columnNumber: 5
-    }, this);
-}
-_c = Group9;
-exports.default = Group9;
-var _c;
-$RefreshReg$(_c, "Group9");
-
-  $parcel$ReactRefreshHelpers$5541.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Group9.css":"lAlJh","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"lAlJh":[function() {},{}],"7FRto":[function() {},{}],"jB0pI":[function() {},{}],"4sHUs":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$b4f1 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$b4f1.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _reactRouterDom = require("react-router-dom");
-var _component942 = require("../Component942");
-var _component942Default = parcelHelpers.interopDefault(_component942);
-var _yoolBi4Css = require("./YoolBi4.css");
-function YoolBi4(props) {
-    const { iconSearch , aSoupShop1 , aSoupShop2 , vector2 , group , my , noResult , filter , filterAlt , vector3 , component942Props ,  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "container-center-horizontal",
-        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-            className: "yool-bi-1 screen",
-            children: [
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-117",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi-pilteo-gyeolgwa-eobseul-ddae",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                className: "vector-207",
-                                src: "/img/vector-30@2x.png"
-                            }, void 0, false, {
-                                fileName: "components/YoolBi4/index.jsx",
-                                lineNumber: 26,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi4/index.jsx",
-                            lineNumber: 25,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group5-38",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "icon-search-5",
-                                    src: iconSearch
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 29,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "a-soup-shop-container-1 arial",
-                                    children: [
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "a-soup-shop-57",
-                                            children: aSoupShop1
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi4/index.jsx",
-                                            lineNumber: 31,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "a-soup-shop-57",
-                                            children: aSoupShop2
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi4/index.jsx",
-                                            lineNumber: 32,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 30,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "vector-208",
-                                    src: vector2
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 34,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi4/index.jsx",
-                            lineNumber: 28,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "flex-col-72",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/completed-preorder-home",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                        className: "group-71",
-                                        src: group
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi4/index.jsx",
-                                        lineNumber: 38,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 37,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "my-4 inter-normal-flamingo-12px",
-                                    children: my
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 40,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi4/index.jsx",
-                            lineNumber: 36,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi4/index.jsx",
-                    lineNumber: 24,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-118",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "flex-col-73",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component942Default.default, {
-                                    iconStar: component942Props.iconStar,
-                                    className: component942Props.className
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 45,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "no-result inter-bold-mist-gray-20px",
-                                    children: noResult
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 46,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi4/index.jsx",
-                            lineNumber: 44,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group4-46",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/yool-bi",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                        className: "rectangle-35-3"
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi4/index.jsx",
-                                        lineNumber: 50,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 49,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "filter-2 inter-normal-white-16px",
-                                    children: filter
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 52,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "filter-alt-2",
-                                    src: filterAlt
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 53,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "vector-209",
-                                    src: vector3
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi4/index.jsx",
-                                    lineNumber: 54,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi4/index.jsx",
-                            lineNumber: 48,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi4/index.jsx",
-                    lineNumber: 43,
-                    columnNumber: 9
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "components/YoolBi4/index.jsx",
-            lineNumber: 23,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
-        fileName: "components/YoolBi4/index.jsx",
-        lineNumber: 22,
-        columnNumber: 5
-    }, this);
-}
-_c = YoolBi4;
-exports.default = YoolBi4;
-var _c;
-$RefreshReg$(_c, "YoolBi4");
-
-  $parcel$ReactRefreshHelpers$b4f1.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component942":"lmYS1","./YoolBi4.css":"iUDPC","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"iUDPC":[function() {},{}],"OpPxF":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Bubble5.css":"kdlXK","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"kdlXK":[function() {},{}],"HKy2m":[function() {},{}],"OpPxF":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$9f97 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -66037,541 +63684,7 @@ $RefreshReg$(_c, "Component132");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Component132.css":"iEDhM","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"iEDhM":[function() {},{}],"2Jkwj":[function() {},{}],"bIUiW":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$a67b = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$a67b.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _reactRouterDom = require("react-router-dom");
-var _component942 = require("../Component942");
-var _component942Default = parcelHelpers.interopDefault(_component942);
-var _component165 = require("../Component165");
-var _component165Default = parcelHelpers.interopDefault(_component165);
-var _group11 = require("../Group11");
-var _group11Default = parcelHelpers.interopDefault(_group11);
-var _group9 = require("../Group9");
-var _group9Default = parcelHelpers.interopDefault(_group9);
-var _group20 = require("../Group20");
-var _group20Default = parcelHelpers.interopDefault(_group20);
-var _yoolBi1Css = require("./YoolBi1.css");
-function YoolBi1(props) {
-    const { aSoupShop1 , iconSearch , my , vector2 , aSoupShop2 , vector3 , filter , filterAlt , vector4 , group , detailedFilter , iconClose , line19 , numberOfPeople , outline_Remove_Black_24Dp1 , number , distance , lessThan100M , arrowDropDown1 , line23 , waiting , noWaiting , arrowDropDown2 , line24 , line22 , reset , apply , component942Props , component165Props , group11Props , group20Props ,  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "container-center-horizontal",
-        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-            className: "yool-bi-sangsepilteo-1 screen",
-            children: [
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group7-37",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component942Default.default, {
-                            iconStar: component942Props.iconStar,
-                            className: component942Props.className
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 49,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-15-9"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 50,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "a-soup-shop-58 arial",
-                            children: aSoupShop1
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 51,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-210",
-                            src: "/img/vector-34@2x.png"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 52,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "icon-search-6",
-                            src: iconSearch
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 53,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "my-5 inter-normal-flamingo-12px",
-                            children: my
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 54,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-211",
-                            src: vector2
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 55,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "a-soup-shop-58 arial",
-                            children: aSoupShop2
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 56,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component165Default.default, {
-                            image3: component165Props.image3,
-                            aSoupShop: component165Props.aSoupShop,
-                            spanText3: component165Props.spanText3,
-                            star1: component165Props.star1,
-                            className: component165Props.className
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 57,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-212",
-                            src: vector3
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 64,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-35-4"
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 65,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "filter-3 inter-normal-white-16px",
-                            children: filter
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 66,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "filter-alt-3",
-                            src: filterAlt
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 67,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-213",
-                            src: vector4
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 68,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/completed-preorder-home",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                className: "group-72",
-                                src: group
-                            }, void 0, false, {
-                                fileName: "components/YoolBi1/index.jsx",
-                                lineNumber: 70,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 69,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi-sangsepilteo",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                className: "rectangle-43-1"
-                            }, void 0, false, {
-                                fileName: "components/YoolBi1/index.jsx",
-                                lineNumber: 73,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 72,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi1/index.jsx",
-                    lineNumber: 48,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-124",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "detailed-filter-1 inter-semi-bold-black-20px",
-                            children: detailedFilter
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 77,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi-sangsepilteo",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                className: "icon-close-6",
-                                src: iconClose
-                            }, void 0, false, {
-                                fileName: "components/YoolBi1/index.jsx",
-                                lineNumber: 79,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 78,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi1/index.jsx",
-                    lineNumber: 76,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                    className: "line-19-19",
-                    src: line19
-                }, void 0, false, {
-                    fileName: "components/YoolBi1/index.jsx",
-                    lineNumber: 82,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-125",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "number-of-people-1 inter-semi-bold-black-20px",
-                            children: numberOfPeople
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 84,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group10-12",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "group-13-10",
-                                    children: [
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                            to: "/yool-bi",
-                                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                                className: "group-7-24",
-                                                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                                    className: "outline_remove_black_24dp-1-2",
-                                                    src: outline_Remove_Black_24Dp1
-                                                }, void 0, false, {
-                                                    fileName: "components/YoolBi1/index.jsx",
-                                                    lineNumber: 89,
-                                                    columnNumber: 19
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "components/YoolBi1/index.jsx",
-                                                lineNumber: 88,
-                                                columnNumber: 17
-                                            }, this)
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi1/index.jsx",
-                                            lineNumber: 87,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "group-10-10"
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi1/index.jsx",
-                                            lineNumber: 92,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_group11Default.default, {
-                                            src: group11Props.src,
-                                            className: group11Props.className
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi1/index.jsx",
-                                            lineNumber: 93,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 86,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "number-50 inter-bold-black-15px",
-                                    children: number
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 95,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 85,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi1/index.jsx",
-                    lineNumber: 83,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-126",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "distance-19 inter-semi-bold-black-23px",
-                            children: distance
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 99,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group8-28",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "overlap-group6-37",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                        to: "/yool-bi-sangsepilteo-distance",
-                                        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "group-20-8",
-                                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_group9Default.default, {}, void 0, false, {
-                                                fileName: "components/YoolBi1/index.jsx",
-                                                lineNumber: 104,
-                                                columnNumber: 19
-                                            }, this)
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi1/index.jsx",
-                                            lineNumber: 103,
-                                            columnNumber: 17
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi1/index.jsx",
-                                        lineNumber: 102,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 101,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "less-than-100-m-1 inter-bold-black-15px",
-                                    children: lessThan100M
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 108,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "arrow-drop-down-11",
-                                    src: arrowDropDown1
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 109,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "line-2-19",
-                                    src: line23
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 110,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 100,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi1/index.jsx",
-                    lineNumber: 98,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-127",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "waiting-8 inter-semi-bold-black-23px",
-                            children: waiting
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 114,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group9-22",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_group20Default.default, {
-                                    className: group20Props.className
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 116,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "no-waiting-1 inter-bold-black-15px",
-                                    children: noWaiting
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 117,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "arrow-drop-down-12",
-                                    src: arrowDropDown2
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 118,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "line-2-19",
-                                    src: line24
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 119,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 115,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi1/index.jsx",
-                    lineNumber: 113,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                    className: "line-22-1",
-                    src: line22
-                }, void 0, false, {
-                    fileName: "components/YoolBi1/index.jsx",
-                    lineNumber: 122,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "group-19-7",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                className: "group-19-8",
-                                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "overlap-group-124 border-1px-orange",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                        className: "reset-6 inter-normal-flamingo-24px",
-                                        children: reset
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi1/index.jsx",
-                                        lineNumber: 127,
-                                        columnNumber: 17
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 126,
-                                    columnNumber: 15
-                                }, this)
-                            }, void 0, false, {
-                                fileName: "components/YoolBi1/index.jsx",
-                                lineNumber: 125,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 124,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group5-40",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/yool-bi-",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                        className: "rectangle-39-12"
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi1/index.jsx",
-                                        lineNumber: 133,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 132,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "apply-1 inter-normal-white-24px",
-                                    children: apply
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi1/index.jsx",
-                                    lineNumber: 135,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi1/index.jsx",
-                            lineNumber: 131,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi1/index.jsx",
-                    lineNumber: 123,
-                    columnNumber: 9
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "components/YoolBi1/index.jsx",
-            lineNumber: 47,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
-        fileName: "components/YoolBi1/index.jsx",
-        lineNumber: 46,
-        columnNumber: 5
-    }, this);
-}
-_c = YoolBi1;
-exports.default = YoolBi1;
-var _c;
-$RefreshReg$(_c, "YoolBi1");
-
-  $parcel$ReactRefreshHelpers$a67b.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component942":"lmYS1","../Component165":"14OVu","../Group11":"cWJS3","../Group9":"7skSq","../Group20":"2W1Xq","./YoolBi1.css":"9rGg6","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"9rGg6":[function() {},{}],"c0NJi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./Component132.css":"iEDhM","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"iEDhM":[function() {},{}],"2Jkwj":[function() {},{}],"c0NJi":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$f61e = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -67017,239 +64130,7 @@ $RefreshReg$(_c, "IPhone1313ProHaEunPark5");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component13":"6ydiB","../Group11":"cWJS3","../Group17":"3vDGc","./IPhone1313ProHaEunPark5.css":"aWBKr","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"aWBKr":[function() {},{}],"2vfYe":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$3cf2 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$3cf2.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _reactRouterDom = require("react-router-dom");
-var _component942 = require("../Component942");
-var _component942Default = parcelHelpers.interopDefault(_component942);
-var _yoolBi5Css = require("./YoolBi5.css");
-function YoolBi5(props) {
-    const { aSoupShop1 , aSoupShop2 , my , noResult , filter , component942Props  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "container-center-horizontal",
-        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-            className: "yool-bi-sigdang-mogrog screen",
-            children: [
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-131",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi-pilteo-gyeolgwa-eobseul-ddae",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                className: "vector-214",
-                                src: "/img/vector-10@2x.svg"
-                            }, void 0, false, {
-                                fileName: "components/YoolBi5/index.jsx",
-                                lineNumber: 14,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBi5/index.jsx",
-                            lineNumber: 13,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group5-42",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "search-31",
-                                    src: "/img/search@2x.svg"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 17,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "a-soup-shop-container-2 arial",
-                                    children: [
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "a-soup-shop-59",
-                                            children: aSoupShop1
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi5/index.jsx",
-                                            lineNumber: 19,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "a-soup-shop-59",
-                                            children: aSoupShop2
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBi5/index.jsx",
-                                            lineNumber: 20,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 18,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "vector-215",
-                                    src: "/img/vector-14@2x.svg"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 22,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi5/index.jsx",
-                            lineNumber: 16,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "flex-col-78",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/completed-preorder-home",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                        className: "group-73",
-                                        src: "/img/group-1@2x.svg"
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi5/index.jsx",
-                                        lineNumber: 26,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 25,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "my-6 inter-normal-flamingo-12px",
-                                    children: my
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 28,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi5/index.jsx",
-                            lineNumber: 24,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi5/index.jsx",
-                    lineNumber: 12,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-132",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "flex-col-79",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component942Default.default, {
-                                    iconStar: component942Props.iconStar,
-                                    className: component942Props.className
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 33,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "no-result-1 inter-bold-mist-gray-20px",
-                                    children: noResult
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 34,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi5/index.jsx",
-                            lineNumber: 32,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group4-49",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/yool-bi",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                        className: "rectangle-35-5"
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBi5/index.jsx",
-                                        lineNumber: 38,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 37,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "filter-4 inter-normal-white-16px",
-                                    children: filter
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 40,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "filter-alt-4",
-                                    src: "/img/filter-alt@2x.svg"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 41,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "vector-216",
-                                    src: "/img/vector-21@2x.svg"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBi5/index.jsx",
-                                    lineNumber: 42,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBi5/index.jsx",
-                            lineNumber: 36,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBi5/index.jsx",
-                    lineNumber: 31,
-                    columnNumber: 9
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "components/YoolBi5/index.jsx",
-            lineNumber: 11,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
-        fileName: "components/YoolBi5/index.jsx",
-        lineNumber: 10,
-        columnNumber: 5
-    }, this);
-}
-_c = YoolBi5;
-exports.default = YoolBi5;
-var _c;
-$RefreshReg$(_c, "YoolBi5");
-
-  $parcel$ReactRefreshHelpers$3cf2.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component942":"lmYS1","./YoolBi5.css":"e178u","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"e178u":[function() {},{}],"gIhNa":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component13":"6ydiB","../Group11":"cWJS3","../Group17":"3vDGc","./IPhone1313ProHaEunPark5.css":"aWBKr","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"aWBKr":[function() {},{}],"gIhNa":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$6a19 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -67666,673 +64547,6 @@ $RefreshReg$(_c, "IPhone1313ProHaEunPark6");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component13":"6ydiB","../Group11":"cWJS3","./IPhone1313ProHaEunPark6.css":"7xarm","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7xarm":[function() {},{}],"iia17":[function(require,module,exports) {
-var $parcel$ReactRefreshHelpers$659e = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
-var prevRefreshReg = window.$RefreshReg$;
-var prevRefreshSig = window.$RefreshSig$;
-$parcel$ReactRefreshHelpers$659e.prelude(module);
-
-try {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _react = require("react");
-var _reactDefault = parcelHelpers.interopDefault(_react);
-var _reactRouterDom = require("react-router-dom");
-var _component942 = require("../Component942");
-var _component942Default = parcelHelpers.interopDefault(_component942);
-var _component165 = require("../Component165");
-var _component165Default = parcelHelpers.interopDefault(_component165);
-var _group11 = require("../Group11");
-var _group11Default = parcelHelpers.interopDefault(_group11);
-var _yoolBiDistanceCss = require("./YoolBiDistance.css");
-function YoolBiDistance(props) {
-    const { aSoupShop1 , my , aSoupShop2 , filter , detailedFilter , numberOfPeople , outline_Remove_Black_24Dp1 , number , distance , lessThan100M1 , lessThan100M2 , lessThan150M , waiting , noWaiting , lessThan100M3 , lessThan250M , lessThan100M4 , lessThan300M , reset , apply , component942Props , component165Props , group11Props ,  } = props;
-    return /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-        className: "container-center-horizontal",
-        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-            className: "yool-bi-sangsepilteo-distance screen",
-            children: [
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group6-39",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component942Default.default, {
-                            iconStar: component942Props.iconStar,
-                            className: component942Props.className
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 39,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-15-10"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 40,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "a-soup-shop-60 arial",
-                            children: aSoupShop1
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 41,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-217",
-                            src: "/img/vector-14@2x.svg"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 42,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "icon-search-7",
-                            src: "/img/search@2x.svg"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 43,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "my-7 inter-normal-flamingo-12px",
-                            children: my
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 44,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-218",
-                            src: "/img/vector-10@2x.svg"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 45,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "a-soup-shop-60 arial",
-                            children: aSoupShop2
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 46,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_component165Default.default, {
-                            image3: component165Props.image3,
-                            aSoupShop: component165Props.aSoupShop,
-                            spanText3: component165Props.spanText3,
-                            star1: component165Props.star1,
-                            className: component165Props.className
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 47,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-219",
-                            src: "/img/vector-20@2x.svg"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 54,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-35-6"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 55,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "filter-5 inter-normal-white-16px",
-                            children: filter
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 56,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "filter-alt-5",
-                            src: "/img/filter-alt@2x.svg"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 57,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "vector-220",
-                            src: "/img/vector-21@2x.svg"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 58,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/completed-preorder-home",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                className: "group-75",
-                                src: "/img/group-7@2x.svg"
-                            }, void 0, false, {
-                                fileName: "components/YoolBiDistance/index.jsx",
-                                lineNumber: 60,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 59,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi-sangsepilteo",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                className: "rectangle-43-2"
-                            }, void 0, false, {
-                                fileName: "components/YoolBiDistance/index.jsx",
-                                lineNumber: 63,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 62,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBiDistance/index.jsx",
-                    lineNumber: 38,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-137",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "detailed-filter-2 inter-semi-bold-black-20px",
-                            children: detailedFilter
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 67,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi-sangsepilteo",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                className: "icon-close-7",
-                                src: "/img/close@2x.svg"
-                            }, void 0, false, {
-                                fileName: "components/YoolBiDistance/index.jsx",
-                                lineNumber: 69,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 68,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBiDistance/index.jsx",
-                    lineNumber: 66,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                    className: "line-19-20",
-                    src: "/img/line-19@2x.svg"
-                }, void 0, false, {
-                    fileName: "components/YoolBiDistance/index.jsx",
-                    lineNumber: 72,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-138",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "number-of-people-2 inter-semi-bold-black-20px",
-                            children: numberOfPeople
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 74,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group11-7",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "group-13-13",
-                                    children: [
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                            to: "/yool-bi",
-                                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                                className: "group-7-25",
-                                                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                                    className: "outline_remove_black_24dp-1-3",
-                                                    src: outline_Remove_Black_24Dp1
-                                                }, void 0, false, {
-                                                    fileName: "components/YoolBiDistance/index.jsx",
-                                                    lineNumber: 79,
-                                                    columnNumber: 19
-                                                }, this)
-                                            }, void 0, false, {
-                                                fileName: "components/YoolBiDistance/index.jsx",
-                                                lineNumber: 78,
-                                                columnNumber: 17
-                                            }, this)
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBiDistance/index.jsx",
-                                            lineNumber: 77,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "group-10-11"
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBiDistance/index.jsx",
-                                            lineNumber: 82,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_group11Default.default, {
-                                            src: group11Props.src,
-                                            className: group11Props.className
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBiDistance/index.jsx",
-                                            lineNumber: 83,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 76,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "number-53 inter-bold-black-15px",
-                                    children: number
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 85,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 75,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBiDistance/index.jsx",
-                    lineNumber: 73,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-139",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "distance-20 inter-semi-bold-black-23px",
-                            children: distance
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 89,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group9-23",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/yool-bi-sangsepilteo-1",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                        className: "group-22-7",
-                                        children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                            className: "rectangle-9-4 border-1px-orange"
-                                        }, void 0, false, {
-                                            fileName: "components/YoolBiDistance/index.jsx",
-                                            lineNumber: 93,
-                                            columnNumber: 17
-                                        }, this)
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBiDistance/index.jsx",
-                                        lineNumber: 92,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 91,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "less-than inter-bold-black-15px",
-                                    children: lessThan100M1
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 96,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "arrow-drop-down-15",
-                                    src: "/img/arrow-drop-down-5@2x.svg"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 97,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "line-2-22",
-                                    src: "/img/line-23@2x.svg"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 98,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 90,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBiDistance/index.jsx",
-                    lineNumber: 88,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group10-13 inter-bold-black-15px",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "group-74"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 102,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-9-2 border-1px-orange"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 103,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "less-than-100-m-2",
-                            children: lessThan100M2
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 104,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "group-74"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 105,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-9-2 border-1px-orange"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 106,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "less-than",
-                            children: lessThan150M
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 107,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBiDistance/index.jsx",
-                    lineNumber: 101,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "flex-row-140",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "waiting-9 inter-semi-bold-black-23px",
-                            children: waiting
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 110,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group7-39 inter-bold-black-15px",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "rectangle-9-2 border-1px-orange"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 112,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "no-waiting-2",
-                                    children: noWaiting
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 113,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "group-74"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 114,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "rectangle-9-2 border-1px-orange"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 115,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "less-than-100-m-3",
-                                    children: lessThan100M3
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 116,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "group-74"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 117,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "rectangle-9-2 border-1px-orange"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 118,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "less-than",
-                                    children: lessThan250M
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 119,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                                    className: "line-2-22",
-                                    src: "/img/line-23@2x.svg"
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 120,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 111,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBiDistance/index.jsx",
-                    lineNumber: 109,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "overlap-group8-29 inter-bold-black-15px",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("img", {
-                            className: "line-22-2",
-                            src: "/img/line-19@2x.svg"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 124,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "group-3-1"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 125,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-9-3 border-1px-orange"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 126,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "less-than-100-m-4",
-                            children: lessThan100M4
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 127,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "group-3-1"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 128,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "rectangle-9-3 border-1px-orange"
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 129,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "less-than-300-m",
-                            children: lessThan300M
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 130,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBiDistance/index.jsx",
-                    lineNumber: 123,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                    className: "group-19-9",
-                    children: [
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                            to: "/yool-bi",
-                            children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                className: "group-19-10",
-                                children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "overlap-group-130 border-1px-orange",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                        className: "reset-7 inter-normal-flamingo-24px",
-                                        children: reset
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBiDistance/index.jsx",
-                                        lineNumber: 136,
-                                        columnNumber: 17
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 135,
-                                    columnNumber: 15
-                                }, this)
-                            }, void 0, false, {
-                                fileName: "components/YoolBiDistance/index.jsx",
-                                lineNumber: 134,
-                                columnNumber: 13
-                            }, this)
-                        }, void 0, false, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 133,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                            className: "overlap-group5-44",
-                            children: [
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV(_reactRouterDom.Link, {
-                                    to: "/yool-bi-",
-                                    children: /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                        className: "rectangle-39-13"
-                                    }, void 0, false, {
-                                        fileName: "components/YoolBiDistance/index.jsx",
-                                        lineNumber: 142,
-                                        columnNumber: 15
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 141,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ _jsxDevRuntime.jsxDEV("div", {
-                                    className: "apply-2 inter-normal-white-24px",
-                                    children: apply
-                                }, void 0, false, {
-                                    fileName: "components/YoolBiDistance/index.jsx",
-                                    lineNumber: 144,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "components/YoolBiDistance/index.jsx",
-                            lineNumber: 140,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "components/YoolBiDistance/index.jsx",
-                    lineNumber: 132,
-                    columnNumber: 9
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "components/YoolBiDistance/index.jsx",
-            lineNumber: 37,
-            columnNumber: 7
-        }, this)
-    }, void 0, false, {
-        fileName: "components/YoolBiDistance/index.jsx",
-        lineNumber: 36,
-        columnNumber: 5
-    }, this);
-}
-_c = YoolBiDistance;
-exports.default = YoolBiDistance;
-var _c;
-$RefreshReg$(_c, "YoolBiDistance");
-
-  $parcel$ReactRefreshHelpers$659e.postlude(module);
-} finally {
-  window.$RefreshReg$ = prevRefreshReg;
-  window.$RefreshSig$ = prevRefreshSig;
-}
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component942":"lmYS1","../Component165":"14OVu","../Group11":"cWJS3","./YoolBiDistance.css":"fxBGp","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"fxBGp":[function() {},{}]},["kn9T2","aPJuQ","bB7Pu"], "bB7Pu", "parcelRequire3745")
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","react-router-dom":"cHIiW","../Component13":"6ydiB","../Group11":"cWJS3","./IPhone1313ProHaEunPark6.css":"7xarm","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7xarm":[function() {},{}]},["kn9T2","aPJuQ","bB7Pu"], "bB7Pu", "parcelRequire3745")
 
 //# sourceMappingURL=index.3d214d75.js.map
