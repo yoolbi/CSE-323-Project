@@ -1,5 +1,9 @@
 # CSE-323-Project
 
+## Link
+https://res-seat.netlify.app/   
+(Please select "Hanam BBQ" for the restaurant)
+
 ## About Members and Roles
 
 #### Suhyun Chun
