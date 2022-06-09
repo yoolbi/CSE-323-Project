@@ -1,0 +1,410 @@
+.hanam-details-info {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  width: 390px;
+}
+
+.overlap-group6-6 {
+  height: 440px;
+  margin-top: -1px;
+  position: relative;
+  width: 390px;
+}
+
+.overlap-group-86 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 316px;
+  left: 0;
+  min-width: 390px;
+  padding: 11.5px 9px;
+  position: absolute;
+  top: 0;
+}
+
+.vector-108 {
+  cursor: pointer;
+  height: 25px;
+  width: 36px;
+}
+
+.search-2 {
+  height: 26px;
+  left: 303px;
+  position: absolute;
+  top: 55px;
+  width: 27px;
+}
+
+.rectangle-38-3 {
+  height: 184px;
+  left: 23px;
+  position: absolute;
+  top: 256px;
+  width: 344px;
+}
+
+.are-going-3 {
+  left: 267px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 395px;
+  width: 91px;
+}
+
+.text-7 {
+  left: 130px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 303px;
+  width: 138px;
+}
+
+.seat-left {
+  left: 197px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 317px;
+  width: 126px;
+}
+
+.line-1-3 {
+  height: 2px;
+  left: 63px;
+  position: absolute;
+  top: 303px;
+  width: 300px;
+}
+
+.hanam-bbq-7 {
+  left: 122px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 264px;
+  width: 168px;
+}
+
+.x180m {
+  left: 52px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 394px;
+  width: 62px;
+}
+
+.line-4-3 {
+  height: 28px;
+  left: 106px;
+  position: absolute;
+  top: 394px;
+  width: 1px;
+}
+
+.line-5-3 {
+  height: 28px;
+  left: 222px;
+  position: absolute;
+  top: 394px;
+  width: 1px;
+}
+
+.text-8 {
+  left: 150px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 395px;
+  width: 68px;
+}
+
+.number-7 {
+  left: 232px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 393px;
+  width: 43px;
+}
+
+.icon-star-47 {
+  height: 29px;
+  left: 116px;
+  position: absolute;
+  top: 392px;
+  width: 30px;
+}
+
+.group-container-7 {
+  height: 354px;
+  margin-left: 16.5px;
+  margin-top: 32px;
+  position: relative;
+  width: 354px;
+}
+
+.overlap-group5-8 {
+  height: 354px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.line-9-2 {
+  height: 44px;
+  left: 155px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.line-13-2 {
+  height: 1px;
+  left: 156px;
+  position: absolute;
+  top: 44px;
+  width: 179px;
+}
+
+.line-14-2 {
+  height: 243px;
+  left: 333px;
+  position: absolute;
+  top: 44px;
+  width: 3px;
+}
+
+.rectangle-101-1 {
+  background-color: var(--bg);
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 202px;
+  width: 332px;
+}
+
+.location-33-3-song-1 {
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 207px;
+  width: 295px;
+}
+
+.group-282 {
+  background-color: var(--orange);
+  border-radius: 35px;
+  cursor: pointer;
+  display: flex;
+  height: 70px;
+  left: 282px;
+  position: absolute;
+  top: 284px;
+  width: 70px;
+}
+
+.kakao-talk_-photo_2022-05-30-21-08-42-1-4 {
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 13px;
+  object-fit: cover;
+  width: 50px;
+}
+
+.line-container-9 {
+  height: 287px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.line-19-3 {
+  height: 44px;
+  left: 80px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.line-12-2 {
+  height: 243px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 1px;
+}
+
+.line-18-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 80px;
+}
+
+.group-19-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  left: 0;
+  min-width: 78px;
+  position: absolute;
+  top: 5px;
+}
+
+.overlap-group1-63 {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 10px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  min-width: 76px;
+  padding: 0 1px;
+}
+
+.menu-3 {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 68px;
+}
+
+.overlap-group2-56 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 10px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 89px;
+  min-width: 61px;
+  padding: 0 3px;
+  position: absolute;
+  top: 5px;
+}
+
+.info-9,
+.map-3 {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 48px;
+}
+
+.group-22-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 33px;
+  left: 272px;
+  min-width: 63px;
+  position: absolute;
+  top: 6px;
+}
+
+.overlap-group3-42 {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 10px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  min-width: 61px;
+  padding: 0 6px;
+}
+
+.group-21-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 34px;
+  left: 166px;
+  min-width: 95px;
+  position: absolute;
+  top: 4px;
+}
+
+.overlap-group4-27 {
+  height: 34px;
+  position: relative;
+  width: 93px;
+}
+
+.rectangle-39-3 {
+  background-color: var(--bg);
+  border-radius: 10px;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.review-4 {
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2px;
+  width: 84px;
+}
+
+.overlap-group9-6 {
+  height: 71px;
+  left: 1px;
+  position: absolute;
+  top: 57px;
+  width: 332px;
+}
+
+.restaurant-information-1 {
+  left: 37px;
+  letter-spacing: 0;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  width: 278px;
+}
+
+.rectangle-99-1 {
+  background-color: var(--bg);
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 332px;
+}
+
+.open-1000-2200 {
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 41px;
+  width: 247px;
+}
+
+.overlap-group8-4 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  display: flex;
+  height: 50px;
+  left: 1px;
+  min-width: 332px;
+  padding: 12px 19px;
+  position: absolute;
+  top: 140px;
+}
+
+.call-032-123-1234 {
+  letter-spacing: 0;
+  min-height: 24px;
+  width: 200px;
+}
+
+.span2-1 {
+  text-decoration: underline;
+}
+

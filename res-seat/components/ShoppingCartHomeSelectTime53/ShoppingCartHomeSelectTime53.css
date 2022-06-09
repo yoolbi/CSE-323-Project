@@ -1,0 +1,281 @@
+.shopping-carthomeselecttime52 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  padding: 29px 0;
+  width: 390px;
+}
+
+.flex-col-268 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 5.0px;
+  margin-top: 14px;
+  min-height: 564px;
+  position: relative;
+  width: 395px;
+}
+
+.group-54-3 {
+  cursor: pointer;
+  display: flex;
+  margin-left: 14.0px;
+  width: 127px;
+}
+
+.arrow-back-6 {
+  height: 35px;
+  width: 35px;
+}
+
+.menu-18 {
+  height: 31px;
+  letter-spacing: 0;
+  margin-left: 7px;
+  margin-top: 1px;
+  width: 83px;
+}
+
+.line-1-58 {
+  height: 2px;
+  margin-left: 5.0px;
+  margin-top: 7px;
+  width: 300px;
+}
+
+.shopping-cart-7 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 12.0px;
+  margin-top: 12px;
+  min-height: 40px;
+  width: 213px;
+}
+
+.line-2-64 {
+  align-self: flex-end;
+  height: 2px;
+  margin-top: 28px;
+  width: 300px;
+}
+
+.group-12-12 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 20.0px;
+  margin-top: 24px;
+  min-width: 173px;
+}
+
+.group-11-36 {
+  align-items: center;
+  background-color: var(--bg);
+  border-radius: 30px;
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  min-width: 30px;
+  padding: 0 4.5px;
+}
+
+.outline-101 {
+  height: 21px;
+  object-fit: cover;
+  width: 21px;
+}
+
+.add-more-menu-6 {
+  letter-spacing: 0;
+  margin-left: 6px;
+  min-height: 30px;
+  width: 135px;
+}
+
+.flex-row-226 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 44px;
+  margin-right: 0;
+  margin-top: 222px;
+  min-width: 264px;
+}
+
+.total-5 {
+  letter-spacing: 0;
+  min-height: 44px;
+  width: 75px;
+}
+
+.x15200-won-72 {
+  letter-spacing: 0;
+  margin-left: 21px;
+  min-height: 44px;
+  width: 168px;
+}
+
+.line-5-14 {
+  height: 2px;
+  margin-top: 9px;
+  width: 390px;
+}
+
+.flex-row-227 {
+  align-items: center;
+  display: flex;
+  height: 39px;
+  margin-right: 4.0px;
+  margin-top: 24px;
+  min-width: 334px;
+}
+
+.we-are-45 {
+  letter-spacing: 0;
+  min-height: 39px;
+  text-align: center;
+  width: 105px;
+}
+
+.group-13-31 {
+  align-items: center;
+  display: flex;
+  height: 32px;
+  margin-left: 2px;
+  margin-top: 2.97px;
+  min-width: 120px;
+  position: relative;
+}
+
+.group-7-115 {
+  align-items: center;
+  background-color: var(--bg);
+  border-radius: 15px;
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  margin-top: 0.03px;
+  min-width: 30px;
+  padding: 0 4.5px;
+}
+
+.people-45 {
+  letter-spacing: 0;
+  margin-left: 2px;
+  min-height: 39px;
+  text-align: center;
+  width: 105px;
+}
+
+.flex-row-228 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 13.0px;
+  margin-top: 27px;
+  min-width: 361px;
+}
+
+.well-be-in-45 {
+  letter-spacing: 0;
+  min-height: 39px;
+  text-align: center;
+  width: 129px;
+}
+
+.overlap-group3-138 {
+  height: 39px;
+  margin-left: 5px;
+  position: relative;
+  width: 227px;
+}
+
+.overlap-group2-179 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  display: flex;
+  height: 30px;
+  left: 0;
+  min-width: 134px;
+  position: absolute;
+  top: 6px;
+}
+
+.group-14-15 {
+  background-color: var(--bg);
+  height: 30px;
+  margin-left: -1px;
+  margin-top: -1px;
+  width: 107px;
+}
+
+.mins-45 {
+  left: 122px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 105px;
+}
+
+.line-6-51 {
+  height: 30px;
+  left: 106px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.arrow-drop-down-45 {
+  cursor: pointer;
+  height: 15px;
+  left: 113px;
+  position: absolute;
+  top: 14px;
+  width: 15px;
+}
+
+.select-21 {
+  left: 32px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 11px;
+  width: 51px;
+}
+
+.less-than-1-3 {
+  left: 11px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 11px;
+  width: 81px;
+}
+
+.group-28-40 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 29px;
+  min-width: 318px;
+}
+
+.overlap-group-581 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  border-radius: 12px;
+  display: flex;
+  height: 50px;
+  min-width: 316px;
+  padding: 9px 21px;
+}
+
+.complete-pre-order-5 {
+  letter-spacing: 0;
+  min-height: 31px;
+  text-align: center;
+  width: 274px;
+}
+

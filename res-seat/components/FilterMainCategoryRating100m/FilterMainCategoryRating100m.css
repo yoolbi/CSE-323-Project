@@ -1,0 +1,281 @@
+.filter-main-category-rating-100m {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.component-29-43 {
+  height: 78px;
+  margin-top: -2px;
+  width: 390px;
+}
+
+.overlap-group5-152 {
+  height: 766px;
+  margin-left: -7px;
+  margin-top: 2px;
+  position: relative;
+  width: 404px;
+}
+
+.image-1-40 {
+  height: 766px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.ellipse-16-34 {
+  background-color: var(--malibu-2);
+  border-radius: 19px;
+  height: 38px;
+  left: 196px;
+  position: absolute;
+  top: 404px;
+  width: 38px;
+}
+
+.ellipse-17-34 {
+  background-color: var(--persian-red);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 208px;
+  position: absolute;
+  top: 417px;
+  width: 15px;
+}
+
+.polygon-2-34 {
+  height: 6px;
+  left: 212px;
+  position: absolute;
+  top: 412px;
+  width: 6px;
+}
+
+.group-64-33 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 93px;
+  position: absolute;
+  top: 673px;
+  width: 404px;
+}
+
+.group-container-175 {
+  align-items: center;
+  display: flex;
+  margin-left: 22px;
+  min-width: 225px;
+}
+
+.group-62-33 {
+  align-items: flex-end;
+  background-color: var(--orange);
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  min-width: 32px;
+  padding: 3px;
+}
+
+.vector-541 {
+  height: 25px;
+  width: 25px;
+}
+
+.group-63-41 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 108px;
+  margin-top: 1.0px;
+  min-width: 85px;
+}
+
+.overlap-group-976 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 25px;
+  min-width: 83px;
+  padding: 6px 8px;
+}
+
+.vector-542 {
+  align-self: center;
+  height: 11px;
+  width: 18px;
+}
+
+.see-list-34 {
+  letter-spacing: 0;
+  margin-left: 7px;
+  min-height: 12px;
+  width: 40px;
+}
+
+.group-container-176 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 50px;
+  margin-top: 11px;
+  min-width: 404px;
+  padding: 11px 20px;
+  position: relative;
+}
+
+.group-47-100 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 12px;
+  min-width: 87px;
+}
+
+.overlap-group1-568 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  min-width: 85px;
+  padding: 4px 5px;
+}
+
+.category-140 {
+  letter-spacing: 0;
+  min-height: 16px;
+  min-width: 57px;
+}
+
+.vector-543 {
+  align-self: center;
+  height: 8px;
+  margin-left: 9px;
+  width: 8px;
+}
+
+.group-49-93 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 12px;
+  min-width: 77px;
+}
+
+.overlap-group2-440 {
+  height: 26px;
+  position: relative;
+  width: 77px;
+}
+
+.rectangle-33-11 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.seats-154 {
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 4px;
+}
+
+.overlap-group-977 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 75px;
+  padding: 4px 18px;
+  position: absolute;
+  top: 0;
+}
+
+.seats-155,
+.seats-156,
+.rating-114 {
+  letter-spacing: 0;
+  min-height: 17px;
+}
+
+.group-50-93 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 26px;
+  left: 0;
+  min-width: 77px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group1-569 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  min-width: 75px;
+  padding: 3px 18px;
+}
+
+.group-50-94 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 10px;
+  min-width: 77px;
+}
+
+.overlap-group3-364 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 26px;
+  position: relative;
+  width: 75px;
+}
+
+.rating-113 {
+  left: 16px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 3px;
+}
+
+.overlap-group-978 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: -1px;
+  min-width: 75px;
+  padding: 4px 16px;
+  position: absolute;
+  top: -1px;
+}
+

@@ -1,0 +1,27 @@
+.component-42 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 23.0px;
+  margin-top: 48px;
+  min-width: 303px;
+}
+
+.overlap-group2-264 {
+  height: 86px;
+  position: relative;
+  width: 303px;
+}
+
+.icon-check_mark-4 {
+  cursor: pointer;
+  height: 25px;
+  left: 2px;
+  position: absolute;
+  top: 7px;
+  width: 27px;
+}
+
+.component-42.component-42-9 .icon-check_mark-4 {
+  cursor: unset;
+}
+

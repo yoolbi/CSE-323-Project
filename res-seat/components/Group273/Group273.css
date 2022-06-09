@@ -1,0 +1,38 @@
+.group-279 {
+  background-color: var(--orange);
+  border-radius: 35px;
+  display: flex;
+  height: 70px;
+  left: 282px;
+  position: absolute;
+  top: 82px;
+  width: 70px;
+}
+
+.kakao-talk_-photo_2022-05-30-21-08-42-1 {
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 13px;
+  object-fit: cover;
+  width: 50px;
+}
+
+.group-279.group-278 {
+  left: 278px;
+  top: 187px;
+}
+
+.group-279.group-277 {
+  align-self: flex-end;
+  left: unset;
+  margin-right: 10px;
+  margin-top: 28px;
+  position: unset;
+  top: unset;
+}
+
+.group-279.group-280 {
+  left: 202px;
+  top: 240px;
+}
+

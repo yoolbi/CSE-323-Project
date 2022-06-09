@@ -1,0 +1,108 @@
+.about {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  /* height: 100vh; */
+  min-height: 844px;
+  min-width: 390px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.group-488 {
+  display: flex;
+  margin-left: 6px;
+  margin-top: 13px;
+  width: 367px;
+}
+
+.about-res-seat {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  height: 24px;
+  letter-spacing: 0;
+  margin-top: 3px;
+  width: 156px;
+}
+
+.icon-close-20 {
+  height: 30px;
+  margin-left: 179px;
+  width: 30px;
+  cursor:pointer;
+}
+
+.group-490 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 13px;
+  margin-top: 12px;
+  min-width: 375px;
+}
+
+.overlap-group-331 {
+  height: 738px;
+  position: relative;
+  width: 373px;
+}
+
+.overview-target-use {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 373px;
+}
+
+.group-489 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 15px;
+  min-height: 69px;
+  position: absolute;
+  top: 128px;
+  width: 15px;
+}
+
+.ellipse-19 {
+  background-color: var(--apple);
+  border-radius: 7.5px;
+  height: 11px;
+  width: 11px;
+}
+
+.ellipse-18-13 {
+  background-color: var(--saffron);
+  border-radius: 7.5px;
+
+  margin-top: 3px;
+  height: 11px;
+  width: 11px;
+}
+
+.ellipse-20-18 {
+  background-color: var(--persian-red);
+  border-radius: 7.5px;
+
+  margin-top: 3px;
+  height: 11px;
+  width: 11px;
+}
+
+.ellipse-3-14 {
+  background-color: var(--x796e6e);
+  border-radius: 7.5px;
+
+  margin-top: 3px;
+  height: 11px;
+  width: 11px;
+}

@@ -1,0 +1,256 @@
+.component-21-10-1 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  display: flex;
+  height: 108px;
+  left: 0;
+  min-width: 390px;
+  padding: 11px 11.8px;
+  position: absolute;
+  top: 0;
+}
+
+.image-3-10 {
+  height: 85px;
+  object-fit: cover;
+  width: 81px;
+}
+
+.flex-col-122 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2.0px;
+  margin-left: 13px;
+  min-height: 78px;
+  width: 253px;
+}
+
+.a-soup-shop-59 {
+  letter-spacing: 0;
+  min-height: 24px;
+}
+
+.x35-seats-left-36 {
+  color: transparent;
+  font-weight: 500;
+  margin-top: 3px;
+  min-height: 24px;
+}
+
+.span0-58 {
+  color: var(--persian-red);
+  font-weight: 500;
+}
+
+.span1-143 {
+  letter-spacing: 0;
+}
+
+.overlap-group-468 {
+  height: 24px;
+  margin-top: 3px;
+  position: relative;
+  width: 253px;
+}
+
+.x250m-47-18-are-going-58 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.span1-144 {
+  color: var(--black);
+  font-weight: 500;
+}
+
+.icon-star-296 {
+  height: 22px;
+  left: 70px;
+  position: absolute;
+  top: 2px;
+  width: 23px;
+}
+
+.component-21-10-1.component-21-13 {
+  padding: 14px 11.8px;
+}
+
+.component-21-10-1.component-21-13 .image-3-10,
+.component-21-10-1.component-21-40 .image-3-10 {
+  align-self: center;
+  height: 27px;
+  margin-bottom: 1.0px;
+}
+
+.component-21-10-1.component-21-13 .flex-col-122,
+.component-21-10-1.component-21-25 .flex-col-122,
+.component-21-10-1.component-21-40 .flex-col-122 {
+  align-self: unset;
+  margin-bottom: unset;
+  width: 255px;
+}
+
+.component-21-10-1.component-21-13 .overlap-group-468,
+.component-21-10-1.component-21-25 .overlap-group-468,
+.component-21-10-1.component-21-40 .overlap-group-468 {
+  width: 255px;
+}
+
+.component-21-10-1.component-21-13 .icon-star-296,
+.component-21-10-1.component-21-25 .icon-star-296,
+.component-21-10-1.component-21-40 .icon-star-296 {
+  height: 1px;
+  left: 81px;
+  top: 13px;
+  width: 1px;
+}
+
+.component-21-10-1.component-21-10 .flex-col-122,
+.component-21-10-1.component-21-10 .overlap-group-468,
+.component-21-10-1.component-21-14 .flex-col-122,
+.component-21-10-1.component-21-14 .overlap-group-468,
+.component-21-10-1.component-21-15 .flex-col-122,
+.component-21-10-1.component-21-15 .overlap-group-468,
+.component-21-10-1.component-21-16 .flex-col-122,
+.component-21-10-1.component-21-16 .overlap-group-468,
+.component-21-10-1.component-21-17 .flex-col-122,
+.component-21-10-1.component-21-17 .overlap-group-468,
+.component-21-10-1.component-21-18 .flex-col-122,
+.component-21-10-1.component-21-18 .overlap-group-468,
+.component-21-10-1.component-21-19 .flex-col-122,
+.component-21-10-1.component-21-19 .overlap-group-468,
+.component-21-10-1.component-21-20 .flex-col-122,
+.component-21-10-1.component-21-20 .overlap-group-468,
+.component-21-10-1.component-21-21 .flex-col-122,
+.component-21-10-1.component-21-21 .overlap-group-468,
+.component-21-10-1.component-21-22 .flex-col-122,
+.component-21-10-1.component-21-22 .overlap-group-468,
+.component-21-10-1.component-21-23 .flex-col-122,
+.component-21-10-1.component-21-23 .overlap-group-468,
+.component-21-10-1.component-21-24 .flex-col-122,
+.component-21-10-1.component-21-24 .overlap-group-468,
+.component-21-10-1.component-21-11 .flex-col-122,
+.component-21-10-1.component-21-11 .overlap-group-468,
+.component-21-10-1.component-21-26 .flex-col-122,
+.component-21-10-1.component-21-26 .overlap-group-468,
+.component-21-10-1.component-21-27 .flex-col-122,
+.component-21-10-1.component-21-27 .overlap-group-468,
+.component-21-10-1.component-21-28 .flex-col-122,
+.component-21-10-1.component-21-28 .overlap-group-468,
+.component-21-10-1.component-21-29 .flex-col-122,
+.component-21-10-1.component-21-29 .overlap-group-468,
+.component-21-10-1.component-21-30 .flex-col-122,
+.component-21-10-1.component-21-30 .overlap-group-468,
+.component-21-10-1.component-21-31 .flex-col-122,
+.component-21-10-1.component-21-31 .overlap-group-468,
+.component-21-10-1.component-21-32 .flex-col-122,
+.component-21-10-1.component-21-32 .overlap-group-468,
+.component-21-10-1.component-21-33 .flex-col-122,
+.component-21-10-1.component-21-33 .overlap-group-468,
+.component-21-10-1.component-21-34 .flex-col-122,
+.component-21-10-1.component-21-34 .overlap-group-468,
+.component-21-10-1.component-21-35 .flex-col-122,
+.component-21-10-1.component-21-35 .overlap-group-468,
+.component-21-10-1.component-21-36 .flex-col-122,
+.component-21-10-1.component-21-36 .overlap-group-468,
+.component-21-10-1.component-21-37 .flex-col-122,
+.component-21-10-1.component-21-37 .overlap-group-468,
+.component-21-10-1.component-21-38 .flex-col-122,
+.component-21-10-1.component-21-38 .overlap-group-468,
+.component-21-10-1.component-21-39 .flex-col-122,
+.component-21-10-1.component-21-39 .overlap-group-468,
+.component-21-10-1.component-21-12 .flex-col-122,
+.component-21-10-1.component-21-12 .overlap-group-468,
+.component-21-10-1.component-21-41 .flex-col-122,
+.component-21-10-1.component-21-41 .overlap-group-468,
+.component-21-10-1.component-21-42 .flex-col-122,
+.component-21-10-1.component-21-42 .overlap-group-468,
+.component-21-10-1.component-21-43 .flex-col-122,
+.component-21-10-1.component-21-43 .overlap-group-468,
+.component-21-10-1.component-21-44 .flex-col-122,
+.component-21-10-1.component-21-44 .overlap-group-468 {
+  width: 260px;
+}
+
+.component-21-10-1.component-21-10 .span0-58,
+.component-21-10-1.component-21-14 .span0-58,
+.component-21-10-1.component-21-15 .span0-58,
+.component-21-10-1.component-21-16 .span0-58,
+.component-21-10-1.component-21-17 .span0-58,
+.component-21-10-1.component-21-18 .span0-58,
+.component-21-10-1.component-21-19 .span0-58,
+.component-21-10-1.component-21-20 .span0-58,
+.component-21-10-1.component-21-21 .span0-58,
+.component-21-10-1.component-21-22 .span0-58,
+.component-21-10-1.component-21-23 .span0-58,
+.component-21-10-1.component-21-24 .span0-58,
+.component-21-10-1.component-21-11 .span0-58,
+.component-21-10-1.component-21-26 .span0-58,
+.component-21-10-1.component-21-27 .span0-58,
+.component-21-10-1.component-21-28 .span0-58,
+.component-21-10-1.component-21-29 .span0-58,
+.component-21-10-1.component-21-30 .span0-58,
+.component-21-10-1.component-21-31 .span0-58,
+.component-21-10-1.component-21-32 .span0-58,
+.component-21-10-1.component-21-33 .span0-58,
+.component-21-10-1.component-21-34 .span0-58,
+.component-21-10-1.component-21-35 .span0-58,
+.component-21-10-1.component-21-36 .span0-58,
+.component-21-10-1.component-21-37 .span0-58,
+.component-21-10-1.component-21-38 .span0-58,
+.component-21-10-1.component-21-39 .span0-58,
+.component-21-10-1.component-21-12 .span0-58,
+.component-21-10-1.component-21-41 .span0-58,
+.component-21-10-1.component-21-42 .span0-58,
+.component-21-10-1.component-21-43 .span0-58,
+.component-21-10-1.component-21-44 .span0-58 {
+  color: var(--apple);
+}
+
+.component-21-10-1.component-21-25,
+.component-21-10-1.component-21-40 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  display: flex;
+  height: 108px;
+  left: 0;
+  min-width: 390px;
+  padding: 14px 11.8px;
+  position: absolute;
+  top: 0;
+}
+
+.component-21-10-1.component-21-25 .image-3-10 {
+  align-self: center;
+  height: 26px;
+  margin-bottom: 1.0px;
+}
+
+.component-21-10-1.component-21-43 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  display: flex;
+  height: 108px;
+  left: 5px;
+  min-width: 390px;
+  padding: 11px 11.8px;
+  position: absolute;
+  top: 402px;
+}
+
+.component-21-10-1.component-21-44 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  display: flex;
+  height: 108px;
+  left: 8px;
+  min-width: 390px;
+  padding: 11px 11.8px;
+  position: absolute;
+  top: 445px;
+}
+

@@ -1,0 +1,29 @@
+.component-45 {
+  align-items: flex-start;
+  display: flex;
+  height: 86px;
+  left: 0;
+  min-width: 303px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group1-483 {
+  height: 86px;
+  position: relative;
+  width: 303px;
+}
+
+.icon-check_mark-56 {
+  cursor: pointer;
+  height: 25px;
+  left: 3px;
+  position: absolute;
+  top: 49px;
+  width: 27px;
+}
+
+.component-45.component-45-12 .icon-check_mark-56 {
+  cursor: unset;
+}
+

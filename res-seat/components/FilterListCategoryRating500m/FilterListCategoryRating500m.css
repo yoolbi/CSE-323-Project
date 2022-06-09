@@ -1,0 +1,230 @@
+.filter-list-category-rating-500m {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 844px;
+  min-width: 390px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.component-29-9 {
+  height: 69px;
+  margin-top: -2.5px;
+  width: 390px;
+}
+
+.group-90-11 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 11.5px;
+  min-height: 43px;
+  width: 390px;
+}
+
+.line-container-74 {
+  height: 2px;
+  margin-right: 0;
+  position: relative;
+  width: 390px;
+}
+
+.line-27-20 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.line-29-22 {
+  height: 2px;
+  left: 146px;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.group-51-23 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 5px;
+  min-width: 360px;
+  position: relative;
+}
+
+.group-47-66 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 12px;
+  min-width: 87px;
+}
+
+.overlap-group1-519 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 27px;
+  position: relative;
+  width: 85px;
+}
+
+.category-91 {
+  left: 5px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 3px;
+  width: 57px;
+}
+
+.vector-370 {
+  height: 8px;
+  left: 71px;
+  position: absolute;
+  top: 8px;
+  width: 8px;
+}
+
+.overlap-group-863 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 27px;
+  justify-content: flex-end;
+  left: -1px;
+  min-width: 85px;
+  padding: 4.1px 5px;
+  position: absolute;
+  top: -1px;
+}
+
+.category-92 {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 57px;
+}
+
+.vector-371 {
+  align-self: center;
+  height: 8px;
+  margin-bottom: 0.25px;
+  margin-left: 9px;
+  width: 8px;
+}
+
+.group-49-62 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 12px;
+  min-width: 77px;
+}
+
+.overlap-group2-388 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 27px;
+  min-width: 75px;
+  padding: 4.2px 18px;
+}
+
+.seats-94 {
+  letter-spacing: 0;
+  min-height: 18px;
+  width: 38px;
+}
+
+.group-50-60 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 10px;
+  min-width: 77px;
+}
+
+.overlap-group3-288 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 27px;
+  justify-content: flex-end;
+  min-width: 75px;
+  padding: 4.1px 16px;
+}
+
+.rating-69 {
+  letter-spacing: 0;
+  min-height: 18px;
+  width: 42px;
+}
+
+.line-28-22 {
+  height: 1px;
+  margin-top: 8px;
+  width: 390px;
+}
+
+.group-73-4 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 392px;
+}
+
+.overlap-group5-135 {
+  height: 108px;
+  position: relative;
+  width: 390px;
+}
+
+.image-5-9 {
+  height: 85px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 85px;
+}
+
+.image-6-23 {
+  height: 85px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 86px;
+}
+
+.rectangle-69-8 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 9px;
+  left: 239px;
+  position: absolute;
+  top: 27px;
+  width: 27px;
+}
+
+.meat-39 {
+  left: 244px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 27px;
+}
+
+.vector-372 {
+  cursor: pointer;
+  height: 31px;
+  left: 369px;
+  position: absolute;
+  top: 38px;
+  width: 17px;
+}
+

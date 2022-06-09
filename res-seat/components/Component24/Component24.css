@@ -1,0 +1,54 @@
+.component-24-4,
+.component-24-5,
+.component-24-6,
+.component-24-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  margin-left: 22.0px;
+  margin-top: 24px;
+  min-width: 310px;
+}
+
+.rectangle-48-13,
+.rectangle-48-14,
+.rectangle-48-15,
+.rectangle-48-16 {
+  background-color: var(--bg);
+  cursor: pointer;
+  height: 20px;
+  margin-left: -1px;
+  margin-top: -1px;
+  width: 21px;
+}
+
+.vegetable-1,
+.vegetable-2,
+.vegetable-3,
+.croutons-1 {
+  letter-spacing: 0;
+  margin-left: 14px;
+  margin-top: -1px;
+  min-height: 18px;
+  width: 97px;
+}
+
+.x200-won-2,
+.x200-won-3,
+.x200-won-4,
+.x200-won-5 {
+  color: var(--black);
+  font-weight: 500;
+  margin-left: 68px;
+  margin-top: -1px;
+  min-height: 22px;
+  width: 111px;
+}
+
+.span1-225,
+.span1-226,
+.span1-227,
+.span1-228 {
+  letter-spacing: 0;
+}
+

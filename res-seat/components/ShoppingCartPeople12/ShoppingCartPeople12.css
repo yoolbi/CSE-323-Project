@@ -1,0 +1,53 @@
+.shopping-cartpeople1 {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 844px;
+  min-width: 390px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.group-52-4 {
+  cursor: pointer;
+  height: 35px;
+  margin-right: 280px;
+  margin-top: 43px;
+  width: 35px;
+}
+
+.line-1-10 {
+  height: 2px;
+  margin-left: 0;
+  margin-top: 7px;
+  width: 300px;
+}
+
+.dinner-table-1-1 {
+  height: 210px;
+  margin-left: 94px;
+  margin-top: 58px;
+  object-fit: cover;
+  width: 210px;
+}
+
+.do-you-want-to-reser-1 {
+  height: 138px;
+  letter-spacing: 0;
+  margin-left: 24px;
+  margin-top: 20px;
+  text-align: center;
+  width: 352px;
+}
+
+.line-7-2 {
+  height: 2px;
+  margin-left: 90.0px;
+  margin-top: 46px;
+  width: 300px;
+}
+

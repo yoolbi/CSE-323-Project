@@ -1,0 +1,300 @@
+.filter-main-category-rating-500m {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.component-29-39 {
+  height: 78px;
+  margin-top: -2px;
+  width: 390px;
+}
+
+.overlap-group5-149 {
+  height: 766px;
+  margin-left: -7px;
+  margin-top: 2px;
+  position: relative;
+  width: 404px;
+}
+
+.image-1-37 {
+  height: 766px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.ellipse-16-31 {
+  background-color: var(--malibu-2);
+  border-radius: 19px;
+  height: 38px;
+  left: 196px;
+  position: absolute;
+  top: 404px;
+  width: 38px;
+}
+
+.ellipse-17-31 {
+  background-color: var(--persian-red);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 208px;
+  position: absolute;
+  top: 417px;
+  width: 15px;
+}
+
+.polygon-2-31 {
+  height: 6px;
+  left: 212px;
+  position: absolute;
+  top: 412px;
+  width: 6px;
+}
+
+.group-64-30 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 93px;
+  position: absolute;
+  top: 673px;
+  width: 404px;
+}
+
+.group-container-168 {
+  align-items: center;
+  display: flex;
+  margin-left: 22px;
+  min-width: 225px;
+}
+
+.group-62-30 {
+  align-items: flex-end;
+  background-color: var(--orange);
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  min-width: 32px;
+  padding: 3px;
+}
+
+.vector-523 {
+  height: 25px;
+  width: 25px;
+}
+
+.group-63-38 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 108px;
+  margin-top: 1.0px;
+  min-width: 85px;
+}
+
+.overlap-group-965 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 25px;
+  min-width: 83px;
+  padding: 6px 8px;
+}
+
+.vector-524 {
+  align-self: center;
+  height: 11px;
+  width: 18px;
+}
+
+.see-list-31 {
+  letter-spacing: 0;
+  margin-left: 7px;
+  min-height: 12px;
+  width: 40px;
+}
+
+.group-container-169 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 50px;
+  margin-top: 11px;
+  min-width: 404px;
+  padding: 11px 20px;
+  position: relative;
+}
+
+.group-47-96 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 12px;
+  min-width: 87px;
+}
+
+.overlap-group1-563 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  min-width: 85px;
+  padding: 4px 5px;
+}
+
+.category-136 {
+  letter-spacing: 0;
+  min-height: 16px;
+  min-width: 57px;
+}
+
+.vector-525 {
+  align-self: center;
+  height: 8px;
+  margin-left: 9px;
+  width: 8px;
+}
+
+.group-49-89 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 12px;
+  min-width: 77px;
+}
+
+.overlap-group2-436 {
+  height: 26px;
+  position: relative;
+  width: 77px;
+}
+
+.rectangle-33-10 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.seats-147 {
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 4px;
+}
+
+.overlap-group-966 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 75px;
+  padding: 4px 18px;
+  position: absolute;
+  top: 0;
+}
+
+.seats-148,
+.seats-149,
+.rating-109 {
+  letter-spacing: 0;
+  min-height: 17px;
+}
+
+.group-50-88 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 26px;
+  left: 0;
+  min-width: 77px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group1-564 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  min-width: 75px;
+  padding: 3px 18px;
+}
+
+.group-50-89 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 10px;
+  min-width: 77px;
+}
+
+.overlap-group3-355 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 26px;
+  position: relative;
+  width: 75px;
+}
+
+.rating-108 {
+  left: 16px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 3px;
+}
+
+.overlap-group-967 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: -1px;
+  min-width: 75px;
+  padding: 4px 16px;
+  position: absolute;
+  top: -1px;
+}
+
+.ellipse-1-32 {
+  background-color: var(--apple);
+  border-radius: 7.5px;
+  cursor: pointer;
+  height: 15px;
+  left: 106px;
+  position: absolute;
+  top: 400px;
+  width: 15px;
+}
+
+.hanam-bbq-118 {
+  left: 93px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 414px;
+  width: 57px;
+}
+

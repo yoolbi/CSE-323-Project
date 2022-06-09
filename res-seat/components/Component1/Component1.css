@@ -1,0 +1,110 @@
+.component-1-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 146px;
+  width: 100px;
+}
+
+.image-container-10 {
+  background-color: var(--bg);
+  border-radius: 12px;
+  height: 100px;
+  position: relative;
+  width: 100px;
+}
+
+.image-2-10 {
+  height: 84px;
+  left: 5px;
+  position: absolute;
+  top: 8px;
+  width: 89px;
+}
+
+.image-8-10 {
+  height: 84px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 89px;
+}
+
+.overlap-group-401 {
+  height: 35px;
+  margin-left: -3px;
+  margin-top: 11px;
+  position: relative;
+  width: 103px;
+}
+
+.rectangle-27-26 {
+  background-color: var(--bg);
+  border-radius: 12px;
+  height: 35px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
+
+.pork-belly-11 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 103px;
+}
+
+.component-1-1.component-3-1,
+.component-1-1.component-3-2,
+.component-1-1.component-3-3,
+.component-1-1.component-3-4,
+.component-1-1.component-3-5 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.component-1-1.component-1-6,
+.component-1-1.component,
+.component-1-1.component-1,
+.component-1-1.component-2,
+.component-1-1.component-3,
+.component-1-1.component-4 {
+  margin-left: 13px;
+  margin-top: 2px;
+}
+
+.component-1-1.component-1-8,
+.component-1-1.component-1-9,
+.component-1-1.component-1-10,
+.component-1-1.component-1-11,
+.component-1-1.component-1-12,
+.component-1-1.component-1-13,
+.component-1-1.component-1-14,
+.component-1-1.component-1-15,
+.component-1-1.component-1-16,
+.component-1-1.component-1-17,
+.component-1-1.component-1-20,
+.component-1-1.component-1-21,
+.component-1-1.component-1-22,
+.component-1-1.component-1-23,
+.component-1-1.component-1-24,
+.component-1-1.component-1-26,
+.component-1-1.component-1-28,
+.component-1-1.component-1-29,
+.component-1-1.component-1-30,
+.component-1-1.component-1-31,
+.component-1-1.component-1-32,
+.component-1-1.component-1-34,
+.component-1-1.component-1-35,
+.component-1-1.component-1-36,
+.component-1-1.component-1-37 {
+  left: 13px;
+  position: absolute;
+  top: 2px;
+}
+

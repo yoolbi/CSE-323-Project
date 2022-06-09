@@ -1,0 +1,43 @@
+.group-28 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 38px;
+  margin-top: 45px;
+  min-width: 318px;
+}
+
+.overlap-group-224 {
+  align-items: flex-start;
+  background-color: var(--celeste);
+  border-radius: 12px;
+  display: flex;
+  height: 50px;
+  min-width: 316px;
+  padding: 9px 21px;
+}
+
+.complete-resevation {
+  letter-spacing: 0;
+  min-height: 31px;
+  text-align: center;
+  width: 274px;
+}
+
+.group-28.group-28-2,
+.group-28.group-28-5,
+.group-28.group-28-8,
+.group-28.group-28-10,
+.group-28.group-28-12,
+.group-28.group-28-13,
+.group-28.group-28-14,
+.group-28.group-28-15 {
+  margin-left: 4.0px;
+  margin-top: 37px;
+}
+
+.group-28.group-28-3,
+.group-28.group-28-6 {
+  align-self: center;
+  margin-left: 4.0px;
+}
+

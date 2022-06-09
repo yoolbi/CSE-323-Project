@@ -1,0 +1,345 @@
+.shopping-carthomeselecttime3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  padding: 21px 0;
+  width: 390px;
+}
+
+.flex-col-287 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+  margin-top: 22px;
+  min-height: 564px;
+  width: 400px;
+}
+
+.group-53-4 {
+  cursor: pointer;
+  display: flex;
+  margin-left: 14.0px;
+  width: 127px;
+}
+
+.arrow-back-22 {
+  height: 35px;
+  width: 35px;
+}
+
+.menu-34 {
+  height: 31px;
+  letter-spacing: 0;
+  margin-left: 7px;
+  margin-top: 1px;
+  width: 83px;
+}
+
+.line-1-74 {
+  height: 2px;
+  margin-left: 5.0px;
+  margin-top: 7px;
+  width: 300px;
+}
+
+.shopping-cart-23 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 7.0px;
+  margin-top: 12px;
+  min-height: 40px;
+  width: 213px;
+}
+
+.line-2-93 {
+  align-self: flex-end;
+  height: 2px;
+  margin-right: 5.0px;
+  margin-top: 28px;
+  width: 300px;
+}
+
+.group-187 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 13px;
+  min-height: 421px;
+  opacity: 0.85;
+  position: relative;
+  width: 385px;
+}
+
+.overlap-group3-158 {
+  border-radius: 12px;
+  height: 100px;
+  margin-right: 11.0px;
+  margin-top: 8px;
+  position: relative;
+  width: 350px;
+}
+
+.loaded-baked-potato-soup-recipe-3-4-31 {
+  height: 81px;
+  left: 14px;
+  position: absolute;
+  top: 10px;
+  width: 81px;
+}
+
+.group-115-6 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  margin-top: 124px;
+  min-width: 173px;
+}
+
+.group-11-55 {
+  align-items: center;
+  background-color: var(--bg);
+  border-radius: 30px;
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  min-width: 30px;
+  padding: 0 4.5px;
+}
+
+.outline-117 {
+  height: 21px;
+  object-fit: cover;
+  width: 21px;
+}
+
+.add-more-menu-22 {
+  letter-spacing: 0;
+  margin-left: 6px;
+  min-height: 30px;
+  width: 135px;
+}
+
+.flex-row-285 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 44px;
+  margin-right: 4px;
+  margin-top: 15px;
+  min-width: 264px;
+}
+
+.total-21 {
+  letter-spacing: 0;
+  min-height: 44px;
+  width: 75px;
+}
+
+.x30400-won-6 {
+  letter-spacing: 0;
+  margin-left: 21px;
+  min-height: 44px;
+  width: 168px;
+}
+
+.line-5-30 {
+  height: 2px;
+  margin-top: 2px;
+  width: 390px;
+}
+
+.flex-row-286 {
+  align-items: center;
+  display: flex;
+  height: 39px;
+  margin-right: 4.0px;
+  margin-top: 24px;
+  min-width: 334px;
+}
+
+.we-are-61 {
+  letter-spacing: 0;
+  min-height: 39px;
+  text-align: center;
+  width: 105px;
+}
+
+.group-13-47 {
+  align-items: center;
+  display: flex;
+  height: 32px;
+  margin-left: 2px;
+  margin-top: 2.97px;
+  min-width: 120px;
+  position: relative;
+}
+
+.group-7-131 {
+  align-items: center;
+  background-color: var(--bg);
+  border-radius: 15px;
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  margin-top: 0.03px;
+  min-width: 30px;
+  padding: 0 4.5px;
+}
+
+.group-8-153 {
+  align-items: center;
+  background-color: var(--bg);
+  border-radius: 15px;
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  margin-left: 4px;
+  margin-top: 0.03px;
+  min-width: 30px;
+  padding: 0 4.5px;
+}
+
+.people-61 {
+  letter-spacing: 0;
+  margin-left: 2px;
+  min-height: 39px;
+  text-align: center;
+  width: 105px;
+}
+
+.overlap-group5-100 {
+  height: 126px;
+  margin-left: 13.0px;
+  margin-top: 27px;
+  position: relative;
+  width: 361px;
+}
+
+.overlap-group4-123 {
+  height: 126px;
+  left: 17px;
+  position: absolute;
+  top: 0;
+  width: 344px;
+}
+
+.overlap-group-610 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  border-radius: 12px;
+  display: flex;
+  height: 50px;
+  left: 0;
+  min-width: 316px;
+  padding: 9px 21px;
+  position: absolute;
+  top: 68px;
+}
+
+.complete-pre-order-21 {
+  letter-spacing: 0;
+  min-height: 31px;
+  text-align: center;
+  width: 274px;
+}
+
+.group-11-56 {
+  background-color: var(--bg);
+  height: 30px;
+  left: 117px;
+  position: absolute;
+  top: 6px;
+  width: 134px;
+}
+
+.mins-61 {
+  left: 239px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 105px;
+}
+
+.line-6-67 {
+  height: 30px;
+  left: 224px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.arrow-drop-down-61 {
+  height: 15px;
+  left: 230px;
+  position: absolute;
+  top: 14px;
+  width: 15px;
+}
+
+.select-37 {
+  left: 149px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 11px;
+  width: 51px;
+}
+
+.overlap-group1-323 {
+  height: 120px;
+  left: 117px;
+  position: absolute;
+  top: 6px;
+  width: 107px;
+}
+
+.less-than-1-9 {
+  cursor: pointer;
+  left: 13px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 6px;
+  width: 81px;
+}
+
+.less-than-5-19 {
+  cursor: pointer;
+  left: 13px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 36px;
+  width: 81px;
+}
+
+.less-than-10-25 {
+  cursor: pointer;
+  left: 8px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 66px;
+  width: 90px;
+}
+
+.less-than-15-24 {
+  cursor: pointer;
+  left: 8px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 96px;
+  width: 90px;
+}
+
+.well-be-in-61 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 129px;
+}
+

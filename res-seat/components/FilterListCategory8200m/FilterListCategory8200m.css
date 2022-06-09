@@ -1,0 +1,202 @@
+.filter-list-category-8-200m {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 844px;
+  min-width: 390px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.component-29-6 {
+  height: 69px;
+  margin-top: -2.5px;
+  width: 390px;
+}
+
+.group-87-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 11.5px;
+  min-height: 151px;
+  width: 390px;
+}
+
+.line-27-18 {
+  height: 1px;
+  width: 390px;
+}
+
+.line-29-19 {
+  height: 2px;
+  margin-left: 9.0px;
+  width: 107px;
+}
+
+.group-51-20 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 4px;
+  min-width: 360px;
+  position: relative;
+}
+
+.group-47-63 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 12px;
+  min-width: 87px;
+}
+
+.overlap-group1-515 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 27px;
+  justify-content: flex-end;
+  min-width: 85px;
+  padding: 4.1px 5px;
+}
+
+.category-86 {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 57px;
+}
+
+.vector-345 {
+  align-self: center;
+  height: 8px;
+  margin-bottom: 0.25px;
+  margin-left: 9px;
+  width: 8px;
+}
+
+.group-49-59 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 12px;
+  min-width: 77px;
+}
+
+.overlap-group2-385 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 27px;
+  min-width: 75px;
+  padding: 4.2px 18px;
+}
+
+.seats-90 {
+  letter-spacing: 0;
+  min-height: 18px;
+  width: 38px;
+}
+
+.group-50-57 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 10px;
+  min-width: 77px;
+}
+
+.overlap-group3-285 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 27px;
+  min-width: 75px;
+  padding: 3.1px 16px;
+}
+
+.rating-65 {
+  letter-spacing: 0;
+  min-height: 18px;
+  width: 42px;
+}
+
+.overlap-group5-133 {
+  height: 108px;
+  margin-right: 0;
+  margin-top: 9px;
+  position: relative;
+  width: 390px;
+}
+
+.line-28-20 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.overlap-group4-197 {
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.image-5-6 {
+  height: 85px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 85px;
+}
+
+.image-6-20 {
+  height: 85px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 86px;
+}
+
+.rectangle-69-5 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 9px;
+  left: 239px;
+  position: absolute;
+  top: 27px;
+  width: 27px;
+}
+
+.meat-36 {
+  left: 244px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 27px;
+}
+
+.vector-346 {
+  cursor: pointer;
+  height: 31px;
+  left: 369px;
+  position: absolute;
+  top: 38px;
+  width: 17px;
+}
+
+.rectangle-29-8 {
+  height: 1px;
+  margin-left: 549.8px;
+  margin-top: 59.8px;
+  width: 1px;
+}
+

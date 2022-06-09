@@ -1,0 +1,28 @@
+.frame-2,
+.frame-3,
+.frame-1,
+.frame-2-1,
+.frame-2-2,
+.frame-2-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 25.0px;
+  margin-top: 17px;
+  min-width: 145px;
+}
+
+.overlap-group2-157,
+.overlap-group5-70,
+.overlap-group2-158,
+.overlap-group2-159,
+.overlap-group2-160,
+.overlap-group2-161 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 150px;
+  min-width: 500px;
+  padding: 0 13px;
+  position: relative;
+}
+

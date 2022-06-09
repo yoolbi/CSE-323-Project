@@ -1,0 +1,91 @@
+.completedpreorderhome2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  padding: 21px 0;
+  position: relative;
+  width: 390px;
+}
+
+.flex-row-102 {
+  align-items: center;
+  display: flex;
+  height: 58px;
+  margin-left: -4.25px;
+  margin-top: 13px;
+  min-width: 375px;
+}
+
+.flex-col-97 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 58px;
+  width: 292px;
+}
+
+.my-book-44 {
+  letter-spacing: 0;
+  margin-right: 16.5px;
+  min-height: 40px;
+  width: 227px;
+}
+
+.line-2-21 {
+  height: 3px;
+  margin-top: 15px;
+  width: 292px;
+}
+
+.icon-close-26 {
+  cursor: pointer;
+  height: 30px;
+  margin-bottom: 5.96px;
+  margin-left: 53px;
+  width: 30px;
+}
+
+.group-container-45 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 56px;
+  min-width: 371px;
+}
+
+.group-32-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 182px;
+}
+
+.overlap-group-356 {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 12px;
+  display: flex;
+  height: 40px;
+  min-width: 180px;
+}
+
+.write-review-8,
+.cancel-order-20 {
+  letter-spacing: 0;
+  min-height: 31px;
+  text-align: center;
+  width: 180px;
+}
+
+.group-29-3 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 7px;
+  min-width: 182px;
+}
+

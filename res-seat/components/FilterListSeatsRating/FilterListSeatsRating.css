@@ -1,0 +1,576 @@
+.filter-list-seats-rating {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  padding: 17px 0;
+  position: relative;
+  width: 390px;
+}
+
+.group-234-34 {
+  align-items: flex-start;
+  display: flex;
+  height: 53px;
+  margin-left: 5.0px;
+  min-width: 373px;
+}
+
+.info-container-34 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 51px;
+  width: 35px;
+}
+
+.icon-information-34 {
+  cursor: pointer;
+  height: 35px;
+  width: 35px;
+}
+
+.info-44 {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 2px;
+  min-height: 14px;
+  min-width: 20px;
+}
+
+.overlap-group5-46 {
+  border-radius: 20px;
+  height: 42px;
+  margin-left: 10px;
+  position: relative;
+  width: 272px;
+}
+
+.rectangle-15-34 {
+  background-color: var(--bg);
+  border-radius: 20px;
+  cursor: pointer;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.icon-search-34 {
+  height: 30px;
+  left: 12px;
+  position: absolute;
+  top: 8px;
+  width: 30px;
+}
+
+.flex-col-78 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 7px;
+  min-height: 52px;
+  width: 45px;
+}
+
+.group-53 {
+  cursor: pointer;
+  height: 38px;
+  margin-left: 4px;
+  width: 35px;
+}
+
+.my-book-38 {
+  letter-spacing: 0;
+  min-height: 14px;
+}
+
+.overlap-group12-5 {
+  height: 44px;
+  margin-left: 0;
+  margin-top: 8px;
+  position: relative;
+  width: 390px;
+}
+
+.group-90-8 {
+  display: flex;
+  flex-direction: column;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.line-27-14 {
+  height: 1px;
+  margin-top: -0.5px;
+  width: 390px;
+}
+
+.group-51-15 {
+  align-items: flex-start;
+  display: flex;
+  height: 26.82px;
+  margin-left: 16px;
+  margin-top: 6.8px;
+  min-width: 360px;
+  position: relative;
+}
+
+.group-47-55 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 12px;
+  min-width: 87px;
+}
+
+.overlap-group2-126 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 27px;
+  position: relative;
+  width: 85px;
+}
+
+.category-73 {
+  left: 5px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 3px;
+  width: 57px;
+}
+
+.vector-214 {
+  height: 8px;
+  left: 71px;
+  position: absolute;
+  top: 8px;
+  width: 8px;
+}
+
+.overlap-group-340 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 27px;
+  justify-content: flex-end;
+  left: -1px;
+  min-width: 85px;
+  padding: 4.1px 5px;
+  position: absolute;
+  top: -1px;
+}
+
+.category-72 {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 57px;
+}
+
+.vector-215 {
+  align-self: center;
+  height: 8px;
+  margin-bottom: 0.25px;
+  margin-left: 9px;
+  width: 8px;
+}
+
+.overlap-group1-191 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 27px;
+  left: -1px;
+  min-width: 85px;
+  padding: 3.1px 5px;
+  position: absolute;
+  top: -1px;
+}
+
+.vector-216 {
+  align-self: center;
+  height: 8px;
+  margin-bottom: 2.25px;
+  margin-left: 9px;
+  width: 8px;
+}
+
+.group-49-53 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 12px;
+  min-width: 77px;
+}
+
+.overlap-group3-106 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 27px;
+  position: relative;
+  width: 75px;
+}
+
+.seats-75 {
+  left: 18px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 4px;
+  width: 38px;
+}
+
+.overlap-group1-192 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 27px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 75px;
+}
+
+.overlap-group-341 {
+  align-items: flex-end;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 27px;
+  justify-content: flex-end;
+  left: -1px;
+  min-width: 75px;
+  padding: 4.1px 18px;
+  position: absolute;
+  top: -1px;
+}
+
+.seats-76 {
+  letter-spacing: 0;
+  min-height: 18px;
+  width: 38px;
+}
+
+.group-50-51 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 10px;
+  min-width: 77px;
+}
+
+.overlap-group4-72 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 27px;
+  justify-content: flex-end;
+  min-width: 75px;
+  padding: 4.1px 16px;
+}
+
+.rating-54 {
+  letter-spacing: 0;
+  min-height: 18px;
+  width: 42px;
+}
+
+.line-28-14 {
+  height: 1px;
+  margin-left: 0;
+  margin-top: 8.4px;
+  width: 390px;
+}
+
+.line-29-15 {
+  cursor: pointer;
+  height: 5px;
+  left: 146px;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.group-244-6 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  min-width: 392px;
+}
+
+.overlap-group-338 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  display: flex;
+  height: 108px;
+  justify-content: flex-end;
+  min-width: 390px;
+  padding: 11px 7px;
+}
+
+.image-6-16 {
+  height: 85px;
+  object-fit: cover;
+  width: 86px;
+}
+
+.overlap-group-container-34 {
+  align-self: center;
+  height: 76px;
+  margin-left: 7px;
+  position: relative;
+  width: 279px;
+}
+
+.overlap-group2-125 {
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 279px;
+}
+
+.group-46-11 {
+  align-items: flex-start;
+  display: flex;
+  height: 57px;
+  left: 0;
+  min-width: 279px;
+  position: absolute;
+  top: 19px;
+}
+
+.flex-col-77 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 50px;
+  width: 260px;
+}
+
+.address-49 {
+  letter-spacing: 0;
+  min-height: 24px;
+}
+
+.overlap-group-339 {
+  height: 24px;
+  margin-top: 2px;
+  position: relative;
+  width: 260px;
+}
+
+.icon-star-152 {
+  height: 22px;
+  left: 66px;
+  position: absolute;
+  top: 1px;
+  width: 23px;
+}
+
+.x180m-47-18-are-going-14,
+.hanam-bbq-50,
+.x120m-48-18-are-going-7,
+.uncles-25,
+.x270m-49-5-are-going-8 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.span1-48 {
+  color: var(--black);
+  font-weight: 500;
+}
+
+.vector-213 {
+  cursor: pointer;
+  height: 31px;
+  width: 17px;
+}
+
+.overlap-group1-193 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 11px;
+  justify-content: flex-end;
+  left: 126px;
+  min-width: 29px;
+  padding: 0.2px 4.7px;
+  position: absolute;
+  top: 8px;
+}
+
+.meat-32 {
+  letter-spacing: 0;
+  min-height: 10px;
+  width: 18px;
+}
+
+.group-243-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 10px;
+  min-width: 392px;
+}
+
+.x1-34 {
+  height: 85px;
+  object-fit: cover;
+  width: 85px;
+}
+
+.overlap-group-container-35 {
+  align-self: center;
+  height: 76px;
+  margin-left: 11px;
+  position: relative;
+  width: 279px;
+}
+
+.address-50 {
+  color: transparent;
+  font-weight: 500;
+  min-height: 24px;
+}
+
+.span0-28 {
+  color: var(--saffron);
+  font-weight: 500;
+}
+
+.span-77 {
+  letter-spacing: 0;
+}
+
+.overlap-group1-194 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 11px;
+  justify-content: flex-end;
+  left: 78px;
+  min-width: 32px;
+  padding: 0.2px 4.7px;
+  position: absolute;
+  top: 8px;
+}
+
+.asian-24 {
+  letter-spacing: 0;
+  min-height: 10px;
+  width: 20px;
+}
+
+.group-246-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 10px;
+  min-width: 394px;
+}
+
+.overlap-group9-17 {
+  align-items: center;
+  background-color: var(--bg);
+  display: flex;
+  height: 108px;
+  min-width: 390px;
+  padding: 11px 8px;
+}
+
+.x1-35 {
+  align-self: flex-start;
+  height: 85px;
+  object-fit: cover;
+  width: 85px;
+}
+
+.flex-col-79 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 11px;
+  min-height: 76px;
+  width: 253px;
+}
+
+.flex-row-84 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  min-width: 226px;
+}
+
+.seans-restaurant-26 {
+  letter-spacing: 0;
+  min-height: 24px;
+  min-width: 174px;
+}
+
+.overlap-group1-195 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  height: 12px;
+  justify-content: flex-end;
+  margin-left: 9px;
+  margin-top: 2.0px;
+  min-width: 43px;
+  padding: 0.3px 4.1px;
+}
+
+.western-25 {
+  letter-spacing: 0;
+  min-height: 11px;
+  width: 31px;
+}
+
+.x35-seats-left-8 {
+  color: transparent;
+  font-weight: 500;
+  margin-left: 2px;
+  margin-top: 2px;
+  min-height: 24px;
+}
+
+.span0-29 {
+  color: var(--x796e6e);
+  font-weight: 500;
+}
+
+.span1-49 {
+  color: var(--apple);
+  font-weight: 500;
+}
+
+.overlap-group-342 {
+  height: 24px;
+  margin-top: 2px;
+  position: relative;
+  width: 253px;
+}
+
+.vector-217 {
+  cursor: pointer;
+  height: 31px;
+  margin-bottom: 7.0px;
+  margin-left: 7px;
+  width: 17px;
+}
+

@@ -1,0 +1,56 @@
+.group-59 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  margin-left: 20px;
+  margin-top: 11px;
+  min-width: 82px;
+}
+
+.overlap-group4-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  min-height: 80px;
+  padding: 8.2px 10.8px;
+  width: 80px;
+}
+
+.icon-camera {
+  height: 32px;
+  margin-right: 12.85px;
+  margin-top: 5px;
+  width: 36px;
+}
+
+.photo-05 {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 20px;
+  width: 58px;
+}
+
+.group-59.group-59-2,
+.group-59.group-61,
+.group-59.group-61-1,
+.group-59.group-61-2,
+.group-59.group-61-3,
+.group-59.group-61-4,
+.group-59.group-61-5,
+.group-59.group-61-6,
+.group-59.group-61-7,
+.group-59.group-61-8,
+.group-59.group-61-9,
+.group-59.group-59-3,
+.group-59.group-59-4,
+.group-59.group-61-10,
+.group-59.group-61-11,
+.group-59.group-61-12,
+.group-59.group-61-13,
+.group-59.group-61-14,
+.group-59.group-59-5 {
+  align-self: flex-start;
+}
+

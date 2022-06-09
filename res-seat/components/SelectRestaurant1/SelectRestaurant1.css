@@ -1,0 +1,360 @@
+.select-restaurant-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.flex-row-550 {
+  align-items: flex-start;
+  display: flex;
+  height: 53px;
+  margin-right: 5px;
+  margin-top: 45px;
+  min-width: 364px;
+}
+
+.overlap-group3-446 {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 20px;
+  display: flex;
+  height: 42px;
+  margin-top: 1px;
+  min-width: 309px;
+  padding: 4px 16px;
+}
+
+.search-10 {
+  height: 29px;
+  width: 25px;
+}
+
+.flex-col-466 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 7px;
+  min-height: 53px;
+  width: 48px;
+}
+
+.group-95 {
+  cursor: pointer;
+  height: 38px;
+  margin-left: 3px;
+  width: 35px;
+}
+
+.my-order-22 {
+  letter-spacing: 0;
+  margin-top: 1px;
+  min-height: 14px;
+}
+
+.flex-row-551 {
+  align-items: flex-start;
+  display: flex;
+  height: 744px;
+  margin-right: -160.75px;
+  margin-top: 6px;
+  min-width: 555px;
+}
+
+.overlap-group-container-71 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 744px;
+  width: 402px;
+}
+
+.overlap-group1-644 {
+  height: 416px;
+  margin-left: 4px;
+  position: relative;
+  width: 390px;
+}
+
+.image-1-63 {
+  cursor: pointer;
+  height: 416px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.vector-769 {
+  height: 48px;
+  left: 130px;
+  position: absolute;
+  top: 180px;
+  width: 34px;
+}
+
+.ellipse-1-49 {
+  background-color: var(--apple);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 139px;
+  position: absolute;
+  top: 229px;
+  width: 15px;
+}
+
+.ellipse-2 {
+  background-color: var(--persian-red);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 195px;
+  position: absolute;
+  top: 168px;
+  width: 15px;
+}
+
+.ellipse-3-25 {
+  background-color: var(--x796e6e);
+  border-radius: 7.5px;
+  cursor: pointer;
+  height: 15px;
+  left: 218px;
+  position: absolute;
+  top: 121px;
+  width: 15px;
+}
+
+.ellipse-4 {
+  background-color: var(--saffron);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 192px;
+  position: absolute;
+  top: 230px;
+  width: 15px;
+}
+
+.ellipse-9 {
+  background-color: var(--persian-red);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 43px;
+  position: absolute;
+  top: 386px;
+  width: 15px;
+}
+
+.ellipse-10 {
+  background-color: var(--saffron);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 74px;
+  position: absolute;
+  top: 401px;
+  width: 15px;
+}
+
+.ellipse-5-30 {
+  background-color: var(--saffron);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 43px;
+  position: absolute;
+  top: 176px;
+  width: 15px;
+}
+
+.ellipse-6-16 {
+  background-color: var(--persian-red);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 294px;
+  position: absolute;
+  top: 193px;
+  width: 15px;
+}
+
+.ellipse-7 {
+  background-color: var(--apple);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 313px;
+  position: absolute;
+  top: 213px;
+  width: 15px;
+}
+
+.ellipse-8 {
+  background-color: var(--x796e6e);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 294px;
+  position: absolute;
+  top: 336px;
+  width: 15px;
+}
+
+.overlap-group2-492 {
+  height: 328px;
+  position: relative;
+  width: 402px;
+}
+
+.ellipse-11-4 {
+  background-color: var(--apple);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 184px;
+  position: absolute;
+  top: 87px;
+  width: 15px;
+}
+
+.vector-770 {
+  height: 1px;
+  left: 367px;
+  position: absolute;
+  top: 193px;
+  width: 1px;
+}
+
+.rectangle-68-14 {
+  background-color: var(--white);
+  height: 328px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 402px;
+}
+
+.rectangle-69-23 {
+  background-color: var(--bg);
+  border-radius: 12px;
+  height: 123px;
+  left: 25px;
+  position: absolute;
+  top: 19px;
+  width: 129px;
+}
+
+.vector-771 {
+  cursor: pointer;
+  height: 15px;
+  left: 367px;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+
+.vector-772 {
+  cursor: pointer;
+  height: 52px;
+  left: 357px;
+  position: absolute;
+  top: 118px;
+  width: 31px;
+}
+
+.text-339 {
+  left: 174px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 55px;
+  width: 168px;
+}
+
+.seat-left-24 {
+  left: 255px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 81px;
+  width: 108px;
+}
+
+.rectangle-72-1 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 9px;
+  left: 336px;
+  position: absolute;
+  top: 36px;
+  width: 27px;
+}
+
+.meat-68 {
+  left: 341px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 35px;
+}
+
+.rectangle-70-4 {
+  background-color: var(--mercury);
+  height: 147px;
+  left: 25px;
+  position: absolute;
+  top: 160px;
+  width: 324px;
+}
+
+.x180m-away-2 {
+  left: 42px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 173px;
+  width: 134px;
+}
+
+.rectangle-71-4 {
+  background-color: var(--mercury);
+  height: 40px;
+  left: 334px;
+  position: absolute;
+  top: 170px;
+  width: 13px;
+}
+
+.open-1000-am-close-2 {
+  left: 40px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 205px;
+  width: 292px;
+}
+
+.address-100 {
+  left: 184px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 121px;
+}
+
+.hanam-bbq-149 {
+  cursor: pointer;
+  left: 179px;
+  letter-spacing: 0;
+  position: absolute;
+  text-decoration: underline;
+  top: 18px;
+}
+
+.image-6-47 {
+  height: 123px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 130px;
+}
+
+.rectangle-29-39 {
+  height: 1px;
+  margin-left: 152px;
+  margin-top: 184.75px;
+  width: 1px;
+}
+

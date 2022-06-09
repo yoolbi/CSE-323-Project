@@ -1,0 +1,85 @@
+.group-50-1,
+.group-50-2,
+.group-50-3,
+.group-50-4,
+.group-50-5,
+.group-50-6,
+.group-50-7,
+.group-50-8,
+.group-50-9,
+.group-50-10,
+.group-50-11,
+.group-50-12,
+.group-50-13,
+.group-50-14,
+.group-50-15,
+.group-50-16,
+.group-50-17,
+.group-50-18,
+.group-50-19,
+.group-50-20,
+.group-50-21,
+.group-50-22 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 10px;
+  min-width: 77px;
+}
+
+.overlap-group3-2,
+.overlap-group3-3,
+.overlap-group3-4,
+.overlap-group3-5,
+.overlap-group3-6,
+.overlap-group3-7,
+.overlap-group3-8,
+.overlap-group3-9,
+.overlap-group3-10,
+.overlap-group3-11,
+.overlap-group3-12,
+.overlap-group3-13,
+.overlap-group3-14,
+.overlap-group3-15,
+.overlap-group3-16,
+.overlap-group3-17,
+.overlap-group3-18,
+.overlap-group3-19,
+.overlap-group3-20,
+.overlap-group3-21,
+.overlap-group3-22,
+.overlap-group3-23 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  min-width: 75px;
+  padding: 3px 16px;
+}
+
+.rating-1,
+.rating-2,
+.rating-3,
+.rating-4,
+.rating-5,
+.rating-6,
+.rating-7,
+.rating-8,
+.rating-9,
+.rating-10,
+.rating-11,
+.rating-12,
+.rating-13,
+.rating-14,
+.rating-15,
+.rating-16,
+.rating-17,
+.rating-18,
+.rating-19,
+.rating-20,
+.rating-21,
+.rating-22 {
+  letter-spacing: 0;
+  min-height: 17px;
+}
+

@@ -1,0 +1,997 @@
+:root { 
+  --apple: #418f3a;
+  --apple-2: #408f39;
+  --bg: #fcedda;
+  --black: #000000;
+  --blue-ribbon: #1345f6;
+  --c4c4c4: #c4c4c4;
+  --celeste: #cfcfcf;
+  --dove-gray: #6a6a6a;
+  --flamingo: #ee4e34b2;
+  --flamingo-2: #ee4e34e6;
+  --flamingo-3: #ee4d334a;
+  --fuscous-gray: #555555;
+  --harlequin: #49ff39;
+  --heavy-metal: #2b2b2b;
+  --malibu: #5fc5ff;
+  --malibu-2: #5ec5ff5e;
+  --mercury: #e5e5e5;
+  --mercury-2: #e5e5e599;
+  --mist-gray: #c4c4c4b2;
+  --orange: #ee4e34;
+  --persian-red: #d33329;
+  --saffron: #f3bf37;
+  --silver: #c0bebe;
+  --stack: #8f8f8f;
+  --suva-gray: #888888;
+  --white: #ffffff;
+  --x796e6e: #796e6e;
+ 
+  --font-size-l: 23px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 25px;
+  --font-size-xs: 15px;
+  --font-size-xxs: 14px;
+  --font-size-xxxs: 13px;
+ 
+  --font-family-apple_sd_gothic_neo-regular: "Apple SD Gothic Neo-Regular", Helvetica;
+  --font-family-applesdgothicneob00-regular: "AppleSDGothicNeoB00-Regular", Helvetica;
+  --font-family-applesdgothicneoeb00-regular: "AppleSDGothicNeoEB00-Regular", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-inter-semibold_italic: "Inter-SemiBold Italic", Helvetica;
+  --font-family-inter-thinitalic: "Inter-ThinItalic", Helvetica;
+}
+.arial {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.inter-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-black-23px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-spicy-pink-14px {
+  color: var(--x796e6e);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-extra-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-semi-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-medium-black-8px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.applesdgothicneob00-regular-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-7px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-flamingo-28px {
+  color: var(--flamingo-2);
+  font-family: var(--font-family-inter);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.applesdgothicneob00-regular-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-black-28px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-flamingo-15px {
+  color: var(--orange);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-semi-bold-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semi-bold-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-thinitalic-thin-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter-thinitalic);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 100;
+}
+
+.inter-semi-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-extra-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-thin-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 100;
+}
+
+.inter-thin-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 100;
+}
+
+.inter-normal-spicy-pink-13px {
+  color: var(--x796e6e);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.applesdgothicneob00-regular-normal-flamingo-23px {
+  color: var(--orange);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneo-regular-normal-flamingo-12px {
+  color: var(--orange);
+  font-family: var(--font-family-apple_sd_gothic_neo-regular);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneo-regular-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-apple_sd_gothic_neo-regular);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-heavy-metal-15px {
+  color: var(--heavy-metal);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-light-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.applesdgothicneoeb00-regular-normal-flamingo-25px {
+  color: var(--orange);
+  font-family: var(--font-family-applesdgothicneoeb00-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-flamingo-13px {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-extra-bold-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.applesdgothicneob00-regular-normal-fuscous-gray-13px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-white-23px {
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-spicy-pink-10px {
+  color: var(--x796e6e);
+  font-family: var(--font-family-inter);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-extra-bold-white-40px {
+  font-family: var(--font-family-inter);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-extra-bold-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-extra-bold-black-25px-2 {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 800;
+}
+
+.inter-extra-bold-harlequin-40px {
+  color: var(--harlequin);
+  font-family: var(--font-family-inter);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-normal-white-20px {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-extra-bold-apple-40px {
+  color: var(--apple-2);
+  font-family: var(--font-family-inter);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-light-black-28px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-light-flamingo-28px {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-light-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-extra-bold-persian-red-24px {
+  color: var(--persian-red);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-spicy-pink-16px {
+  color: var(--x796e6e);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-derby-22px {
+  color: var(--bg);
+  font-family: var(--font-family-inter);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.applesdgothicneob00-regular-normal-stack-16px {
+  color: var(--stack);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-thin-black-8px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 100;
+}
+
+.inter-normal-flamingo-14px {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-extra-bold-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-semi-bold-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.applesdgothicneob00-regular-normal-flamingo-25px {
+  color: var(--orange);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-derby-13px {
+  color: var(--bg);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.applesdgothicneob00-regular-normal-flamingo-13px {
+  color: var(--orange);
+  font-family: var(--font-family-applesdgothicneob00-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-apple-20px {
+  color: var(--apple);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-extra-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-thinitalic-thin-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-inter-thinitalic);
+  font-size: var(--font-size-xs);
+  font-style: italic;
+  font-weight: 100;
+}
+
+.inter-extra-bold-saffron-40px {
+  color: var(--saffron);
+  font-family: var(--font-family-inter);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-semi-bold-black-28px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semibolditalic-semi-bold-flamingo-28px {
+  color: var(--orange);
+  font-family: var(--font-family-inter-semibold_italic);
+  font-size: 28px;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.inter-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-light-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-normal-black-27px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-extra-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-semi-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-extra-bold-spicy-pink-40px {
+  color: var(--x796e6e);
+  font-family: var(--font-family-inter);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-extra-bold-apple-24px {
+  color: var(--apple);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-normal-white-16px-2 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-medium-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-extra-bold-white-20px-2 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-normal-persian-red-20px {
+  color: var(--persian-red);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-dove-gray-12px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-inter);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-suva-gray-10px {
+  color: var(--suva-gray);
+  font-family: var(--font-family-inter);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-semi-bold-flamingo-16px {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semi-bold-derby-15px {
+  color: var(--bg);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-normal-flamingo-12px {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-extra-bold-white-48px {
+  font-family: var(--font-family-inter);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-extra-bold-apple-48px {
+  color: var(--apple);
+  font-family: var(--font-family-inter);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-extra-bold-black-48px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-semi-bold-saffron-20px {
+  color: var(--saffron);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-normal-blue-ribbon-14px {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-thin-black-10px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 100;
+}
+
+.inter-thin-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 100;
+}
+
+.inter-extra-bold-persian-red-20px {
+  color: var(--persian-red);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-semi-bold-black-23px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semi-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-extra-bold-apple-20px {
+  color: var(--apple);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-extra-bold-saffron-20px {
+  color: var(--saffron);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-light-saffron-24px {
+  color: var(--saffron);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-semi-bold-flamingo-24px {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semi-bold-flamingo-18px {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-semi-bold-derby-18px {
+  color: var(--bg);
+  font-family: var(--font-family-inter);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.inter-light-flamingo-24px {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.inter-light-black-20px-2 {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 300;
+}
+
+.inter-extra-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-bold-black-28px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-normal-flamingo-24px {
+  color: var(--orange);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-extra-bold-spicy-pink-48px {
+  color: var(--x796e6e);
+  font-family: var(--font-family-inter);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-extra-bold-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.inter-bold-black-8px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-mist-gray-20px {
+  color: var(--c4c4c4);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-1px-c4c4c4 {
+  border: 1px solid var(--c4c4c4);
+}
+
+.border-1px-black {
+  border: 1px solid var(--black);
+}
+
+.border-1px-orange {
+  border: 1px solid var(--orange);
+}
+
+.border-1px-flamingo {
+  border: 1px solid var(--flamingo);
+}
+
+.border-1px-mercury {
+  border: 1px solid var(--mercury);
+}
+
+.border-1px-malibu {
+  border: 1px solid var(--malibu);
+}
+
+.border-2px-white {
+  border: 2px solid var(--white);
+}
+
+.border-1px-silver {
+  border: 1px solid var(--silver);
+}
+
+.border-0-5px-c4c4c4 {
+  border: 0.5px solid var(--c4c4c4);
+}
+
+.border-0-5px-black {
+  border: 0.5px solid var(--black);
+}

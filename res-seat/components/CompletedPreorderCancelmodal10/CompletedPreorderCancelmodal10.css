@@ -1,0 +1,224 @@
+.completedpreordercancelmodal8 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.overlap-group6-65 {
+  height: 864px;
+  margin-left: -4px;
+  margin-top: -1px;
+  position: relative;
+  width: 394px;
+}
+
+.my-order-17 {
+  left: 24px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 35px;
+  width: 227px;
+}
+
+.icon-close-158 {
+  cursor: pointer;
+  height: 30px;
+  left: 345px;
+  position: absolute;
+  top: 46px;
+  width: 30px;
+}
+
+.line-2-142 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 90px;
+  width: 292px;
+}
+
+.line-3-85 {
+  height: 3px;
+  left: 92px;
+  position: absolute;
+  top: 606px;
+  width: 300px;
+}
+
+.free-icon-celebration-1517746-1-33 {
+  height: 204px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 204px;
+}
+
+.successfully-completed-17 {
+  left: 51px;
+  letter-spacing: 0;
+  line-height: 55px;
+  position: absolute;
+  text-align: center;
+  top: 313px;
+  width: 295px;
+}
+
+.rectangle-23-10 {
+  background-color: var(--bg);
+  border-radius: 12px;
+  height: 150px;
+  left: 24px;
+  position: absolute;
+  top: 432px;
+  width: 350px;
+}
+
+.a-soup-shop-1216pm-1 {
+  left: 7px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 449px;
+  width: 384px;
+}
+
+.overlap-group-775 {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 12px;
+  display: flex;
+  height: 40px;
+  left: 204px;
+  min-width: 180px;
+  position: absolute;
+  top: 794px;
+}
+
+.cancel-order-51,
+.write-review-33 {
+  letter-spacing: 0;
+  min-height: 31px;
+  text-align: center;
+  width: 180px;
+}
+
+.overlap-group1-481 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  border-radius: 12px;
+  display: flex;
+  height: 40px;
+  left: 15px;
+  min-width: 180px;
+  position: absolute;
+  top: 794px;
+}
+
+.rectangle-28-9 {
+  background-color: var(--mist-gray);
+  height: 864px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 391px;
+}
+
+.overlap-group5-124 {
+  height: 250px;
+  left: 24px;
+  position: absolute;
+  top: 262px;
+  width: 350px;
+}
+
+.rectangle-26-9 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 220px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.rectangle-24-9 {
+  background-color: var(--bg);
+  border-radius: 10px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 350px;
+}
+
+.rectangle-27-137 {
+  background-color: var(--bg);
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 190px;
+  width: 350px;
+}
+
+.cancel-order-52 {
+  left: 36px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 78px;
+  width: 277px;
+}
+
+.icon-caution-9 {
+  height: 40px;
+  left: 155px;
+  position: absolute;
+  top: 55px;
+  width: 40px;
+}
+
+.rectangle-23-11 {
+  background-color: var(--orange);
+  border-radius: 12px;
+  height: 35px;
+  left: 184px;
+  position: absolute;
+  top: 205px;
+  width: 156px;
+}
+
+.cancel-order-53 {
+  cursor: pointer;
+  left: 187px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 214px;
+  width: 150px;
+}
+
+.rectangle-27-138 {
+  background-color: var(--bg);
+  border-radius: 12px;
+  cursor: pointer;
+  height: 35px;
+  left: 9px;
+  position: absolute;
+  top: 205px;
+  width: 156px;
+}
+
+.back-to-mypage-9 {
+  cursor: pointer;
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 214px;
+  width: 150px;
+}
+

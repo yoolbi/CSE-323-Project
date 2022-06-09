@@ -1,0 +1,100 @@
+.group-318 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 53px;
+  min-height: 29px;
+  position: absolute;
+  top: 159px;
+  width: 59px;
+}
+
+.ellipse-20 {
+  background-color: var(--persian-red);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 15px;
+  margin-left: 10px;
+  width: 15px;
+}
+
+.kyochon {
+  letter-spacing: 0;
+  min-height: 14px;
+  width: 57px;
+}
+
+.group-318.group-323,
+.group-318.group-407,
+.group-318.group-398 {
+  left: 160px;
+  top: 316px;
+}
+
+.group-318.group-323 .ellipse-20,
+.group-318.group-407 .ellipse-20,
+.group-318.group-286 .ellipse-20,
+.group-318.group-310 .ellipse-20,
+.group-318.group-379 .ellipse-20,
+.group-318.group-389 .ellipse-20,
+.group-318.group-368 .ellipse-20,
+.group-318.group-398 .ellipse-20,
+.group-318.group-356 .ellipse-20,
+.group-318.group-296 .ellipse-20,
+.group-318.group-343 .ellipse-20,
+.group-318.group-333 .ellipse-20,
+.group-318.group-303 .ellipse-20 {
+  background-color: var(--apple);
+}
+
+.group-318.group-288,
+.group-318.group-309 {
+  left: 91px;
+  top: 7px;
+}
+
+.group-318.group-286,
+.group-318.group-310 {
+  left: 198px;
+  top: 164px;
+}
+
+.group-318.group-377,
+.group-318.group-385,
+.group-318.group-366,
+.group-318.group-352,
+.group-318.group-338,
+.group-318.group-329 {
+  left: 54px;
+}
+
+.group-318.group-379,
+.group-318.group-389,
+.group-318.group-368,
+.group-318.group-356,
+.group-318.group-343,
+.group-318.group-333 {
+  left: 161px;
+  top: 316px;
+}
+
+.group-318.group-293 {
+  left: 87px;
+  top: 7px;
+}
+
+.group-318.group-296 {
+  left: 194px;
+  top: 164px;
+}
+
+.group-318.group-302 {
+  left: 96px;
+  top: 10px;
+}
+
+.group-318.group-303 {
+  left: 203px;
+  top: 167px;
+}
+

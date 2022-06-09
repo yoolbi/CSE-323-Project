@@ -1,0 +1,63 @@
+.group-252 {
+  background-color: var(--bg);
+  display: flex;
+  flex-direction: column;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.line-6-5 {
+  height: 1px;
+  margin-left: 0;
+  margin-top: 29.5px;
+  width: 107px;
+}
+
+.line-8 {
+  height: 1px;
+  margin-left: 0;
+  margin-top: 29px;
+  width: 107px;
+}
+
+.group-252.group-17-1,
+.group-252.group-17-2,
+.group-252.group-17-3,
+.group-252.group-17-4,
+.group-252.group-17-5,
+.group-252.group-17-6,
+.group-252.group-17-7,
+.group-252.group-17-8,
+.group-252.group-17-9,
+.group-252.group-17-10,
+.group-252.group-17-11,
+.group-252.group-17-12,
+.group-252.group-17-13 {
+  height: 120px;
+}
+
+.group-252.group-17-14 {
+  align-items: flex-start;
+  height: unset;
+  min-height: 120px;
+  padding: 28.5px 0;
+}
+
+.group-252.group-17-14 .line-6-5 {
+  margin-left: -1.0px;
+  margin-top: unset;
+}
+
+.group-252.group-17-14 .line-8 {
+  margin-left: -1.0px;
+}
+
+.group-252.group-17-14 .line-8.variant-1 {
+  height: 1px;
+  margin-top: 29px;
+  width: 107px;
+}
+

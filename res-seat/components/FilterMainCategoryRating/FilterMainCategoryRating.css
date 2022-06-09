@@ -1,0 +1,399 @@
+.filter-main-category-rating {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.group-234-20 {
+  align-items: flex-start;
+  display: flex;
+  height: 53px;
+  margin-left: 5.0px;
+  margin-top: 17px;
+  min-width: 373px;
+}
+
+.info-container-20 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 51px;
+  width: 35px;
+}
+
+.icon-information-20 {
+  cursor: pointer;
+  height: 35px;
+  width: 35px;
+}
+
+.info-30 {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 2px;
+  min-height: 14px;
+  min-width: 20px;
+}
+
+.overlap-group6-24 {
+  border-radius: 20px;
+  height: 42px;
+  margin-left: 10px;
+  position: relative;
+  width: 272px;
+}
+
+.rectangle-15-20 {
+  background-color: var(--bg);
+  border-radius: 20px;
+  cursor: pointer;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.icon-search-20 {
+  height: 30px;
+  left: 12px;
+  position: absolute;
+  top: 8px;
+  width: 30px;
+}
+
+.flex-col-43 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 7px;
+  min-height: 52px;
+  width: 45px;
+}
+
+.group-27 {
+  cursor: pointer;
+  height: 38px;
+  margin-left: 4px;
+  width: 35px;
+}
+
+.my-book-22 {
+  letter-spacing: 0;
+  min-height: 14px;
+}
+
+.overlap-group7-19 {
+  height: 766px;
+  margin-top: 8px;
+  position: relative;
+  width: 404px;
+}
+
+.image-1-14 {
+  height: 766px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.ellipse-16-9 {
+  background-color: var(--malibu-2);
+  border-radius: 19px;
+  height: 38px;
+  left: 196px;
+  position: absolute;
+  top: 404px;
+  width: 38px;
+}
+
+.ellipse-17-9 {
+  background-color: var(--persian-red);
+  border-radius: 7.5px;
+  height: 15px;
+  left: 208px;
+  position: absolute;
+  top: 417px;
+  width: 15px;
+}
+
+.polygon-2-9 {
+  height: 6px;
+  left: 212px;
+  position: absolute;
+  top: 412px;
+  width: 6px;
+}
+
+.group-64-9 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 89px;
+  position: absolute;
+  top: 677px;
+  width: 404px;
+}
+
+.group-63-11 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 5.0px;
+  min-width: 85px;
+}
+
+.overlap-group-268 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 25px;
+  min-width: 83px;
+  padding: 6px 8px;
+}
+
+.vector-167 {
+  align-self: center;
+  height: 11px;
+  width: 18px;
+}
+
+.see-list-9 {
+  letter-spacing: 0;
+  margin-left: 7px;
+  min-height: 12px;
+  width: 40px;
+}
+
+.group-container-33 {
+  background-color: var(--white);
+  height: 50px;
+  margin-top: 14px;
+  position: relative;
+  width: 404px;
+}
+
+.group-52-8 {
+  align-items: center;
+  display: flex;
+  height: 26px;
+  left: 26px;
+  min-width: 354px;
+  position: absolute;
+  top: 11px;
+}
+
+.group-48-18 {
+  align-items: center;
+  display: flex;
+  height: 17px;
+  margin-bottom: 1.0px;
+  min-width: 75px;
+}
+
+.distance-62 {
+  letter-spacing: 0;
+  min-height: 17px;
+  min-width: 58px;
+}
+
+.vector-168 {
+  height: 8px;
+  margin-left: 7px;
+  margin-top: 1.0px;
+  width: 8px;
+}
+
+.group-47-42 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 18px;
+  min-width: 87px;
+}
+
+.overlap-group-269 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  min-width: 85px;
+  padding: 4px 5px;
+}
+
+.category-49 {
+  letter-spacing: 0;
+  min-height: 16px;
+  min-width: 57px;
+}
+
+.vector-169 {
+  align-self: center;
+  height: 8px;
+  margin-left: 9px;
+  width: 8px;
+}
+
+.group-49-38 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 12px;
+  min-width: 77px;
+}
+
+.overlap-group2-90 {
+  height: 26px;
+  position: relative;
+  width: 77px;
+}
+
+.rectangle-33-1 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.seats-49 {
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 4px;
+}
+
+.overlap-group-270 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 75px;
+  padding: 4px 18px;
+  position: absolute;
+  top: 0;
+}
+
+.seats-50,
+.seats-51,
+.rating-40,
+.distance-63 {
+  letter-spacing: 0;
+  min-height: 17px;
+}
+
+.group-50-38 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 26px;
+  left: 0;
+  min-width: 77px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group1-118 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  min-width: 75px;
+  padding: 3px 18px;
+}
+
+.group-50-39 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 10px;
+  min-width: 77px;
+}
+
+.overlap-group3-89 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 26px;
+  position: relative;
+  width: 75px;
+}
+
+.rating-39 {
+  left: 16px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 3px;
+}
+
+.overlap-group-271 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  left: -1px;
+  min-width: 75px;
+  padding: 4px 16px;
+  position: absolute;
+  top: -1px;
+}
+
+.overlap-group4-57 {
+  align-items: flex-start;
+  background-color: var(--orange);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  left: 21px;
+  min-width: 85px;
+  padding: 4px 13px;
+  position: absolute;
+  top: 11px;
+}
+
+.group-351 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 93px;
+  min-height: 29px;
+  position: absolute;
+  top: 400px;
+  width: 59px;
+}
+
+.ellipse-1-12 {
+  background-color: var(--apple);
+  border-radius: 7.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 15px;
+  margin-right: 18.0px;
+  width: 15px;
+}
+
+.hanam-bbq-34 {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  min-height: 14px;
+  width: 57px;
+}
+

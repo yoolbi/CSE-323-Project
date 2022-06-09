@@ -1,0 +1,82 @@
+.menu-detail3-banhmi-both-3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  padding: 42px 0;
+  position: relative;
+  width: 390px;
+}
+
+.flex-row-437 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  height: 39px;
+  margin-left: 6px;
+  margin-top: 3px;
+  min-width: 172px;
+}
+
+.vector-297 {
+  cursor: pointer;
+  height: 25px;
+  margin-top: 2.0px;
+  width: 36px;
+}
+
+.uncles-58 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 18px;
+  min-height: 39px;
+  width: 118px;
+}
+
+.overlap-group3-237 {
+  height: 435px;
+  margin-top: 8px;
+  position: relative;
+  width: 390px;
+}
+
+.image-21-3 {
+  height: 326px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.group-228-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 23.0px;
+  margin-top: 48px;
+  min-width: 303px;
+}
+
+.overlap-group2-373 {
+  height: 86px;
+  position: relative;
+  width: 303px;
+}
+
+.icon-check_mark-81 {
+  cursor: pointer;
+  height: 25px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 27px;
+}
+
+.line-20-33 {
+  height: 2px;
+  margin-left: 0.01px;
+  margin-top: 20px;
+  width: 390px;
+}
+

@@ -1,0 +1,91 @@
+.menu-detail3porkrib3 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  padding: 42px 0;
+  position: relative;
+  width: 390px;
+}
+
+.flex-row-420 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  height: 39px;
+  margin-left: 6px;
+  margin-top: 3px;
+  min-width: 311px;
+}
+
+.vector-281 {
+  cursor: pointer;
+  height: 25px;
+  margin-top: 2.0px;
+  width: 36px;
+}
+
+.hanam-bbq-87 {
+  letter-spacing: 0;
+  margin-left: 18px;
+  min-height: 39px;
+  width: 257px;
+}
+
+.overlap-group3-221 {
+  height: 418px;
+  margin-top: 25px;
+  position: relative;
+  width: 390px;
+}
+
+.loaded-baked-potato-soup-recipe-3-5-3 {
+  height: 302px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.line-20-23 {
+  height: 2px;
+  margin-left: 0.01px;
+  margin-top: 20px;
+  width: 390px;
+}
+
+.group-25-18 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 48px;
+  min-width: 338px;
+}
+
+.overlap-group-768 {
+  background-color: var(--orange);
+  border-radius: 15px;
+  height: 71px;
+  position: relative;
+  width: 334px;
+}
+
+.price-17 {
+  left: 233px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 44px;
+  width: 97px;
+}
+
+.add-to-cart-17 {
+  left: 61px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 13px;
+  width: 200px;
+}
+

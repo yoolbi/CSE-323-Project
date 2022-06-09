@@ -1,0 +1,116 @@
+.component-37 {
+  align-items: flex-start;
+  display: flex;
+  height: 86px;
+  left: 0;
+  min-width: 303px;
+  position: absolute;
+  top: 0;
+}
+
+.flex-col-318 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3px;
+  min-height: 74px;
+  width: 30px;
+}
+
+.rectangle-104 {
+  background-color: var(--orange);
+  border-radius: 5px;
+  height: 30px;
+  width: 30px;
+}
+
+.rectangle-105 {
+  border-radius: 5px;
+  cursor: pointer;
+  height: 30px;
+  margin-top: 14px;
+  width: 30px;
+}
+
+.overlap-group2-243 {
+  height: 86px;
+  margin-left: 29px;
+  margin-top: -1px;
+  position: relative;
+  width: 244px;
+}
+
+.sprite {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 42px;
+  width: 193px;
+}
+
+.coke {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 201px;
+}
+
+.text-32 {
+  left: 175px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.text-33 {
+  left: 175px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 42px;
+  width: 69px;
+}
+
+.component-37.component-37-1 .flex-col-318,
+.component-37.component-37-8 .flex-col-318,
+.component-37.component-37-11 .flex-col-318,
+.component-37.component-37-25 .flex-col-318 {
+  margin-left: -2px;
+  margin-top: 1px;
+  min-height: 76px;
+  width: 34px;
+}
+
+.component-37.component-37-1 .rectangle-104,
+.component-37.component-37-8 .rectangle-104,
+.component-37.component-37-25 .rectangle-104 {
+  height: 34px;
+  width: 34px;
+}
+
+.component-37.component-37-1 .rectangle-105,
+.component-37.component-37-8 .rectangle-105,
+.component-37.component-37-11 .rectangle-105,
+.component-37.component-37-25 .rectangle-105 {
+  margin-left: 2px;
+  margin-top: 12px;
+}
+
+.component-37.component-37-1 .overlap-group2-243,
+.component-37.component-37-8 .overlap-group2-243,
+.component-37.component-37-11 .overlap-group2-243,
+.component-37.component-37-25 .overlap-group2-243 {
+  margin-left: 27px;
+}
+
+.component-37.component-37-11 .rectangle-104 {
+  cursor: pointer;
+  height: 34px;
+  width: 34px;
+}
+
+.component-37.component-37-19 .rectangle-104 {
+  cursor: pointer;
+}
+

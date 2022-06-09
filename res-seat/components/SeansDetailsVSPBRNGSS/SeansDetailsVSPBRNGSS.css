@@ -1,0 +1,273 @@
+.sean-s-details-vsp-brn-gss {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.overlap-group5-116 {
+  height: 431px;
+  margin-right: -2.96px;
+  position: relative;
+  width: 390px;
+}
+
+.x1-40 {
+  height: 317px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.vector-264 {
+  cursor: pointer;
+  height: 25px;
+  left: 6px;
+  position: absolute;
+  top: 11px;
+  width: 36px;
+}
+
+.overlap-group9-25 {
+  align-self: center;
+  height: 285px;
+  margin-right: 0.5px;
+  margin-top: 40px;
+  position: relative;
+  width: 336px;
+}
+
+.overlap-group11-12 {
+  height: 285px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.line-9-12 {
+  height: 44px;
+  left: 80px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.overlap-group10-16 {
+  height: 242px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 336px;
+}
+
+.line-container-40 {
+  height: 241px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.line-12-12 {
+  height: 241px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.line-15-6 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 82px;
+  width: 300px;
+}
+
+.line-16-6 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 164px;
+  width: 300px;
+}
+
+.line-container-41 {
+  height: 241px;
+  left: 81px;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.line-13-12 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.line-14-12 {
+  height: 241px;
+  left: 250px;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.vongole-shrimp-pasta-1 {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 28px;
+  width: 295px;
+}
+
+.beef-rice-noodle-1 {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 110px;
+  width: 295px;
+}
+
+.grill-steak-salad-1 {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 192px;
+  width: 295px;
+}
+
+.overlap-group-720 {
+  align-items: flex-end;
+  background-color: var(--orange);
+  border-radius: 10px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 76px;
+  padding: 0 1px;
+  position: absolute;
+  top: 5px;
+}
+
+.menu-72 {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 68px;
+}
+
+.group-container-118 {
+  align-items: flex-start;
+  display: flex;
+  height: 35px;
+  left: 89px;
+  min-width: 246px;
+  position: absolute;
+  top: 4px;
+}
+
+.group-20-10 {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  min-width: 63px;
+}
+
+.overlap-group1-462 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  border-radius: 10px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  min-width: 61px;
+  padding: 0 3px;
+}
+
+.info-51,
+.map-15 {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 48px;
+}
+
+.group-21-10 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 14px;
+  min-width: 95px;
+}
+
+.overlap-group3-204 {
+  height: 34px;
+  position: relative;
+  width: 93px;
+}
+
+.rectangle-39-15 {
+  background-color: var(--bg);
+  border-radius: 10px;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.review-66 {
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2px;
+  width: 84px;
+}
+
+.group-22-10 {
+  align-items: flex-start;
+  align-self: flex-end;
+  cursor: pointer;
+  display: flex;
+  margin-left: 11px;
+  min-width: 63px;
+}
+
+.overlap-group2-312 {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 10px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  min-width: 61px;
+  padding: 0 6px;
+}
+
+.overlap-group8-23 {
+  border-radius: 29px;
+  height: 58px;
+  margin-right: 19px;
+  margin-top: 5px;
+  position: relative;
+  width: 58px;
+}
+
+.number-204 {
+  left: 38px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+

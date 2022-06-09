@@ -1,0 +1,107 @@
+.component-37-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 86px;
+  left: 0;
+  min-width: 303px;
+  position: absolute;
+  top: 0;
+}
+
+.flex-col-329 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3px;
+  min-height: 74px;
+  width: 30px;
+}
+
+.rectangle-104-1 {
+  border-radius: 5px;
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+}
+
+.rectangle-105-1 {
+  background-color: var(--orange);
+  border-radius: 5px;
+  height: 30px;
+  margin-top: 14px;
+  width: 30px;
+}
+
+.overlap-group2-249 {
+  height: 86px;
+  margin-left: 29px;
+  margin-top: -1px;
+  position: relative;
+  width: 244px;
+}
+
+.sprite-33 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 42px;
+  width: 193px;
+}
+
+.coke-33 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 201px;
+}
+
+.text-34 {
+  left: 175px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.text-35 {
+  left: 175px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 42px;
+  width: 69px;
+}
+
+.component-37-3.component-37-4 .flex-col-329,
+.component-37-3.component-37-5 .flex-col-329,
+.component-37-3.component-37-9 .flex-col-329,
+.component-37-3.component-37-12 .flex-col-329 {
+  margin-left: -1px;
+  margin-top: 2px;
+  min-height: 75px;
+  width: 32px;
+}
+
+.component-37-3.component-37-4 .rectangle-104-1,
+.component-37-3.component-37-5 .rectangle-104-1,
+.component-37-3.component-37-9 .rectangle-104-1,
+.component-37-3.component-37-12 .rectangle-104-1 {
+  height: 32px;
+  width: 32px;
+}
+
+.component-37-3.component-37-4 .rectangle-105-1,
+.component-37-3.component-37-5 .rectangle-105-1,
+.component-37-3.component-37-9 .rectangle-105-1,
+.component-37-3.component-37-12 .rectangle-105-1 {
+  margin-left: 1px;
+  margin-top: 13px;
+}
+
+.component-37-3.component-37-4 .overlap-group2-249,
+.component-37-3.component-37-5 .overlap-group2-249,
+.component-37-3.component-37-9 .overlap-group2-249,
+.component-37-3.component-37-12 .overlap-group2-249 {
+  margin-left: 28px;
+}
+

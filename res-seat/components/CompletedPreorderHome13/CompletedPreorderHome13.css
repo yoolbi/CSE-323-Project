@@ -1,0 +1,147 @@
+.completedpreorderhome11 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  padding: 11px 0;
+  position: relative;
+  width: 390px;
+}
+
+.flex-row-450 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  height: 58px;
+  margin-left: -4.25px;
+  margin-top: 23px;
+  min-width: 375px;
+}
+
+.flex-col-454 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 58px;
+  width: 292px;
+}
+
+.my-order-19 {
+  letter-spacing: 0;
+  margin-right: 16.5px;
+  min-height: 40px;
+  width: 227px;
+}
+
+.line-2-146 {
+  height: 3px;
+  margin-top: 15px;
+  width: 292px;
+}
+
+.icon-close-160 {
+  cursor: pointer;
+  height: 30px;
+  margin-bottom: 5.96px;
+  margin-left: 53px;
+  width: 30px;
+}
+
+.overlap-group5-126 {
+  height: 299px;
+  margin-right: 1.0px;
+  margin-top: 24px;
+  position: relative;
+  width: 295px;
+}
+
+.free-icon-celebration-1517746-1-35 {
+  height: 204px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 204px;
+}
+
+.successfully-completed-19 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 55px;
+  position: absolute;
+  text-align: center;
+  top: 196px;
+  width: 295px;
+}
+
+.overlap-group6-67 {
+  align-items: flex-start;
+  background-color: var(--bg);
+  border-radius: 12px;
+  display: flex;
+  height: 150px;
+  justify-content: flex-end;
+  margin-top: 16px;
+  min-width: 350px;
+  padding: 17px 11px;
+}
+
+.hanam-bbq-1216pm-co-24 {
+  letter-spacing: 0;
+  min-height: 106px;
+  min-width: 327px;
+  text-align: center;
+}
+
+.line-3-87 {
+  align-self: flex-end;
+  height: 3px;
+  margin-right: 2.25px;
+  margin-top: 24px;
+  width: 300px;
+}
+
+.group-container-131 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 18px;
+  min-width: 371px;
+}
+
+.overlap-group4-192 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  border-radius: 12px;
+  display: flex;
+  height: 40px;
+  min-width: 180px;
+}
+
+.write-review-35,
+.cancel-order-57 {
+  letter-spacing: 0;
+  min-height: 31px;
+  text-align: center;
+  width: 180px;
+}
+
+.group-29-13 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 9px;
+  min-width: 182px;
+}
+
+.overlap-group3-252 {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 12px;
+  display: flex;
+  height: 40px;
+  min-width: 180px;
+}
+

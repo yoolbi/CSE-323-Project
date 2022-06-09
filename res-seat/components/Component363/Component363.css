@@ -1,0 +1,123 @@
+.component-37-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 86px;
+  left: 0;
+  min-width: 303px;
+  position: absolute;
+  top: 0;
+}
+
+.flex-col-392 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3px;
+  min-height: 74px;
+  width: 30px;
+}
+
+.rectangle-104-8 {
+  background-color: var(--orange);
+  border-radius: 5px;
+  height: 30px;
+  width: 30px;
+}
+
+.rectangle-105-8 {
+  background-color: var(--orange);
+  border-radius: 5px;
+  height: 30px;
+  margin-top: 14px;
+  width: 30px;
+}
+
+.overlap-group2-326 {
+  height: 86px;
+  margin-left: 29px;
+  margin-top: -1px;
+  position: relative;
+  width: 244px;
+}
+
+.sprite-66 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 42px;
+  width: 193px;
+}
+
+.coke-66 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 201px;
+}
+
+.text-84 {
+  left: 175px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.text-85 {
+  left: 175px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 42px;
+  width: 69px;
+}
+
+.component-37-6.component-37-7 .flex-col-392,
+.component-37-6.component-37-10 .flex-col-392,
+.component-37-6.component-37-15 .flex-col-392,
+.component-37-6.component-37-17 .flex-col-392 {
+  margin-left: -2px;
+  margin-top: 1px;
+  min-height: 76px;
+  width: 34px;
+}
+
+.component-37-6.component-37-7 .rectangle-104-8,
+.component-37-6.component-37-10 .rectangle-104-8,
+.component-37-6.component-37-17 .rectangle-104-8 {
+  height: 34px;
+  width: 34px;
+}
+
+.component-37-6.component-37-7 .rectangle-105-8,
+.component-37-6.component-37-10 .rectangle-105-8,
+.component-37-6.component-37-17 .rectangle-105-8 {
+  margin-left: 2px;
+  margin-top: 12px;
+}
+
+.component-37-6.component-37-7 .overlap-group2-326,
+.component-37-6.component-37-10 .overlap-group2-326,
+.component-37-6.component-37-15 .overlap-group2-326,
+.component-37-6.component-37-17 .overlap-group2-326 {
+  margin-left: 27px;
+}
+
+.component-37-6.component-38-2 .rectangle-104-8,
+.component-37-6.component-38-14 .rectangle-104-8,
+.component-37-6.component-38-15 .rectangle-105-8 {
+  cursor: pointer;
+}
+
+.component-37-6.component-37-15 .rectangle-104-8 {
+  cursor: pointer;
+  height: 34px;
+  width: 34px;
+}
+
+.component-37-6.component-37-15 .rectangle-105-8 {
+  cursor: pointer;
+  margin-left: 2px;
+  margin-top: 12px;
+}
+

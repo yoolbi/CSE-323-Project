@@ -1,0 +1,24 @@
+.group-26-1 {
+  align-items: flex-end;
+  background-color: var(--orange);
+  border-radius: 29px;
+  display: flex;
+  height: 58px;
+  left: 0;
+  min-width: 58px;
+  padding: 8px 9px;
+  position: absolute;
+  top: 0;
+}
+
+.icon-cart {
+  height: 32px;
+  width: 32px;
+}
+
+.group-26-1.group-26-14,
+.group-26-1.group-26-15 {
+  left: 205px;
+  top: 244px;
+}
+

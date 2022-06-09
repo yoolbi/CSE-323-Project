@@ -1,0 +1,31 @@
+.group-49-40,
+.group-49-41,
+.group-49-42,
+.group-49-43 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 12px;
+  min-width: 77px;
+}
+
+.overlap-group1-131,
+.overlap-group2-98,
+.overlap-group2-99,
+.overlap-group2-100 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 15px;
+  display: flex;
+  height: 26px;
+  min-width: 75px;
+  padding: 3px 18px;
+}
+
+.seats-56,
+.seats-57,
+.seats-58,
+.seats-59 {
+  letter-spacing: 0;
+  min-height: 17px;
+}
+

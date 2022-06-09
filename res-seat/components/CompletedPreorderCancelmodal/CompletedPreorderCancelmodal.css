@@ -1,0 +1,177 @@
+.completed-preorder-cancelmodal-7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 844px;
+  overflow: hidden;
+  width: 390px;
+}
+
+.overlap-group4 {
+  height: 864px;
+  margin-left: -4px;
+  margin-top: -20px;
+  position: relative;
+  width: 398px;
+}
+
+.my-book {
+  left: 24px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 54px;
+  width: 227px;
+}
+
+.icon-close {
+  cursor: pointer;
+  height: 30px;
+  left: 345px;
+  position: absolute;
+  top: 65px;
+  width: 30px;
+}
+
+.line-2 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 109px;
+  width: 292px;
+}
+
+.overlap-group {
+  align-items: flex-end;
+  background-color: var(--bg);
+  border-radius: 12px;
+  display: flex;
+  height: 40px;
+  left: 204px;
+  min-width: 180px;
+  position: absolute;
+  top: 803px;
+}
+
+.cancel-order,
+.write-review {
+  letter-spacing: 0;
+  min-height: 31px;
+  text-align: center;
+  width: 180px;
+}
+
+.overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--celeste);
+  border-radius: 12px;
+  display: flex;
+  height: 40px;
+  left: 15px;
+  min-width: 180px;
+  position: absolute;
+  top: 803px;
+}
+
+.rectangle-28 {
+  background-color: var(--mist-gray);
+  height: 864px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 391px;
+}
+
+.overlap-group3 {
+  height: 250px;
+  left: 24px;
+  position: absolute;
+  top: 271px;
+  width: 350px;
+}
+
+.rectangle-26 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 220px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.rectangle-24 {
+  background-color: var(--bg);
+  border-radius: 10px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 350px;
+}
+
+.rectangle-27 {
+  background-color: var(--bg);
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 190px;
+  width: 350px;
+}
+
+.cancel-order-1 {
+  left: 36px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 78px;
+  width: 277px;
+}
+
+.icon-caution {
+  height: 40px;
+  left: 155px;
+  position: absolute;
+  top: 55px;
+  width: 40px;
+}
+
+.rectangle-23 {
+  background-color: var(--orange);
+  border-radius: 12px;
+  height: 35px;
+  left: 184px;
+  position: absolute;
+  top: 205px;
+  width: 156px;
+}
+
+.cancel-order-2 {
+  cursor: pointer;
+  left: 187px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 214px;
+  width: 150px;
+}
+
+.rectangle-27-1 {
+  background-color: var(--bg);
+  border-radius: 12px;
+  cursor: pointer;
+  height: 35px;
+  left: 9px;
+  position: absolute;
+  top: 205px;
+  width: 156px;
+}
+
+.back-to-mypage {
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 214px;
+  width: 150px;
+}
+

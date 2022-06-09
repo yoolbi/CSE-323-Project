@@ -1,0 +1,99 @@
+.shopping-cartpeople15 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  padding: 29px 0;
+  position: relative;
+  width: 390px;
+}
+
+.group-52-12 {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 35px;
+  margin-left: 9px;
+  margin-top: 14px;
+  width: 35px;
+}
+
+.line-1-15 {
+  align-self: flex-start;
+  height: 2px;
+  margin-left: 0;
+  margin-top: 7px;
+  width: 300px;
+}
+
+.dinner-table-1-5 {
+  height: 210px;
+  margin-left: 8.0px;
+  margin-top: 58px;
+  object-fit: cover;
+  width: 210px;
+}
+
+.do-you-want-to-reser-5 {
+  letter-spacing: 0;
+  margin-left: 10.0px;
+  margin-top: 19px;
+  min-height: 138px;
+  text-align: center;
+  width: 352px;
+}
+
+.overlap-group3-91 {
+  align-self: flex-end;
+  height: 161px;
+  margin-right: -9px;
+  margin-top: 55px;
+  position: relative;
+  width: 371px;
+}
+
+.line-7-6 {
+  height: 2px;
+  left: 62px;
+  position: absolute;
+  top: 151px;
+  width: 300px;
+}
+
+.overlap-group2-92 {
+  height: 90px;
+  left: 134px;
+  position: absolute;
+  top: 71px;
+  width: 107px;
+}
+
+.less-than-5-1 {
+  left: 14px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 6px;
+  width: 81px;
+  color: black;
+}
+
+.less-than-10-1 {
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 36px;
+  width: 90px;
+  color: black;
+}
+
+.less-than-15-1 {
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 66px;
+  width: 90px;
+  color: black;
+}
+
+
