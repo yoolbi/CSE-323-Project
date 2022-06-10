@@ -113,7 +113,7 @@ function About(props) {
               &nbsp;&nbsp; - Mid-fidelity prototype + video
             </a>           
             <br />
-            <a href="https://www.youtube.com/watch?v=TnN4BW2Ojx8" target="_blank">
+            <a href="https://youtu.be/TnN4BW2Ojx8" target="_blank">
               &nbsp;&nbsp; - Final presentation video
             </a>
             
